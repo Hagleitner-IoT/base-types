@@ -1,0 +1,1626 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Hsm.BaseTypes
+  name: Hsm.BaseTypes
+  href: api/Hsm.BaseTypes.html
+  commentId: N:Hsm.BaseTypes
+  fullName: Hsm.BaseTypes
+  nameWithType: Hsm.BaseTypes
+- uid: Hsm.BaseTypes.Base36Cipher
+  name: Base36Cipher
+  href: api/Hsm.BaseTypes.Base36Cipher.html
+  commentId: T:Hsm.BaseTypes.Base36Cipher
+  fullName: Hsm.BaseTypes.Base36Cipher
+  nameWithType: Base36Cipher
+- uid: Hsm.BaseTypes.Base36Cipher.#ctor(System.String)
+  name: Base36Cipher(String)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.#ctor(System.String)
+  fullName: Hsm.BaseTypes.Base36Cipher.Base36Cipher(System.String)
+  nameWithType: Base36Cipher.Base36Cipher(String)
+- uid: Hsm.BaseTypes.Base36Cipher.#ctor(System.UInt64)
+  name: Base36Cipher(UInt64)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher__ctor_System_UInt64_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.#ctor(System.UInt64)
+  fullName: Hsm.BaseTypes.Base36Cipher.Base36Cipher(System.UInt64)
+  nameWithType: Base36Cipher.Base36Cipher(UInt64)
+- uid: Hsm.BaseTypes.Base36Cipher.#ctor*
+  name: Base36Cipher
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher__ctor_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Base36Cipher
+  nameWithType: Base36Cipher.Base36Cipher
+- uid: Hsm.BaseTypes.Base36Cipher.Add(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Add(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Add_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Add(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Add(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Add(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.Add*
+  name: Add
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Add_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.Add
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Add
+  nameWithType: Base36Cipher.Add
+- uid: Hsm.BaseTypes.Base36Cipher.CompareTo(Hsm.BaseTypes.Base36Cipher)
+  name: CompareTo(Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_CompareTo_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.CompareTo(Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.CompareTo(Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.CompareTo(Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.CompareTo
+  nameWithType: Base36Cipher.CompareTo
+- uid: Hsm.BaseTypes.Base36Cipher.Divide(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Divide(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Divide_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Divide(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Divide(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Divide(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.Divide*
+  name: Divide
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Divide_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.Divide
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Divide
+  nameWithType: Base36Cipher.Divide
+- uid: Hsm.BaseTypes.Base36Cipher.Equals(Hsm.BaseTypes.Base36Cipher)
+  name: Equals(Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Equals_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Equals(Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Equals(Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Equals(Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Equals(System.Object)
+  fullName: Hsm.BaseTypes.Base36Cipher.Equals(System.Object)
+  nameWithType: Base36Cipher.Equals(Object)
+- uid: Hsm.BaseTypes.Base36Cipher.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Equals_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Equals
+  nameWithType: Base36Cipher.Equals
+- uid: Hsm.BaseTypes.Base36Cipher.FromInt32(System.Int32)
+  name: FromInt32(Int32)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromInt32_System_Int32_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.FromInt32(System.Int32)
+  fullName: Hsm.BaseTypes.Base36Cipher.FromInt32(System.Int32)
+  nameWithType: Base36Cipher.FromInt32(Int32)
+- uid: Hsm.BaseTypes.Base36Cipher.FromInt32*
+  name: FromInt32
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromInt32_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.FromInt32
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.FromInt32
+  nameWithType: Base36Cipher.FromInt32
+- uid: Hsm.BaseTypes.Base36Cipher.FromInt64(System.Int64)
+  name: FromInt64(Int64)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromInt64_System_Int64_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.FromInt64(System.Int64)
+  fullName: Hsm.BaseTypes.Base36Cipher.FromInt64(System.Int64)
+  nameWithType: Base36Cipher.FromInt64(Int64)
+- uid: Hsm.BaseTypes.Base36Cipher.FromInt64*
+  name: FromInt64
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromInt64_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.FromInt64
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.FromInt64
+  nameWithType: Base36Cipher.FromInt64
+- uid: Hsm.BaseTypes.Base36Cipher.FromString(System.String)
+  name: FromString(String)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromString_System_String_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.FromString(System.String)
+  fullName: Hsm.BaseTypes.Base36Cipher.FromString(System.String)
+  nameWithType: Base36Cipher.FromString(String)
+- uid: Hsm.BaseTypes.Base36Cipher.FromString*
+  name: FromString
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromString_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.FromString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.FromString
+  nameWithType: Base36Cipher.FromString
+- uid: Hsm.BaseTypes.Base36Cipher.FromUInt64(System.UInt64)
+  name: FromUInt64(UInt64)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromUInt64_System_UInt64_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.FromUInt64(System.UInt64)
+  fullName: Hsm.BaseTypes.Base36Cipher.FromUInt64(System.UInt64)
+  nameWithType: Base36Cipher.FromUInt64(UInt64)
+- uid: Hsm.BaseTypes.Base36Cipher.FromUInt64*
+  name: FromUInt64
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_FromUInt64_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.FromUInt64
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.FromUInt64
+  nameWithType: Base36Cipher.FromUInt64
+- uid: Hsm.BaseTypes.Base36Cipher.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_GetHashCode
+  commentId: M:Hsm.BaseTypes.Base36Cipher.GetHashCode
+  fullName: Hsm.BaseTypes.Base36Cipher.GetHashCode()
+  nameWithType: Base36Cipher.GetHashCode()
+- uid: Hsm.BaseTypes.Base36Cipher.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.GetHashCode
+  nameWithType: Base36Cipher.GetHashCode
+- uid: Hsm.BaseTypes.Base36Cipher.MaxValue
+  name: MaxValue
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_MaxValue
+  commentId: P:Hsm.BaseTypes.Base36Cipher.MaxValue
+  fullName: Hsm.BaseTypes.Base36Cipher.MaxValue
+  nameWithType: Base36Cipher.MaxValue
+- uid: Hsm.BaseTypes.Base36Cipher.MaxValue*
+  name: MaxValue
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_MaxValue_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.MaxValue
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.MaxValue
+  nameWithType: Base36Cipher.MaxValue
+- uid: Hsm.BaseTypes.Base36Cipher.MinValue
+  name: MinValue
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_MinValue
+  commentId: P:Hsm.BaseTypes.Base36Cipher.MinValue
+  fullName: Hsm.BaseTypes.Base36Cipher.MinValue
+  nameWithType: Base36Cipher.MinValue
+- uid: Hsm.BaseTypes.Base36Cipher.MinValue*
+  name: MinValue
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_MinValue_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.MinValue
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.MinValue
+  nameWithType: Base36Cipher.MinValue
+- uid: Hsm.BaseTypes.Base36Cipher.Multiply(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Multiply(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Multiply_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Multiply(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Multiply(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Multiply(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.Multiply*
+  name: Multiply
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Multiply_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.Multiply
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Multiply
+  nameWithType: Base36Cipher.Multiply
+- uid: Hsm.BaseTypes.Base36Cipher.op_Addition(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Addition(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Addition_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Addition(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Addition(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Addition(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Addition*
+  name: Addition
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Addition_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Addition
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Addition
+  nameWithType: Base36Cipher.Addition
+- uid: Hsm.BaseTypes.Base36Cipher.op_Division(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Division(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Division_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Division(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Division(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Division(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Division*
+  name: Division
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Division_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Division
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Division
+  nameWithType: Base36Cipher.Division
+- uid: Hsm.BaseTypes.Base36Cipher.op_Equality(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Equality(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Equality_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Equality(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Equality(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Equality(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Equality
+  nameWithType: Base36Cipher.Equality
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit(Hsm.BaseTypes.Base36Cipher)~System.Int32
+  name: Explicit(Base36Cipher to Int32)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_Hsm_BaseTypes_Base36Cipher__System_Int32
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Explicit(Hsm.BaseTypes.Base36Cipher)~System.Int32
+  name.vb: Narrowing(Base36Cipher to Int32)
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit(Hsm.BaseTypes.Base36Cipher to System.Int32)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing(Hsm.BaseTypes.Base36Cipher to System.Int32)
+  nameWithType: Base36Cipher.Explicit(Base36Cipher to Int32)
+  nameWithType.vb: Base36Cipher.Narrowing(Base36Cipher to Int32)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit(Hsm.BaseTypes.Base36Cipher)~System.Int64
+  name: Explicit(Base36Cipher to Int64)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_Hsm_BaseTypes_Base36Cipher__System_Int64
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Explicit(Hsm.BaseTypes.Base36Cipher)~System.Int64
+  name.vb: Narrowing(Base36Cipher to Int64)
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit(Hsm.BaseTypes.Base36Cipher to System.Int64)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing(Hsm.BaseTypes.Base36Cipher to System.Int64)
+  nameWithType: Base36Cipher.Explicit(Base36Cipher to Int64)
+  nameWithType.vb: Base36Cipher.Narrowing(Base36Cipher to Int64)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit(System.Int32)~Hsm.BaseTypes.Base36Cipher
+  name: Explicit(Int32 to Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_System_Int32__Hsm_BaseTypes_Base36Cipher
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Explicit(System.Int32)~Hsm.BaseTypes.Base36Cipher
+  name.vb: Narrowing(Int32 to Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit(System.Int32 to Hsm.BaseTypes.Base36Cipher)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing(System.Int32 to Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Explicit(Int32 to Base36Cipher)
+  nameWithType.vb: Base36Cipher.Narrowing(Int32 to Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit(System.Int64)~Hsm.BaseTypes.Base36Cipher
+  name: Explicit(Int64 to Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_System_Int64__Hsm_BaseTypes_Base36Cipher
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Explicit(System.Int64)~Hsm.BaseTypes.Base36Cipher
+  name.vb: Narrowing(Int64 to Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit(System.Int64 to Hsm.BaseTypes.Base36Cipher)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing(System.Int64 to Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Explicit(Int64 to Base36Cipher)
+  nameWithType.vb: Base36Cipher.Narrowing(Int64 to Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit(System.UInt64)~Hsm.BaseTypes.Base36Cipher
+  name: Explicit(UInt64 to Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_System_UInt64__Hsm_BaseTypes_Base36Cipher
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Explicit(System.UInt64)~Hsm.BaseTypes.Base36Cipher
+  name.vb: Narrowing(UInt64 to Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit(System.UInt64 to Hsm.BaseTypes.Base36Cipher)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing(System.UInt64 to Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Explicit(UInt64 to Base36Cipher)
+  nameWithType.vb: Base36Cipher.Narrowing(UInt64 to Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Explicit*
+  name: Explicit
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Explicit_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: Hsm.BaseTypes.Base36Cipher.Explicit
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Narrowing
+  nameWithType: Base36Cipher.Explicit
+  nameWithType.vb: Base36Cipher.Narrowing
+- uid: Hsm.BaseTypes.Base36Cipher.op_GreaterThan(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: GreaterThan(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_GreaterThan_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_GreaterThan(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.GreaterThan(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.GreaterThan(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.GreaterThan
+  nameWithType: Base36Cipher.GreaterThan
+- uid: Hsm.BaseTypes.Base36Cipher.op_GreaterThanOrEqual(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: GreaterThanOrEqual(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_GreaterThanOrEqual_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_GreaterThanOrEqual(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.GreaterThanOrEqual(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.GreaterThanOrEqual(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.GreaterThanOrEqual
+  nameWithType: Base36Cipher.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.Base36Cipher.op_Implicit(Hsm.BaseTypes.Base36Cipher)~System.UInt64
+  name: Implicit(Base36Cipher to UInt64)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Implicit_Hsm_BaseTypes_Base36Cipher__System_UInt64
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Implicit(Hsm.BaseTypes.Base36Cipher)~System.UInt64
+  name.vb: Widening(Base36Cipher to UInt64)
+  fullName: Hsm.BaseTypes.Base36Cipher.Implicit(Hsm.BaseTypes.Base36Cipher to System.UInt64)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Widening(Hsm.BaseTypes.Base36Cipher to System.UInt64)
+  nameWithType: Base36Cipher.Implicit(Base36Cipher to UInt64)
+  nameWithType.vb: Base36Cipher.Widening(Base36Cipher to UInt64)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Implicit*
+  name: Implicit
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Implicit_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: Hsm.BaseTypes.Base36Cipher.Implicit
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.Widening
+  nameWithType: Base36Cipher.Implicit
+  nameWithType.vb: Base36Cipher.Widening
+- uid: Hsm.BaseTypes.Base36Cipher.op_Inequality(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Inequality(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Inequality_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Inequality(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Inequality(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Inequality(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Inequality
+  nameWithType: Base36Cipher.Inequality
+- uid: Hsm.BaseTypes.Base36Cipher.op_LessThan(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: LessThan(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_LessThan_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_LessThan(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.LessThan(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.LessThan(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.LessThan
+  nameWithType: Base36Cipher.LessThan
+- uid: Hsm.BaseTypes.Base36Cipher.op_LessThanOrEqual(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: LessThanOrEqual(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_LessThanOrEqual_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_LessThanOrEqual(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.LessThanOrEqual(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.LessThanOrEqual(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.LessThanOrEqual
+  nameWithType: Base36Cipher.LessThanOrEqual
+- uid: Hsm.BaseTypes.Base36Cipher.op_Multiply(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Multiply(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Multiply_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Multiply(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Multiply(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Multiply(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Multiply*
+  name: Multiply
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Multiply_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Multiply
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Multiply
+  nameWithType: Base36Cipher.Multiply
+- uid: Hsm.BaseTypes.Base36Cipher.op_Subtraction(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Subtraction(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Subtraction_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.op_Subtraction(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Subtraction(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Subtraction(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.op_Subtraction*
+  name: Subtraction
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_op_Subtraction_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.op_Subtraction
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Subtraction
+  nameWithType: Base36Cipher.Subtraction
+- uid: Hsm.BaseTypes.Base36Cipher.Subtract(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: Subtract(Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Subtract_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.Subtract(Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.Subtract(Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.Subtract(Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.Subtract*
+  name: Subtract
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_Subtract_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.Subtract
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.Subtract
+  nameWithType: Base36Cipher.Subtract
+- uid: Hsm.BaseTypes.Base36Cipher.ToInt32(Hsm.BaseTypes.Base36Cipher)
+  name: ToInt32(Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToInt32_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.ToInt32(Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.ToInt32(Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.ToInt32(Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.ToInt32*
+  name: ToInt32
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToInt32_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.ToInt32
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.ToInt32
+  nameWithType: Base36Cipher.ToInt32
+- uid: Hsm.BaseTypes.Base36Cipher.ToInt64(Hsm.BaseTypes.Base36Cipher)
+  name: ToInt64(Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToInt64_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.ToInt64(Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.ToInt64(Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.ToInt64(Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.ToInt64*
+  name: ToInt64
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToInt64_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.ToInt64
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.ToInt64
+  nameWithType: Base36Cipher.ToInt64
+- uid: Hsm.BaseTypes.Base36Cipher.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToString
+  commentId: M:Hsm.BaseTypes.Base36Cipher.ToString
+  fullName: Hsm.BaseTypes.Base36Cipher.ToString()
+  nameWithType: Base36Cipher.ToString()
+- uid: Hsm.BaseTypes.Base36Cipher.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToString_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.ToString
+  nameWithType: Base36Cipher.ToString
+- uid: Hsm.BaseTypes.Base36Cipher.ToUInt64(Hsm.BaseTypes.Base36Cipher)
+  name: ToUInt64(Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToUInt64_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.Base36Cipher.ToUInt64(Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.ToUInt64(Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.ToUInt64(Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.ToUInt64*
+  name: ToUInt64
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_ToUInt64_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.ToUInt64
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.ToUInt64
+  nameWithType: Base36Cipher.ToUInt64
+- uid: Hsm.BaseTypes.Base36Cipher.TryParse(System.String,Hsm.BaseTypes.Base36Cipher@)
+  name: TryParse(String, out Base36Cipher)
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_TryParse_System_String_Hsm_BaseTypes_Base36Cipher__
+  commentId: M:Hsm.BaseTypes.Base36Cipher.TryParse(System.String,Hsm.BaseTypes.Base36Cipher@)
+  name.vb: TryParse(String, ByRef Base36Cipher)
+  fullName: Hsm.BaseTypes.Base36Cipher.TryParse(System.String, out Hsm.BaseTypes.Base36Cipher)
+  fullName.vb: Hsm.BaseTypes.Base36Cipher.TryParse(System.String, ByRef Hsm.BaseTypes.Base36Cipher)
+  nameWithType: Base36Cipher.TryParse(String, out Base36Cipher)
+  nameWithType.vb: Base36Cipher.TryParse(String, ByRef Base36Cipher)
+- uid: Hsm.BaseTypes.Base36Cipher.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.Base36Cipher.html#Hsm_BaseTypes_Base36Cipher_TryParse_
+  commentId: Overload:Hsm.BaseTypes.Base36Cipher.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Base36Cipher.TryParse
+  nameWithType: Base36Cipher.TryParse
+- uid: Hsm.BaseTypes.BuildIdentifier
+  name: BuildIdentifier
+  href: api/Hsm.BaseTypes.BuildIdentifier.html
+  commentId: T:Hsm.BaseTypes.BuildIdentifier
+  fullName: Hsm.BaseTypes.BuildIdentifier
+  nameWithType: BuildIdentifier
+- uid: Hsm.BaseTypes.BuildIdentifier.#ctor
+  name: BuildIdentifier()
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier__ctor
+  commentId: M:Hsm.BaseTypes.BuildIdentifier.#ctor
+  fullName: Hsm.BaseTypes.BuildIdentifier.BuildIdentifier()
+  nameWithType: BuildIdentifier.BuildIdentifier()
+- uid: Hsm.BaseTypes.BuildIdentifier.#ctor(Hsm.BaseTypes.BuildIdentifierPart)
+  name: BuildIdentifier(BuildIdentifierPart)
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier__ctor_Hsm_BaseTypes_BuildIdentifierPart_
+  commentId: M:Hsm.BaseTypes.BuildIdentifier.#ctor(Hsm.BaseTypes.BuildIdentifierPart)
+  fullName: Hsm.BaseTypes.BuildIdentifier.BuildIdentifier(Hsm.BaseTypes.BuildIdentifierPart)
+  nameWithType: BuildIdentifier.BuildIdentifier(BuildIdentifierPart)
+- uid: Hsm.BaseTypes.BuildIdentifier.#ctor(System.Collections.Generic.List{Hsm.BaseTypes.BuildIdentifierPart})
+  name: BuildIdentifier(List<BuildIdentifierPart>)
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier__ctor_System_Collections_Generic_List_Hsm_BaseTypes_BuildIdentifierPart__
+  commentId: M:Hsm.BaseTypes.BuildIdentifier.#ctor(System.Collections.Generic.List{Hsm.BaseTypes.BuildIdentifierPart})
+  name.vb: BuildIdentifier(List(Of BuildIdentifierPart))
+  fullName: Hsm.BaseTypes.BuildIdentifier.BuildIdentifier(System.Collections.Generic.List<Hsm.BaseTypes.BuildIdentifierPart>)
+  fullName.vb: Hsm.BaseTypes.BuildIdentifier.BuildIdentifier(System.Collections.Generic.List(Of Hsm.BaseTypes.BuildIdentifierPart))
+  nameWithType: BuildIdentifier.BuildIdentifier(List<BuildIdentifierPart>)
+  nameWithType.vb: BuildIdentifier.BuildIdentifier(List(Of BuildIdentifierPart))
+- uid: Hsm.BaseTypes.BuildIdentifier.#ctor*
+  name: BuildIdentifier
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier__ctor_
+  commentId: Overload:Hsm.BaseTypes.BuildIdentifier.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BuildIdentifier.BuildIdentifier
+  nameWithType: BuildIdentifier.BuildIdentifier
+- uid: Hsm.BaseTypes.BuildIdentifier.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_GetHashCode
+  commentId: M:Hsm.BaseTypes.BuildIdentifier.GetHashCode
+  fullName: Hsm.BaseTypes.BuildIdentifier.GetHashCode()
+  nameWithType: BuildIdentifier.GetHashCode()
+- uid: Hsm.BaseTypes.BuildIdentifier.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.BuildIdentifier.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BuildIdentifier.GetHashCode
+  nameWithType: BuildIdentifier.GetHashCode
+- uid: Hsm.BaseTypes.BuildIdentifier.Parts
+  name: Parts
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_Parts
+  commentId: P:Hsm.BaseTypes.BuildIdentifier.Parts
+  fullName: Hsm.BaseTypes.BuildIdentifier.Parts
+  nameWithType: BuildIdentifier.Parts
+- uid: Hsm.BaseTypes.BuildIdentifier.Parts*
+  name: Parts
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_Parts_
+  commentId: Overload:Hsm.BaseTypes.BuildIdentifier.Parts
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BuildIdentifier.Parts
+  nameWithType: BuildIdentifier.Parts
+- uid: Hsm.BaseTypes.BuildIdentifier.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_ToString
+  commentId: M:Hsm.BaseTypes.BuildIdentifier.ToString
+  fullName: Hsm.BaseTypes.BuildIdentifier.ToString()
+  nameWithType: BuildIdentifier.ToString()
+- uid: Hsm.BaseTypes.BuildIdentifier.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.BuildIdentifier.html#Hsm_BaseTypes_BuildIdentifier_ToString_
+  commentId: Overload:Hsm.BaseTypes.BuildIdentifier.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BuildIdentifier.ToString
+  nameWithType: BuildIdentifier.ToString
+- uid: Hsm.BaseTypes.BuildIdentifierPart
+  name: BuildIdentifierPart
+  href: api/Hsm.BaseTypes.BuildIdentifierPart.html
+  commentId: T:Hsm.BaseTypes.BuildIdentifierPart
+  fullName: Hsm.BaseTypes.BuildIdentifierPart
+  nameWithType: BuildIdentifierPart
+- uid: Hsm.BaseTypes.BuildIdentifierPart.#ctor(System.String)
+  name: BuildIdentifierPart(String)
+  href: api/Hsm.BaseTypes.BuildIdentifierPart.html#Hsm_BaseTypes_BuildIdentifierPart__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.BuildIdentifierPart.#ctor(System.String)
+  fullName: Hsm.BaseTypes.BuildIdentifierPart.BuildIdentifierPart(System.String)
+  nameWithType: BuildIdentifierPart.BuildIdentifierPart(String)
+- uid: Hsm.BaseTypes.BuildIdentifierPart.#ctor*
+  name: BuildIdentifierPart
+  href: api/Hsm.BaseTypes.BuildIdentifierPart.html#Hsm_BaseTypes_BuildIdentifierPart__ctor_
+  commentId: Overload:Hsm.BaseTypes.BuildIdentifierPart.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BuildIdentifierPart.BuildIdentifierPart
+  nameWithType: BuildIdentifierPart.BuildIdentifierPart
+- uid: Hsm.BaseTypes.Eui64
+  name: Eui64
+  href: api/Hsm.BaseTypes.Eui64.html
+  commentId: T:Hsm.BaseTypes.Eui64
+  fullName: Hsm.BaseTypes.Eui64
+  nameWithType: Eui64
+- uid: Hsm.BaseTypes.Eui64.#ctor(System.Byte[])
+  name: Eui64(Byte[])
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64__ctor_System_Byte___
+  commentId: M:Hsm.BaseTypes.Eui64.#ctor(System.Byte[])
+  name.vb: Eui64(Byte())
+  fullName: Hsm.BaseTypes.Eui64.Eui64(System.Byte[])
+  fullName.vb: Hsm.BaseTypes.Eui64.Eui64(System.Byte())
+  nameWithType: Eui64.Eui64(Byte[])
+  nameWithType.vb: Eui64.Eui64(Byte())
+- uid: Hsm.BaseTypes.Eui64.#ctor(System.Net.NetworkInformation.PhysicalAddress)
+  name: Eui64(PhysicalAddress)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64__ctor_System_Net_NetworkInformation_PhysicalAddress_
+  commentId: M:Hsm.BaseTypes.Eui64.#ctor(System.Net.NetworkInformation.PhysicalAddress)
+  fullName: Hsm.BaseTypes.Eui64.Eui64(System.Net.NetworkInformation.PhysicalAddress)
+  nameWithType: Eui64.Eui64(PhysicalAddress)
+- uid: Hsm.BaseTypes.Eui64.#ctor(System.String)
+  name: Eui64(String)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.Eui64.#ctor(System.String)
+  fullName: Hsm.BaseTypes.Eui64.Eui64(System.String)
+  nameWithType: Eui64.Eui64(String)
+- uid: Hsm.BaseTypes.Eui64.#ctor*
+  name: Eui64
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64__ctor_
+  commentId: Overload:Hsm.BaseTypes.Eui64.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Eui64
+  nameWithType: Eui64.Eui64
+- uid: Hsm.BaseTypes.Eui64.Equals(Hsm.BaseTypes.Eui64)
+  name: Equals(Eui64)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Equals_Hsm_BaseTypes_Eui64_
+  commentId: M:Hsm.BaseTypes.Eui64.Equals(Hsm.BaseTypes.Eui64)
+  fullName: Hsm.BaseTypes.Eui64.Equals(Hsm.BaseTypes.Eui64)
+  nameWithType: Eui64.Equals(Eui64)
+- uid: Hsm.BaseTypes.Eui64.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.Eui64.Equals(System.Object)
+  fullName: Hsm.BaseTypes.Eui64.Equals(System.Object)
+  nameWithType: Eui64.Equals(Object)
+- uid: Hsm.BaseTypes.Eui64.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Equals_
+  commentId: Overload:Hsm.BaseTypes.Eui64.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Equals
+  nameWithType: Eui64.Equals
+- uid: Hsm.BaseTypes.Eui64.Get48BitAddress
+  name: Get48BitAddress()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Get48BitAddress
+  commentId: M:Hsm.BaseTypes.Eui64.Get48BitAddress
+  fullName: Hsm.BaseTypes.Eui64.Get48BitAddress()
+  nameWithType: Eui64.Get48BitAddress()
+- uid: Hsm.BaseTypes.Eui64.Get48BitAddress*
+  name: Get48BitAddress
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Get48BitAddress_
+  commentId: Overload:Hsm.BaseTypes.Eui64.Get48BitAddress
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Get48BitAddress
+  nameWithType: Eui64.Get48BitAddress
+- uid: Hsm.BaseTypes.Eui64.GetBytes
+  name: GetBytes()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_GetBytes
+  commentId: M:Hsm.BaseTypes.Eui64.GetBytes
+  fullName: Hsm.BaseTypes.Eui64.GetBytes()
+  nameWithType: Eui64.GetBytes()
+- uid: Hsm.BaseTypes.Eui64.GetBytes*
+  name: GetBytes
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_GetBytes_
+  commentId: Overload:Hsm.BaseTypes.Eui64.GetBytes
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.GetBytes
+  nameWithType: Eui64.GetBytes
+- uid: Hsm.BaseTypes.Eui64.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_GetHashCode
+  commentId: M:Hsm.BaseTypes.Eui64.GetHashCode
+  fullName: Hsm.BaseTypes.Eui64.GetHashCode()
+  nameWithType: Eui64.GetHashCode()
+- uid: Hsm.BaseTypes.Eui64.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.Eui64.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.GetHashCode
+  nameWithType: Eui64.GetHashCode
+- uid: Hsm.BaseTypes.Eui64.Is48BitCompatible
+  name: Is48BitCompatible()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Is48BitCompatible
+  commentId: M:Hsm.BaseTypes.Eui64.Is48BitCompatible
+  fullName: Hsm.BaseTypes.Eui64.Is48BitCompatible()
+  nameWithType: Eui64.Is48BitCompatible()
+- uid: Hsm.BaseTypes.Eui64.Is48BitCompatible*
+  name: Is48BitCompatible
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Is48BitCompatible_
+  commentId: Overload:Hsm.BaseTypes.Eui64.Is48BitCompatible
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Is48BitCompatible
+  nameWithType: Eui64.Is48BitCompatible
+- uid: Hsm.BaseTypes.Eui64.IsValidFormat(System.String,Hsm.BaseTypes.Eui64Presentation)
+  name: IsValidFormat(String, Eui64Presentation)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_IsValidFormat_System_String_Hsm_BaseTypes_Eui64Presentation_
+  commentId: M:Hsm.BaseTypes.Eui64.IsValidFormat(System.String,Hsm.BaseTypes.Eui64Presentation)
+  fullName: Hsm.BaseTypes.Eui64.IsValidFormat(System.String, Hsm.BaseTypes.Eui64Presentation)
+  nameWithType: Eui64.IsValidFormat(String, Eui64Presentation)
+- uid: Hsm.BaseTypes.Eui64.IsValidFormat*
+  name: IsValidFormat
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_IsValidFormat_
+  commentId: Overload:Hsm.BaseTypes.Eui64.IsValidFormat
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.IsValidFormat
+  nameWithType: Eui64.IsValidFormat
+- uid: Hsm.BaseTypes.Eui64.op_Equality(Hsm.BaseTypes.Eui64,Hsm.BaseTypes.Eui64)
+  name: Equality(Eui64, Eui64)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_op_Equality_Hsm_BaseTypes_Eui64_Hsm_BaseTypes_Eui64_
+  commentId: M:Hsm.BaseTypes.Eui64.op_Equality(Hsm.BaseTypes.Eui64,Hsm.BaseTypes.Eui64)
+  fullName: Hsm.BaseTypes.Eui64.Equality(Hsm.BaseTypes.Eui64, Hsm.BaseTypes.Eui64)
+  nameWithType: Eui64.Equality(Eui64, Eui64)
+- uid: Hsm.BaseTypes.Eui64.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.Eui64.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Equality
+  nameWithType: Eui64.Equality
+- uid: Hsm.BaseTypes.Eui64.op_Inequality(Hsm.BaseTypes.Eui64,Hsm.BaseTypes.Eui64)
+  name: Inequality(Eui64, Eui64)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_op_Inequality_Hsm_BaseTypes_Eui64_Hsm_BaseTypes_Eui64_
+  commentId: M:Hsm.BaseTypes.Eui64.op_Inequality(Hsm.BaseTypes.Eui64,Hsm.BaseTypes.Eui64)
+  fullName: Hsm.BaseTypes.Eui64.Inequality(Hsm.BaseTypes.Eui64, Hsm.BaseTypes.Eui64)
+  nameWithType: Eui64.Inequality(Eui64, Eui64)
+- uid: Hsm.BaseTypes.Eui64.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.Eui64.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.Inequality
+  nameWithType: Eui64.Inequality
+- uid: Hsm.BaseTypes.Eui64.ParseExact(System.String,Hsm.BaseTypes.Eui64Presentation)
+  name: ParseExact(String, Eui64Presentation)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ParseExact_System_String_Hsm_BaseTypes_Eui64Presentation_
+  commentId: M:Hsm.BaseTypes.Eui64.ParseExact(System.String,Hsm.BaseTypes.Eui64Presentation)
+  fullName: Hsm.BaseTypes.Eui64.ParseExact(System.String, Hsm.BaseTypes.Eui64Presentation)
+  nameWithType: Eui64.ParseExact(String, Eui64Presentation)
+- uid: Hsm.BaseTypes.Eui64.ParseExact*
+  name: ParseExact
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ParseExact_
+  commentId: Overload:Hsm.BaseTypes.Eui64.ParseExact
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.ParseExact
+  nameWithType: Eui64.ParseExact
+- uid: Hsm.BaseTypes.Eui64.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToString
+  commentId: M:Hsm.BaseTypes.Eui64.ToString
+  fullName: Hsm.BaseTypes.Eui64.ToString()
+  nameWithType: Eui64.ToString()
+- uid: Hsm.BaseTypes.Eui64.ToString(Hsm.BaseTypes.Eui64Presentation)
+  name: ToString(Eui64Presentation)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToString_Hsm_BaseTypes_Eui64Presentation_
+  commentId: M:Hsm.BaseTypes.Eui64.ToString(Hsm.BaseTypes.Eui64Presentation)
+  fullName: Hsm.BaseTypes.Eui64.ToString(Hsm.BaseTypes.Eui64Presentation)
+  nameWithType: Eui64.ToString(Eui64Presentation)
+- uid: Hsm.BaseTypes.Eui64.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToString_
+  commentId: Overload:Hsm.BaseTypes.Eui64.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.ToString
+  nameWithType: Eui64.ToString
+- uid: Hsm.BaseTypes.Eui64.TryParse(System.String,Hsm.BaseTypes.Eui64@)
+  name: TryParse(String, out Eui64)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_TryParse_System_String_Hsm_BaseTypes_Eui64__
+  commentId: M:Hsm.BaseTypes.Eui64.TryParse(System.String,Hsm.BaseTypes.Eui64@)
+  name.vb: TryParse(String, ByRef Eui64)
+  fullName: Hsm.BaseTypes.Eui64.TryParse(System.String, out Hsm.BaseTypes.Eui64)
+  fullName.vb: Hsm.BaseTypes.Eui64.TryParse(System.String, ByRef Hsm.BaseTypes.Eui64)
+  nameWithType: Eui64.TryParse(String, out Eui64)
+  nameWithType.vb: Eui64.TryParse(String, ByRef Eui64)
+- uid: Hsm.BaseTypes.Eui64.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_TryParse_
+  commentId: Overload:Hsm.BaseTypes.Eui64.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.TryParse
+  nameWithType: Eui64.TryParse
+- uid: Hsm.BaseTypes.Eui64Presentation
+  name: Eui64Presentation
+  href: api/Hsm.BaseTypes.Eui64Presentation.html
+  commentId: T:Hsm.BaseTypes.Eui64Presentation
+  fullName: Hsm.BaseTypes.Eui64Presentation
+  nameWithType: Eui64Presentation
+- uid: Hsm.BaseTypes.Eui64Presentation.Default
+  name: Default
+  href: api/Hsm.BaseTypes.Eui64Presentation.html#Hsm_BaseTypes_Eui64Presentation_Default
+  commentId: F:Hsm.BaseTypes.Eui64Presentation.Default
+  fullName: Hsm.BaseTypes.Eui64Presentation.Default
+  nameWithType: Eui64Presentation.Default
+- uid: Hsm.BaseTypes.Eui64Presentation.HyphenSeparated
+  name: HyphenSeparated
+  href: api/Hsm.BaseTypes.Eui64Presentation.html#Hsm_BaseTypes_Eui64Presentation_HyphenSeparated
+  commentId: F:Hsm.BaseTypes.Eui64Presentation.HyphenSeparated
+  fullName: Hsm.BaseTypes.Eui64Presentation.HyphenSeparated
+  nameWithType: Eui64Presentation.HyphenSeparated
+- uid: Hsm.BaseTypes.IdentifierPart
+  name: IdentifierPart
+  href: api/Hsm.BaseTypes.IdentifierPart.html
+  commentId: T:Hsm.BaseTypes.IdentifierPart
+  fullName: Hsm.BaseTypes.IdentifierPart
+  nameWithType: IdentifierPart
+- uid: Hsm.BaseTypes.IdentifierPart.#ctor(System.String)
+  name: IdentifierPart(String)
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.IdentifierPart.#ctor(System.String)
+  fullName: Hsm.BaseTypes.IdentifierPart.IdentifierPart(System.String)
+  nameWithType: IdentifierPart.IdentifierPart(String)
+- uid: Hsm.BaseTypes.IdentifierPart.#ctor*
+  name: IdentifierPart
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart__ctor_
+  commentId: Overload:Hsm.BaseTypes.IdentifierPart.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IdentifierPart.IdentifierPart
+  nameWithType: IdentifierPart.IdentifierPart
+- uid: Hsm.BaseTypes.IdentifierPart.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart_ToString
+  commentId: M:Hsm.BaseTypes.IdentifierPart.ToString
+  fullName: Hsm.BaseTypes.IdentifierPart.ToString()
+  nameWithType: IdentifierPart.ToString()
+- uid: Hsm.BaseTypes.IdentifierPart.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart_ToString_
+  commentId: Overload:Hsm.BaseTypes.IdentifierPart.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IdentifierPart.ToString
+  nameWithType: IdentifierPart.ToString
+- uid: Hsm.BaseTypes.IdentifierPart.Value
+  name: Value
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart_Value
+  commentId: P:Hsm.BaseTypes.IdentifierPart.Value
+  fullName: Hsm.BaseTypes.IdentifierPart.Value
+  nameWithType: IdentifierPart.Value
+- uid: Hsm.BaseTypes.IdentifierPart.Value*
+  name: Value
+  href: api/Hsm.BaseTypes.IdentifierPart.html#Hsm_BaseTypes_IdentifierPart_Value_
+  commentId: Overload:Hsm.BaseTypes.IdentifierPart.Value
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IdentifierPart.Value
+  nameWithType: IdentifierPart.Value
+- uid: Hsm.BaseTypes.IVersion
+  name: IVersion
+  href: api/Hsm.BaseTypes.IVersion.html
+  commentId: T:Hsm.BaseTypes.IVersion
+  fullName: Hsm.BaseTypes.IVersion
+  nameWithType: IVersion
+- uid: Hsm.BaseTypes.PreReleaseIdentifier
+  name: PreReleaseIdentifier
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html
+  commentId: T:Hsm.BaseTypes.PreReleaseIdentifier
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier
+  nameWithType: PreReleaseIdentifier
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.#ctor
+  name: PreReleaseIdentifier()
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier__ctor
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.#ctor
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.PreReleaseIdentifier()
+  nameWithType: PreReleaseIdentifier.PreReleaseIdentifier()
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.#ctor(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: PreReleaseIdentifier(PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier__ctor_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.#ctor(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.PreReleaseIdentifier(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifier.PreReleaseIdentifier(PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.#ctor(System.Collections.Generic.List{Hsm.BaseTypes.PreReleaseIdentifierPart})
+  name: PreReleaseIdentifier(List<PreReleaseIdentifierPart>)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier__ctor_System_Collections_Generic_List_Hsm_BaseTypes_PreReleaseIdentifierPart__
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.#ctor(System.Collections.Generic.List{Hsm.BaseTypes.PreReleaseIdentifierPart})
+  name.vb: PreReleaseIdentifier(List(Of PreReleaseIdentifierPart))
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.PreReleaseIdentifier(System.Collections.Generic.List<Hsm.BaseTypes.PreReleaseIdentifierPart>)
+  fullName.vb: Hsm.BaseTypes.PreReleaseIdentifier.PreReleaseIdentifier(System.Collections.Generic.List(Of Hsm.BaseTypes.PreReleaseIdentifierPart))
+  nameWithType: PreReleaseIdentifier.PreReleaseIdentifier(List<PreReleaseIdentifierPart>)
+  nameWithType.vb: PreReleaseIdentifier.PreReleaseIdentifier(List(Of PreReleaseIdentifierPart))
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.#ctor*
+  name: PreReleaseIdentifier
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier__ctor_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.PreReleaseIdentifier
+  nameWithType: PreReleaseIdentifier.PreReleaseIdentifier
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_CompareTo_System_Object_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.CompareTo(System.Object)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.CompareTo(System.Object)
+  nameWithType: PreReleaseIdentifier.CompareTo(Object)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.CompareTo
+  nameWithType: PreReleaseIdentifier.CompareTo
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.Equals(Hsm.BaseTypes.PreReleaseIdentifier)
+  name: Equals(PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_Equals_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.Equals(Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Equals(Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.Equals(PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.Equals(System.Object)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Equals(System.Object)
+  nameWithType: PreReleaseIdentifier.Equals(Object)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_Equals_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Equals
+  nameWithType: PreReleaseIdentifier.Equals
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_GetHashCode
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode()
+  nameWithType: PreReleaseIdentifier.GetHashCode()
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GetHashCode
+  nameWithType: PreReleaseIdentifier.GetHashCode
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_Equality(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: Equality(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_Equality_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_Equality(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Equality(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.Equality(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Equality
+  nameWithType: PreReleaseIdentifier.Equality
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThan(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: GreaterThan(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_GreaterThan_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThan(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GreaterThan(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.GreaterThan(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GreaterThan
+  nameWithType: PreReleaseIdentifier.GreaterThan
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: GreaterThanOrEqual(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_GreaterThanOrEqual_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.GreaterThanOrEqual(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.GreaterThanOrEqual
+  nameWithType: PreReleaseIdentifier.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_Inequality(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: Inequality(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_Inequality_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_Inequality(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Inequality(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.Inequality(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Inequality
+  nameWithType: PreReleaseIdentifier.Inequality
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_LessThan(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: LessThan(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_LessThan_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_LessThan(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.LessThan(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.LessThan(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.LessThan
+  nameWithType: PreReleaseIdentifier.LessThan
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: LessThanOrEqual(PreReleaseIdentifier, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_LessThanOrEqual_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.op_LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: PreReleaseIdentifier.LessThanOrEqual(PreReleaseIdentifier, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.LessThanOrEqual
+  nameWithType: PreReleaseIdentifier.LessThanOrEqual
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.Parts
+  name: Parts
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_Parts
+  commentId: P:Hsm.BaseTypes.PreReleaseIdentifier.Parts
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Parts
+  nameWithType: PreReleaseIdentifier.Parts
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.Parts*
+  name: Parts
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_Parts_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.Parts
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.Parts
+  nameWithType: PreReleaseIdentifier.Parts
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_ToString
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifier.ToString
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.ToString()
+  nameWithType: PreReleaseIdentifier.ToString()
+- uid: Hsm.BaseTypes.PreReleaseIdentifier.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.PreReleaseIdentifier.html#Hsm_BaseTypes_PreReleaseIdentifier_ToString_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifier.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifier.ToString
+  nameWithType: PreReleaseIdentifier.ToString
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart
+  name: PreReleaseIdentifierPart
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html
+  commentId: T:Hsm.BaseTypes.PreReleaseIdentifierPart
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart
+  nameWithType: PreReleaseIdentifierPart
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.#ctor(System.String)
+  name: PreReleaseIdentifierPart(String)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.#ctor(System.String)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.PreReleaseIdentifierPart(System.String)
+  nameWithType: PreReleaseIdentifierPart.PreReleaseIdentifierPart(String)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.#ctor*
+  name: PreReleaseIdentifierPart
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart__ctor_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.PreReleaseIdentifierPart
+  nameWithType: PreReleaseIdentifierPart.PreReleaseIdentifierPart
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_CompareTo_System_Object_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo(System.Object)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo(System.Object)
+  nameWithType: PreReleaseIdentifierPart.CompareTo(Object)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.CompareTo
+  nameWithType: PreReleaseIdentifierPart.CompareTo
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: Equals(PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_Equals_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.Equals(PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(System.Object)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals(System.Object)
+  nameWithType: PreReleaseIdentifierPart.Equals(Object)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_Equals_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Equals
+  nameWithType: PreReleaseIdentifierPart.Equals
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_GetHashCode
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode()
+  nameWithType: PreReleaseIdentifierPart.GetHashCode()
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GetHashCode
+  nameWithType: PreReleaseIdentifierPart.GetHashCode
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_Equality(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: Equality(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_Equality_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_Equality(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Equality(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.Equality(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Equality
+  nameWithType: PreReleaseIdentifierPart.Equality
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThan(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: GreaterThan(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_GreaterThan_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThan(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GreaterThan(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.GreaterThan(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GreaterThan
+  nameWithType: PreReleaseIdentifierPart.GreaterThan
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: GreaterThanOrEqual(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_GreaterThanOrEqual_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GreaterThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.GreaterThanOrEqual(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.GreaterThanOrEqual
+  nameWithType: PreReleaseIdentifierPart.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_Inequality(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: Inequality(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_Inequality_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_Inequality(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Inequality(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.Inequality(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.Inequality
+  nameWithType: PreReleaseIdentifierPart.Inequality
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThan(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: LessThan(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_LessThan_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThan(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.LessThan(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.LessThan(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.LessThan
+  nameWithType: PreReleaseIdentifierPart.LessThan
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  name: LessThanOrEqual(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_LessThanOrEqual_Hsm_BaseTypes_PreReleaseIdentifierPart_Hsm_BaseTypes_PreReleaseIdentifierPart_
+  commentId: M:Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart,Hsm.BaseTypes.PreReleaseIdentifierPart)
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.LessThanOrEqual(Hsm.BaseTypes.PreReleaseIdentifierPart, Hsm.BaseTypes.PreReleaseIdentifierPart)
+  nameWithType: PreReleaseIdentifierPart.LessThanOrEqual(PreReleaseIdentifierPart, PreReleaseIdentifierPart)
+- uid: Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.PreReleaseIdentifierPart.html#Hsm_BaseTypes_PreReleaseIdentifierPart_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.PreReleaseIdentifierPart.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.PreReleaseIdentifierPart.LessThanOrEqual
+  nameWithType: PreReleaseIdentifierPart.LessThanOrEqual
+- uid: Hsm.BaseTypes.SemanticVersion
+  name: SemanticVersion
+  href: api/Hsm.BaseTypes.SemanticVersion.html
+  commentId: T:Hsm.BaseTypes.SemanticVersion
+  fullName: Hsm.BaseTypes.SemanticVersion
+  nameWithType: SemanticVersion
+- uid: Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32)
+  name: SemanticVersion(UInt32, UInt32, UInt32)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion__ctor_System_UInt32_System_UInt32_System_UInt32_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32)
+  fullName: Hsm.BaseTypes.SemanticVersion.SemanticVersion(System.UInt32, System.UInt32, System.UInt32)
+  nameWithType: SemanticVersion.SemanticVersion(UInt32, UInt32, UInt32)
+- uid: Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.BuildIdentifier)
+  name: SemanticVersion(UInt32, UInt32, UInt32, BuildIdentifier)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion__ctor_System_UInt32_System_UInt32_System_UInt32_Hsm_BaseTypes_BuildIdentifier_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.BuildIdentifier)
+  fullName: Hsm.BaseTypes.SemanticVersion.SemanticVersion(System.UInt32, System.UInt32, System.UInt32, Hsm.BaseTypes.BuildIdentifier)
+  nameWithType: SemanticVersion.SemanticVersion(UInt32, UInt32, UInt32, BuildIdentifier)
+- uid: Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.PreReleaseIdentifier)
+  name: SemanticVersion(UInt32, UInt32, UInt32, PreReleaseIdentifier)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion__ctor_System_UInt32_System_UInt32_System_UInt32_Hsm_BaseTypes_PreReleaseIdentifier_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.PreReleaseIdentifier)
+  fullName: Hsm.BaseTypes.SemanticVersion.SemanticVersion(System.UInt32, System.UInt32, System.UInt32, Hsm.BaseTypes.PreReleaseIdentifier)
+  nameWithType: SemanticVersion.SemanticVersion(UInt32, UInt32, UInt32, PreReleaseIdentifier)
+- uid: Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.BuildIdentifier)
+  name: SemanticVersion(UInt32, UInt32, UInt32, PreReleaseIdentifier, BuildIdentifier)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion__ctor_System_UInt32_System_UInt32_System_UInt32_Hsm_BaseTypes_PreReleaseIdentifier_Hsm_BaseTypes_BuildIdentifier_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.#ctor(System.UInt32,System.UInt32,System.UInt32,Hsm.BaseTypes.PreReleaseIdentifier,Hsm.BaseTypes.BuildIdentifier)
+  fullName: Hsm.BaseTypes.SemanticVersion.SemanticVersion(System.UInt32, System.UInt32, System.UInt32, Hsm.BaseTypes.PreReleaseIdentifier, Hsm.BaseTypes.BuildIdentifier)
+  nameWithType: SemanticVersion.SemanticVersion(UInt32, UInt32, UInt32, PreReleaseIdentifier, BuildIdentifier)
+- uid: Hsm.BaseTypes.SemanticVersion.#ctor*
+  name: SemanticVersion
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion__ctor_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.SemanticVersion
+  nameWithType: SemanticVersion.SemanticVersion
+- uid: Hsm.BaseTypes.SemanticVersion.BuildIdentifier
+  name: BuildIdentifier
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_BuildIdentifier
+  commentId: P:Hsm.BaseTypes.SemanticVersion.BuildIdentifier
+  fullName: Hsm.BaseTypes.SemanticVersion.BuildIdentifier
+  nameWithType: SemanticVersion.BuildIdentifier
+- uid: Hsm.BaseTypes.SemanticVersion.BuildIdentifier*
+  name: BuildIdentifier
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_BuildIdentifier_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.BuildIdentifier
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.BuildIdentifier
+  nameWithType: SemanticVersion.BuildIdentifier
+- uid: Hsm.BaseTypes.SemanticVersion.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_CompareTo_System_Object_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.CompareTo(System.Object)
+  fullName: Hsm.BaseTypes.SemanticVersion.CompareTo(System.Object)
+  nameWithType: SemanticVersion.CompareTo(Object)
+- uid: Hsm.BaseTypes.SemanticVersion.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.CompareTo
+  nameWithType: SemanticVersion.CompareTo
+- uid: Hsm.BaseTypes.SemanticVersion.Equals(Hsm.BaseTypes.SemanticVersion)
+  name: Equals(SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Equals_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.Equals(Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.Equals(Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.Equals(SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SemanticVersion.Equals(System.Object)
+  nameWithType: SemanticVersion.Equals(Object)
+- uid: Hsm.BaseTypes.SemanticVersion.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Equals_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Equals
+  nameWithType: SemanticVersion.Equals
+- uid: Hsm.BaseTypes.SemanticVersion.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_GetHashCode
+  commentId: M:Hsm.BaseTypes.SemanticVersion.GetHashCode
+  fullName: Hsm.BaseTypes.SemanticVersion.GetHashCode()
+  nameWithType: SemanticVersion.GetHashCode()
+- uid: Hsm.BaseTypes.SemanticVersion.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.GetHashCode
+  nameWithType: SemanticVersion.GetHashCode
+- uid: Hsm.BaseTypes.SemanticVersion.Major
+  name: Major
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Major
+  commentId: P:Hsm.BaseTypes.SemanticVersion.Major
+  fullName: Hsm.BaseTypes.SemanticVersion.Major
+  nameWithType: SemanticVersion.Major
+- uid: Hsm.BaseTypes.SemanticVersion.Major*
+  name: Major
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Major_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.Major
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Major
+  nameWithType: SemanticVersion.Major
+- uid: Hsm.BaseTypes.SemanticVersion.Minor
+  name: Minor
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Minor
+  commentId: P:Hsm.BaseTypes.SemanticVersion.Minor
+  fullName: Hsm.BaseTypes.SemanticVersion.Minor
+  nameWithType: SemanticVersion.Minor
+- uid: Hsm.BaseTypes.SemanticVersion.Minor*
+  name: Minor
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Minor_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.Minor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Minor
+  nameWithType: SemanticVersion.Minor
+- uid: Hsm.BaseTypes.SemanticVersion.op_Equality(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: Equality(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_Equality_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_Equality(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.Equality(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.Equality(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Equality
+  nameWithType: SemanticVersion.Equality
+- uid: Hsm.BaseTypes.SemanticVersion.op_GreaterThan(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: GreaterThan(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_GreaterThan_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_GreaterThan(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.GreaterThan(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.GreaterThan(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.GreaterThan
+  nameWithType: SemanticVersion.GreaterThan
+- uid: Hsm.BaseTypes.SemanticVersion.op_GreaterThanOrEqual(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: GreaterThanOrEqual(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_GreaterThanOrEqual_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_GreaterThanOrEqual(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.GreaterThanOrEqual(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.GreaterThanOrEqual(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.GreaterThanOrEqual
+  nameWithType: SemanticVersion.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.SemanticVersion.op_Inequality(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: Inequality(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_Inequality_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_Inequality(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.Inequality(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.Inequality(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Inequality
+  nameWithType: SemanticVersion.Inequality
+- uid: Hsm.BaseTypes.SemanticVersion.op_LessThan(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: LessThan(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_LessThan_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_LessThan(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.LessThan(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.LessThan(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.LessThan
+  nameWithType: SemanticVersion.LessThan
+- uid: Hsm.BaseTypes.SemanticVersion.op_LessThanOrEqual(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  name: LessThanOrEqual(SemanticVersion, SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_LessThanOrEqual_Hsm_BaseTypes_SemanticVersion_Hsm_BaseTypes_SemanticVersion_
+  commentId: M:Hsm.BaseTypes.SemanticVersion.op_LessThanOrEqual(Hsm.BaseTypes.SemanticVersion,Hsm.BaseTypes.SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.LessThanOrEqual(Hsm.BaseTypes.SemanticVersion, Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.LessThanOrEqual(SemanticVersion, SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.LessThanOrEqual
+  nameWithType: SemanticVersion.LessThanOrEqual
+- uid: Hsm.BaseTypes.SemanticVersion.Patch
+  name: Patch
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Patch
+  commentId: P:Hsm.BaseTypes.SemanticVersion.Patch
+  fullName: Hsm.BaseTypes.SemanticVersion.Patch
+  nameWithType: SemanticVersion.Patch
+- uid: Hsm.BaseTypes.SemanticVersion.Patch*
+  name: Patch
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_Patch_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.Patch
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.Patch
+  nameWithType: SemanticVersion.Patch
+- uid: Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier
+  name: PreReleaseIdentifier
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_PreReleaseIdentifier
+  commentId: P:Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier
+  fullName: Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier
+  nameWithType: SemanticVersion.PreReleaseIdentifier
+- uid: Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier*
+  name: PreReleaseIdentifier
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_PreReleaseIdentifier_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.PreReleaseIdentifier
+  nameWithType: SemanticVersion.PreReleaseIdentifier
+- uid: Hsm.BaseTypes.SemanticVersion.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_ToString
+  commentId: M:Hsm.BaseTypes.SemanticVersion.ToString
+  fullName: Hsm.BaseTypes.SemanticVersion.ToString()
+  nameWithType: SemanticVersion.ToString()
+- uid: Hsm.BaseTypes.SemanticVersion.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_ToString_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.ToString
+  nameWithType: SemanticVersion.ToString
+- uid: Hsm.BaseTypes.SerialNumber
+  name: SerialNumber
+  href: api/Hsm.BaseTypes.SerialNumber.html
+  commentId: T:Hsm.BaseTypes.SerialNumber
+  fullName: Hsm.BaseTypes.SerialNumber
+  nameWithType: SerialNumber
+- uid: Hsm.BaseTypes.SerialNumber.#ctor(System.DateTime,Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  name: SerialNumber(DateTime, Base36Cipher, Base36Cipher)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber__ctor_System_DateTime_Hsm_BaseTypes_Base36Cipher_Hsm_BaseTypes_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.SerialNumber.#ctor(System.DateTime,Hsm.BaseTypes.Base36Cipher,Hsm.BaseTypes.Base36Cipher)
+  fullName: Hsm.BaseTypes.SerialNumber.SerialNumber(System.DateTime, Hsm.BaseTypes.Base36Cipher, Hsm.BaseTypes.Base36Cipher)
+  nameWithType: SerialNumber.SerialNumber(DateTime, Base36Cipher, Base36Cipher)
+- uid: Hsm.BaseTypes.SerialNumber.#ctor(System.String)
+  name: SerialNumber(String)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumber.#ctor(System.String)
+  fullName: Hsm.BaseTypes.SerialNumber.SerialNumber(System.String)
+  nameWithType: SerialNumber.SerialNumber(String)
+- uid: Hsm.BaseTypes.SerialNumber.#ctor*
+  name: SerialNumber
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.SerialNumber
+  nameWithType: SerialNumber.SerialNumber
+- uid: Hsm.BaseTypes.SerialNumber.CompareTo(Hsm.BaseTypes.SerialNumber)
+  name: CompareTo(SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_CompareTo_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.CompareTo(Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.CompareTo(Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.CompareTo(SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.CompareTo
+  nameWithType: SerialNumber.CompareTo
+- uid: Hsm.BaseTypes.SerialNumber.Date
+  name: Date
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_Date
+  commentId: P:Hsm.BaseTypes.SerialNumber.Date
+  fullName: Hsm.BaseTypes.SerialNumber.Date
+  nameWithType: SerialNumber.Date
+- uid: Hsm.BaseTypes.SerialNumber.Date*
+  name: Date
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_Date_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.Date
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.Date
+  nameWithType: SerialNumber.Date
+- uid: Hsm.BaseTypes.SerialNumber.Equals(Hsm.BaseTypes.SerialNumber)
+  name: Equals(SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_Equals_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.Equals(Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.Equals(Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.Equals(SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumber.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumber.Equals(System.Object)
+  nameWithType: SerialNumber.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumber.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.Equals
+  nameWithType: SerialNumber.Equals
+- uid: Hsm.BaseTypes.SerialNumber.FromString(System.String)
+  name: FromString(String)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_FromString_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumber.FromString(System.String)
+  fullName: Hsm.BaseTypes.SerialNumber.FromString(System.String)
+  nameWithType: SerialNumber.FromString(String)
+- uid: Hsm.BaseTypes.SerialNumber.FromString*
+  name: FromString
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_FromString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.FromString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.FromString
+  nameWithType: SerialNumber.FromString
+- uid: Hsm.BaseTypes.SerialNumber.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumber.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumber.GetHashCode()
+  nameWithType: SerialNumber.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumber.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.GetHashCode
+  nameWithType: SerialNumber.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumber.MachineId
+  name: MachineId
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_MachineId
+  commentId: P:Hsm.BaseTypes.SerialNumber.MachineId
+  fullName: Hsm.BaseTypes.SerialNumber.MachineId
+  nameWithType: SerialNumber.MachineId
+- uid: Hsm.BaseTypes.SerialNumber.MachineId*
+  name: MachineId
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_MachineId_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.MachineId
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.MachineId
+  nameWithType: SerialNumber.MachineId
+- uid: Hsm.BaseTypes.SerialNumber.op_Equality(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: Equality(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_Equality_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_Equality(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.Equality(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.Equality(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.Equality
+  nameWithType: SerialNumber.Equality
+- uid: Hsm.BaseTypes.SerialNumber.op_GreaterThan(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: GreaterThan(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_GreaterThan_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_GreaterThan(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.GreaterThan(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.GreaterThan(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.GreaterThan
+  nameWithType: SerialNumber.GreaterThan
+- uid: Hsm.BaseTypes.SerialNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: GreaterThanOrEqual(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_GreaterThanOrEqual_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.GreaterThanOrEqual(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.GreaterThanOrEqual(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.GreaterThanOrEqual
+  nameWithType: SerialNumber.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumber.op_Inequality(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: Inequality(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_Inequality_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_Inequality(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.Inequality(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.Inequality(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.Inequality
+  nameWithType: SerialNumber.Inequality
+- uid: Hsm.BaseTypes.SerialNumber.op_LessThan(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: LessThan(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_LessThan_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_LessThan(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.LessThan(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.LessThan(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.LessThan
+  nameWithType: SerialNumber.LessThan
+- uid: Hsm.BaseTypes.SerialNumber.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  name: LessThanOrEqual(SerialNumber, SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_LessThanOrEqual_Hsm_BaseTypes_SerialNumber_Hsm_BaseTypes_SerialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumber.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumber,Hsm.BaseTypes.SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.LessThanOrEqual(Hsm.BaseTypes.SerialNumber, Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.LessThanOrEqual(SerialNumber, SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.LessThanOrEqual
+  nameWithType: SerialNumber.LessThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumber.SequentialNumber
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_SequentialNumber
+  commentId: P:Hsm.BaseTypes.SerialNumber.SequentialNumber
+  fullName: Hsm.BaseTypes.SerialNumber.SequentialNumber
+  nameWithType: SerialNumber.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumber.SequentialNumber*
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_SequentialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.SequentialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.SequentialNumber
+  nameWithType: SerialNumber.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumber.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumber.ToString
+  fullName: Hsm.BaseTypes.SerialNumber.ToString()
+  nameWithType: SerialNumber.ToString()
+- uid: Hsm.BaseTypes.SerialNumber.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.ToString
+  nameWithType: SerialNumber.ToString
+- uid: Hsm.BaseTypes.SerialNumber.TryParse(System.String,Hsm.BaseTypes.SerialNumber@)
+  name: TryParse(String, out SerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_TryParse_System_String_Hsm_BaseTypes_SerialNumber__
+  commentId: M:Hsm.BaseTypes.SerialNumber.TryParse(System.String,Hsm.BaseTypes.SerialNumber@)
+  name.vb: TryParse(String, ByRef SerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumber.TryParse(System.String, out Hsm.BaseTypes.SerialNumber)
+  fullName.vb: Hsm.BaseTypes.SerialNumber.TryParse(System.String, ByRef Hsm.BaseTypes.SerialNumber)
+  nameWithType: SerialNumber.TryParse(String, out SerialNumber)
+  nameWithType.vb: SerialNumber.TryParse(String, ByRef SerialNumber)
+- uid: Hsm.BaseTypes.SerialNumber.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.SerialNumber.html#Hsm_BaseTypes_SerialNumber_TryParse_
+  commentId: Overload:Hsm.BaseTypes.SerialNumber.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumber.TryParse
+  nameWithType: SerialNumber.TryParse
