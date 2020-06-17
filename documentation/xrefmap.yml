@@ -1395,6 +1395,22 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SemanticVersion.ToString
   nameWithType: SemanticVersion.ToString
+- uid: Hsm.BaseTypes.SemanticVersion.TryParse(System.String,Hsm.BaseTypes.SemanticVersion@)
+  name: TryParse(String, out SemanticVersion)
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_TryParse_System_String_Hsm_BaseTypes_SemanticVersion__
+  commentId: M:Hsm.BaseTypes.SemanticVersion.TryParse(System.String,Hsm.BaseTypes.SemanticVersion@)
+  name.vb: TryParse(String, ByRef SemanticVersion)
+  fullName: Hsm.BaseTypes.SemanticVersion.TryParse(System.String, out Hsm.BaseTypes.SemanticVersion)
+  fullName.vb: Hsm.BaseTypes.SemanticVersion.TryParse(System.String, ByRef Hsm.BaseTypes.SemanticVersion)
+  nameWithType: SemanticVersion.TryParse(String, out SemanticVersion)
+  nameWithType.vb: SemanticVersion.TryParse(String, ByRef SemanticVersion)
+- uid: Hsm.BaseTypes.SemanticVersion.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.SemanticVersion.html#Hsm_BaseTypes_SemanticVersion_TryParse_
+  commentId: Overload:Hsm.BaseTypes.SemanticVersion.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SemanticVersion.TryParse
+  nameWithType: SemanticVersion.TryParse
 - uid: Hsm.BaseTypes.SerialNumber
   name: SerialNumber
   href: api/Hsm.BaseTypes.SerialNumber.html
