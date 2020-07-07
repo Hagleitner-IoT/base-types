@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class IdentifierPart
+    <title>Class AbsoluteDateInterval
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class IdentifierPart
+    <meta name="title" content="Class AbsoluteDateInterval
    ">
     <meta name="generator" content="docfx 2.52.0.0">
     
@@ -68,23 +68,28 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.IdentifierPart">
+            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.AbsoluteDateInterval">
   
   
-  <h1 id="Hsm_BaseTypes_IdentifierPart" data-uid="Hsm.BaseTypes.IdentifierPart" class="text-break">Class IdentifierPart
+  <h1 id="Hsm_BaseTypes_AbsoluteDateInterval" data-uid="Hsm.BaseTypes.AbsoluteDateInterval" class="text-break">Class AbsoluteDateInterval
   </h1>
-  <div class="markdown level0 summary"><p>Represents an abstract base class for any <a class="xref" href="Hsm.BaseTypes.IdentifierPart.html">IdentifierPart</a>.</p>
+  <div class="markdown level0 summary"><p>Represent a definition of an absolute date interval.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">IdentifierPart</span></div>
-      <div class="level2"><a class="xref" href="Hsm.BaseTypes.BuildIdentifierPart.html">BuildIdentifierPart</a></div>
-      <div class="level2"><a class="xref" href="Hsm.BaseTypes.PreReleaseIdentifierPart.html">PreReleaseIdentifierPart</a></div>
+    <div class="level1"><a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html">DateIntervalDefinition</a></div>
+    <div class="level2"><span class="xref">AbsoluteDateInterval</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_StartIncluded">DateIntervalDefinition.StartIncluded</a>
+    </div>
+    <div>
+      <a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_EndIncluded">DateIntervalDefinition.EndIncluded</a>
+    </div>
     <div>
       <span class="xref">System.Object.Equals(System.Object)</span>
     </div>
@@ -103,27 +108,30 @@
     <div>
       <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
     </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="Hsm.BaseTypes.html">Hsm.BaseTypes</a></h6>
   <h6><strong>Assembly</strong>: Hsm.BaseTypes.dll</h6>
-  <h5 id="Hsm_BaseTypes_IdentifierPart_syntax">Syntax</h5>
+  <h5 id="Hsm_BaseTypes_AbsoluteDateInterval_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract class IdentifierPart</code></pre>
+    <pre><code class="lang-csharp hljs">public class AbsoluteDateInterval : DateIntervalDefinition</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/VersionDefinition/IdentifierPart.cs&amp;version=GBDateInterval&amp;line=17">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/DateInterval/AbsoluteDateInterval.cs&amp;version=GBDateInterval&amp;line=18">View Source</a>
   </span>
-  <a id="Hsm_BaseTypes_IdentifierPart__ctor_" data-uid="Hsm.BaseTypes.IdentifierPart.#ctor*"></a>
-  <h4 id="Hsm_BaseTypes_IdentifierPart__ctor_System_String_" data-uid="Hsm.BaseTypes.IdentifierPart.#ctor(System.String)">IdentifierPart(String)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.IdentifierPart.html">IdentifierPart</a> class.</p>
+  <a id="Hsm_BaseTypes_AbsoluteDateInterval__ctor_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.#ctor*"></a>
+  <h4 id="Hsm_BaseTypes_AbsoluteDateInterval__ctor_System_DateTimeOffset_System_DateTimeOffset_System_Boolean_System_Boolean_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.#ctor(System.DateTimeOffset,System.DateTimeOffset,System.Boolean,System.Boolean)">AbsoluteDateInterval(DateTimeOffset, DateTimeOffset, Boolean, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.AbsoluteDateInterval.html">AbsoluteDateInterval</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public IdentifierPart(string value)</code></pre>
+    <pre><code class="lang-csharp hljs">public AbsoluteDateInterval(DateTimeOffset startDate, DateTimeOffset endDate, bool startIncluded, bool endIncluded)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -136,9 +144,27 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.String</span></td>
-        <td><span class="parametername">value</span></td>
-        <td><p>String representation of an identifier part.</p>
+        <td><span class="xref">System.DateTimeOffset</span></td>
+        <td><span class="parametername">startDate</span></td>
+        <td><p>The start date of the interval.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.DateTimeOffset</span></td>
+        <td><span class="parametername">endDate</span></td>
+        <td><p>The end date of the interval.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">startIncluded</span></td>
+        <td><p>Indicates whether the start date is included in the interval.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">endIncluded</span></td>
+        <td><p>Indicates whether the end date is included in the interval.</p>
 </td>
       </tr>
     </tbody>
@@ -154,12 +180,7 @@
     <tbody>
       <tr>
         <td><span class="xref">System.ArgumentException</span></td>
-        <td><p><code data-dev-comment-type="paramref" class="paramref">value</code> is null or empty.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.ArgumentException</span></td>
-        <td><p><code data-dev-comment-type="paramref" class="paramref">value</code> is not valid.</p>
+        <td><p><code data-dev-comment-type="paramref" class="paramref">startDate</code> is greater or equal than <code data-dev-comment-type="paramref" class="paramref">endDate</code>.</p>
 </td>
       </tr>
     </tbody>
@@ -168,16 +189,16 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/VersionDefinition/IdentifierPart.cs&amp;version=GBDateInterval&amp;line=37">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/DateInterval/AbsoluteDateInterval.cs&amp;version=GBDateInterval&amp;line=38">View Source</a>
   </span>
-  <a id="Hsm_BaseTypes_IdentifierPart_Value_" data-uid="Hsm.BaseTypes.IdentifierPart.Value*"></a>
-  <h4 id="Hsm_BaseTypes_IdentifierPart_Value" data-uid="Hsm.BaseTypes.IdentifierPart.Value">Value</h4>
-  <div class="markdown level1 summary"><p>Gets the part of the identifier.</p>
+  <a id="Hsm_BaseTypes_AbsoluteDateInterval_EndDate_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.EndDate*"></a>
+  <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_EndDate" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.EndDate">EndDate</h4>
+  <div class="markdown level1 summary"><p>Gets the end date of the interval.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string Value { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public DateTimeOffset EndDate { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -189,7 +210,35 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.String</span></td>
+        <td><span class="xref">System.DateTimeOffset</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/DateInterval/AbsoluteDateInterval.cs&amp;version=GBDateInterval&amp;line=33">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_AbsoluteDateInterval_StartDate_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.StartDate*"></a>
+  <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_StartDate" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.StartDate">StartDate</h4>
+  <div class="markdown level1 summary"><p>Gets the start date of the interval.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DateTimeOffset StartDate { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.DateTimeOffset</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -198,15 +247,16 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/VersionDefinition/IdentifierPart.cs&amp;version=GBDateInterval&amp;line=45">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/DateInterval/AbsoluteDateInterval.cs&amp;version=GBDateInterval&amp;line=41">View Source</a>
   </span>
-  <a id="Hsm_BaseTypes_IdentifierPart_ToString_" data-uid="Hsm.BaseTypes.IdentifierPart.ToString*"></a>
-  <h4 id="Hsm_BaseTypes_IdentifierPart_ToString" data-uid="Hsm.BaseTypes.IdentifierPart.ToString">ToString()</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="Hsm_BaseTypes_AbsoluteDateInterval_GetEffectiveInterval_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.GetEffectiveInterval*"></a>
+  <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_GetEffectiveInterval" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.GetEffectiveInterval">GetEffectiveInterval()</h4>
+  <div class="markdown level1 summary"><p>Gets the effective interval.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override string ToString()</code></pre>
+    <pre><code class="lang-csharp hljs">public override DateInterval GetEffectiveInterval()</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -218,13 +268,14 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.String</span></td>
-        <td></td>
+        <td><a class="xref" href="Hsm.BaseTypes.DateInterval.html">DateInterval</a></td>
+        <td><p>The effective date interval as <a class="xref" href="Hsm.BaseTypes.DateInterval.html">DateInterval</a>.</p>
+</td>
       </tr>
     </tbody>
   </table>
   <h5 class="overrides">Overrides</h5>
-  <div><span class="xref">System.Object.ToString()</span></div>
+  <div><a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_GetEffectiveInterval">DateIntervalDefinition.GetEffectiveInterval()</a></div>
 </article>
           </div>
           
@@ -233,7 +284,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/VersionDefinition/IdentifierPart.cs&amp;version=GBDateInterval&amp;line=9" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/DateInterval/AbsoluteDateInterval.cs&amp;version=GBDateInterval&amp;line=8" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
