@@ -837,6 +837,103 @@ references:
   commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Year
   fullName: Hsm.BaseTypes.DateTimeRoundingPart.Year
   nameWithType: DateTimeRoundingPart.Year
+- uid: Hsm.BaseTypes.DoubleInterval
+  name: DoubleInterval
+  href: api/Hsm.BaseTypes.DoubleInterval.html
+  commentId: T:Hsm.BaseTypes.DoubleInterval
+  fullName: Hsm.BaseTypes.DoubleInterval
+  nameWithType: DoubleInterval
+- uid: Hsm.BaseTypes.DoubleInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
+  name: DoubleInterval(Double, Double, Boolean, Boolean)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval__ctor_System_Double_System_Double_System_Boolean_System_Boolean_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
+  fullName: Hsm.BaseTypes.DoubleInterval.DoubleInterval(System.Double, System.Double, System.Boolean, System.Boolean)
+  nameWithType: DoubleInterval.DoubleInterval(Double, Double, Boolean, Boolean)
+- uid: Hsm.BaseTypes.DoubleInterval.#ctor*
+  name: DoubleInterval
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval__ctor_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.DoubleInterval
+  nameWithType: DoubleInterval.DoubleInterval
+- uid: Hsm.BaseTypes.DoubleInterval.From
+  name: From
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_From
+  commentId: P:Hsm.BaseTypes.DoubleInterval.From
+  fullName: Hsm.BaseTypes.DoubleInterval.From
+  nameWithType: DoubleInterval.From
+- uid: Hsm.BaseTypes.DoubleInterval.From*
+  name: From
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_From_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.From
+  nameWithType: DoubleInterval.From
+- uid: Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
+  name: IsInInterval(Double)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsInInterval_System_Double_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
+  fullName: Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
+  nameWithType: DoubleInterval.IsInInterval(Double)
+- uid: Hsm.BaseTypes.DoubleInterval.IsInInterval*
+  name: IsInInterval
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsInInterval_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsInInterval
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.IsInInterval
+  nameWithType: DoubleInterval.IsInInterval
+- uid: Hsm.BaseTypes.DoubleInterval.LeftOpen
+  name: LeftOpen
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_LeftOpen
+  commentId: P:Hsm.BaseTypes.DoubleInterval.LeftOpen
+  fullName: Hsm.BaseTypes.DoubleInterval.LeftOpen
+  nameWithType: DoubleInterval.LeftOpen
+- uid: Hsm.BaseTypes.DoubleInterval.LeftOpen*
+  name: LeftOpen
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_LeftOpen_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.LeftOpen
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.LeftOpen
+  nameWithType: DoubleInterval.LeftOpen
+- uid: Hsm.BaseTypes.DoubleInterval.RightOpen
+  name: RightOpen
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_RightOpen
+  commentId: P:Hsm.BaseTypes.DoubleInterval.RightOpen
+  fullName: Hsm.BaseTypes.DoubleInterval.RightOpen
+  nameWithType: DoubleInterval.RightOpen
+- uid: Hsm.BaseTypes.DoubleInterval.RightOpen*
+  name: RightOpen
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_RightOpen_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.RightOpen
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.RightOpen
+  nameWithType: DoubleInterval.RightOpen
+- uid: Hsm.BaseTypes.DoubleInterval.To
+  name: To
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_To
+  commentId: P:Hsm.BaseTypes.DoubleInterval.To
+  fullName: Hsm.BaseTypes.DoubleInterval.To
+  nameWithType: DoubleInterval.To
+- uid: Hsm.BaseTypes.DoubleInterval.To*
+  name: To
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_To_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.To
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.To
+  nameWithType: DoubleInterval.To
+- uid: Hsm.BaseTypes.DoubleInterval.ToString(System.String,System.Globalization.CultureInfo)
+  name: ToString(String, CultureInfo)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_ToString_System_String_System_Globalization_CultureInfo_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.ToString(System.String,System.Globalization.CultureInfo)
+  fullName: Hsm.BaseTypes.DoubleInterval.ToString(System.String, System.Globalization.CultureInfo)
+  nameWithType: DoubleInterval.ToString(String, CultureInfo)
+- uid: Hsm.BaseTypes.DoubleInterval.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_ToString_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.ToString
+  nameWithType: DoubleInterval.ToString
 - uid: Hsm.BaseTypes.Eui64
   name: Eui64
   href: api/Hsm.BaseTypes.Eui64.html
