@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/daniel.egger/source/repos/HsmBaseTypesDoubleInterval/DotNet/Documentation",
+  "source_base_path": "C:/Git Repositories/HSM BaseTypes/DotNet/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.AbsoluteDateInterval.html",
-          "hash": "gJ2nRoVTE3ewEjDQp1fUaw=="
+          "hash": "mf4Y2sEBNORYtVoCw5i95Q=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Base36Cipher.html",
-          "hash": "HNK+O1loDy+HhW9mCRKTyA=="
+          "hash": "+Fd4yBe7zIacS1hWn5fq1w=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.BuildIdentifier.html",
-          "hash": "5OLUIY40ibYwRJx0eIpZfg=="
+          "hash": "mRlZsyizV7Zks/OmROQWxA=="
         }
       },
       "is_incremental": false,
@@ -45,19 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.BuildIdentifierPart.html",
-          "hash": "/yRJg1VAVc3Z4iQc+7QWOQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Hsm.BaseTypes.DateInterval.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Hsm.BaseTypes.DateInterval.html",
-          "hash": "aFirKhcByeOZRYNOIAfZRA=="
+          "hash": "PZmfAnB5of7Zl3jBL1DEgg=="
         }
       },
       "is_incremental": false,
@@ -69,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalDefinition.html",
-          "hash": "Ckjsg9+pjMSthPqDLmbG5g=="
+          "hash": "Uc/BBNJ3d+3tegLwtwqcdA=="
         }
       },
       "is_incremental": false,
@@ -81,7 +69,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateTimeAdjustmentMethod.html",
-          "hash": "sYNs2vLMov3FkOoOaa8Lbg=="
+          "hash": "AYbtPBk+EhBPC8MrbdR7gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeOffsetInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeOffsetInterval.html",
+          "hash": "hngwyxxnveWGrvd3OOW5CQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateTimeRoundingPart.html",
-          "hash": "KZh8tp56+yBDQAL/bllG9A=="
+          "hash": "hk2eWltKqojtchouMpNIkA=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DoubleInterval.html",
-          "hash": "jy/c/7Y4QvnCX9weii7rZA=="
+          "hash": "SMm90Ple6/3++ft8SsqRIw=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui64.html",
-          "hash": "j1w1KMfFNCV57F6rSPhLTA=="
+          "hash": "XD8iRnY+kjUJoR+ReaqDcA=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui64Presentation.html",
-          "hash": "WndFDYq9F0rySqFEdk61LQ=="
+          "hash": "gTbSiz4mD7p0ZiMS38W3aQ=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.IVersion.html",
-          "hash": "3dKfrB189VKoIX2mV6zZ6w=="
+          "hash": "gIb7GUjiC0mfG9kPe2gbRA=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.IdentifierPart.html",
-          "hash": "pun5+p5zYGVeLRYDn32VMA=="
+          "hash": "zTfbddBMgUmZr+hv1NTpdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IntervalBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IntervalBase-1.html",
+          "hash": "hHKsUeLRLgyybI7iHS+vag=="
         }
       },
       "is_incremental": false,
@@ -165,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.MonthOffset.html",
-          "hash": "ikAq0BrHLe4MPsRvy82Yug=="
+          "hash": "5nyiaF2Uzi0pXGejo6cxIQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifier.html",
-          "hash": "EWDqF+1oWWpVQ6PMRDU15A=="
+          "hash": "St11Rgd3o+lopFW1yKx+tA=="
         }
       },
       "is_incremental": false,
@@ -189,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifierPart.html",
-          "hash": "lp1Uf+M/fiCZuev45JfS5Q=="
+          "hash": "DYj4+cNulpQY2/RhVXPSCA=="
         }
       },
       "is_incremental": false,
@@ -201,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.RelativeDateInterval.html",
-          "hash": "i9cYqEnxx3zXu4K7cpK0tg=="
+          "hash": "Ce1K87Ogm+/bpCmBY48vbg=="
         }
       },
       "is_incremental": false,
@@ -213,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SemanticVersion.html",
-          "hash": "RbT5z9R0p2GzAeEWq2O5rg=="
+          "hash": "9REK0yYKtjPokIhv1SQfDg=="
         }
       },
       "is_incremental": false,
@@ -225,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumber.html",
-          "hash": "eZg88bZALJojPyxWcjkk7w=="
+          "hash": "gVtiEGiU0RVC0h+67DL06A=="
         }
       },
       "is_incremental": false,
@@ -237,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.TimeIntervalOffset.html",
-          "hash": "lE3Fg7fQA/VzvcTEFkPcPQ=="
+          "hash": "JqqGNuYJ1P8b8Yq0Dr8t3Q=="
         }
       },
       "is_incremental": false,
@@ -249,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.TimeOffset.html",
-          "hash": "1w+gwWMCcU4bXzs1kEGd2w=="
+          "hash": "YVOOOUKLorF3BmXSrHWuRA=="
         }
       },
       "is_incremental": false,
@@ -261,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.html",
-          "hash": "dt6j+E8yDdX5xJqzs9Fdsg=="
+          "hash": "8ZfZpPGoY9k8fadGrc0Jhg=="
         }
       },
       "is_incremental": false,
@@ -273,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "eJ9NKPQwTkFAULSqqcVvjw=="
+          "hash": "TI+wmVl0szzavQm6Ti0GNA=="
         }
       },
       "is_incremental": false,
@@ -285,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "0lqpae3jjcWUjKSWIIsxmw=="
+          "hash": "xtZkOhPe6IjccA5XpOr4SA=="
         }
       },
       "is_incremental": false,
@@ -297,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/quickstart.html",
-          "hash": "o4w7zNizwYdcws8cmkLatw=="
+          "hash": "es1P8G4o0LUwZkftAT5kKA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -321,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "YRDIRysEEHQdZBvBAlKerw=="
+          "hash": "u6ni0znlVuu3m4t30ipA2g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -343,24 +355,22 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Disable incremental build by force rebuild option.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ForceRebuild"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 0
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 22,
+          "total_file_count": 23,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
@@ -374,8 +384,8 @@
     },
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

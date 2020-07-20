@@ -629,90 +629,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.BuildIdentifierPart.BuildIdentifierPart
   nameWithType: BuildIdentifierPart.BuildIdentifierPart
-- uid: Hsm.BaseTypes.DateInterval
-  name: DateInterval
-  href: api/Hsm.BaseTypes.DateInterval.html
-  commentId: T:Hsm.BaseTypes.DateInterval
-  fullName: Hsm.BaseTypes.DateInterval
-  nameWithType: DateInterval
-- uid: Hsm.BaseTypes.DateInterval.#ctor(System.DateTimeOffset,System.DateTimeOffset,System.Boolean,System.Boolean)
-  name: DateInterval(DateTimeOffset, DateTimeOffset, Boolean, Boolean)
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval__ctor_System_DateTimeOffset_System_DateTimeOffset_System_Boolean_System_Boolean_
-  commentId: M:Hsm.BaseTypes.DateInterval.#ctor(System.DateTimeOffset,System.DateTimeOffset,System.Boolean,System.Boolean)
-  fullName: Hsm.BaseTypes.DateInterval.DateInterval(System.DateTimeOffset, System.DateTimeOffset, System.Boolean, System.Boolean)
-  nameWithType: DateInterval.DateInterval(DateTimeOffset, DateTimeOffset, Boolean, Boolean)
-- uid: Hsm.BaseTypes.DateInterval.#ctor*
-  name: DateInterval
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval__ctor_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.DateInterval
-  nameWithType: DateInterval.DateInterval
-- uid: Hsm.BaseTypes.DateInterval.EndDate
-  name: EndDate
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_EndDate
-  commentId: P:Hsm.BaseTypes.DateInterval.EndDate
-  fullName: Hsm.BaseTypes.DateInterval.EndDate
-  nameWithType: DateInterval.EndDate
-- uid: Hsm.BaseTypes.DateInterval.EndDate*
-  name: EndDate
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_EndDate_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.EndDate
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.EndDate
-  nameWithType: DateInterval.EndDate
-- uid: Hsm.BaseTypes.DateInterval.EndIncluded
-  name: EndIncluded
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_EndIncluded
-  commentId: P:Hsm.BaseTypes.DateInterval.EndIncluded
-  fullName: Hsm.BaseTypes.DateInterval.EndIncluded
-  nameWithType: DateInterval.EndIncluded
-- uid: Hsm.BaseTypes.DateInterval.EndIncluded*
-  name: EndIncluded
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_EndIncluded_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.EndIncluded
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.EndIncluded
-  nameWithType: DateInterval.EndIncluded
-- uid: Hsm.BaseTypes.DateInterval.IsInInterval(System.DateTimeOffset)
-  name: IsInInterval(DateTimeOffset)
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_IsInInterval_System_DateTimeOffset_
-  commentId: M:Hsm.BaseTypes.DateInterval.IsInInterval(System.DateTimeOffset)
-  fullName: Hsm.BaseTypes.DateInterval.IsInInterval(System.DateTimeOffset)
-  nameWithType: DateInterval.IsInInterval(DateTimeOffset)
-- uid: Hsm.BaseTypes.DateInterval.IsInInterval*
-  name: IsInInterval
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_IsInInterval_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.IsInInterval
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.IsInInterval
-  nameWithType: DateInterval.IsInInterval
-- uid: Hsm.BaseTypes.DateInterval.StartDate
-  name: StartDate
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_StartDate
-  commentId: P:Hsm.BaseTypes.DateInterval.StartDate
-  fullName: Hsm.BaseTypes.DateInterval.StartDate
-  nameWithType: DateInterval.StartDate
-- uid: Hsm.BaseTypes.DateInterval.StartDate*
-  name: StartDate
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_StartDate_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.StartDate
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.StartDate
-  nameWithType: DateInterval.StartDate
-- uid: Hsm.BaseTypes.DateInterval.StartIncluded
-  name: StartIncluded
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_StartIncluded
-  commentId: P:Hsm.BaseTypes.DateInterval.StartIncluded
-  fullName: Hsm.BaseTypes.DateInterval.StartIncluded
-  nameWithType: DateInterval.StartIncluded
-- uid: Hsm.BaseTypes.DateInterval.StartIncluded*
-  name: StartIncluded
-  href: api/Hsm.BaseTypes.DateInterval.html#Hsm_BaseTypes_DateInterval_StartIncluded_
-  commentId: Overload:Hsm.BaseTypes.DateInterval.StartIncluded
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.DateInterval.StartIncluded
-  nameWithType: DateInterval.StartIncluded
 - uid: Hsm.BaseTypes.DateIntervalDefinition
   name: DateIntervalDefinition
   href: api/Hsm.BaseTypes.DateIntervalDefinition.html
@@ -795,6 +711,187 @@ references:
   commentId: F:Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   fullName: Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   nameWithType: DateTimeAdjustmentMethod.Round
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval
+  name: DateTimeOffsetInterval
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html
+  commentId: T:Hsm.BaseTypes.DateTimeOffsetInterval
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval
+  nameWithType: DateTimeOffsetInterval
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.#ctor(System.DateTimeOffset,System.DateTimeOffset,System.Boolean,System.Boolean)
+  name: DateTimeOffsetInterval(DateTimeOffset, DateTimeOffset, Boolean, Boolean)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval__ctor_System_DateTimeOffset_System_DateTimeOffset_System_Boolean_System_Boolean_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.#ctor(System.DateTimeOffset,System.DateTimeOffset,System.Boolean,System.Boolean)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.DateTimeOffsetInterval(System.DateTimeOffset, System.DateTimeOffset, System.Boolean, System.Boolean)
+  nameWithType: DateTimeOffsetInterval.DateTimeOffsetInterval(DateTimeOffset, DateTimeOffset, Boolean, Boolean)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.#ctor*
+  name: DateTimeOffsetInterval
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval__ctor_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.DateTimeOffsetInterval
+  nameWithType: DateTimeOffsetInterval.DateTimeOffsetInterval
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Contains(Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: Contains(DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Contains_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.Contains(Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Contains(Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.Contains(DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Contains*
+  name: Contains
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Contains_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.Contains
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Contains
+  nameWithType: DateTimeOffsetInterval.Contains
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Equals(Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: Equals(DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Equals_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.Equals(Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Equals(Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.Equals(DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.Equals(System.Object)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Equals(System.Object)
+  nameWithType: DateTimeOffsetInterval.Equals(Object)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Equals_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Equals
+  nameWithType: DateTimeOffsetInterval.Equals
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_GetHashCode
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode()
+  nameWithType: DateTimeOffsetInterval.GetHashCode()
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.GetHashCode
+  nameWithType: DateTimeOffsetInterval.GetHashCode
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Intersects(Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: Intersects(DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Intersects_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.Intersects(Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Intersects(Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.Intersects(DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Intersects*
+  name: Intersects
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Intersects_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.Intersects
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Intersects
+  nameWithType: DateTimeOffsetInterval.Intersects
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsContained(Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: IsContained(DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsContained_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.IsContained(Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsContained(Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.IsContained(DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsContained*
+  name: IsContained
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsContained_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.IsContained
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsContained
+  nameWithType: DateTimeOffsetInterval.IsContained
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsLeftBounded
+  commentId: P:Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded
+  nameWithType: DateTimeOffsetInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded*
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsLeftBounded_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsLeftBounded
+  nameWithType: DateTimeOffsetInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity(System.DateTimeOffset)
+  name: IsNegativeInfinity(DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsNegativeInfinity_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity(System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity(System.DateTimeOffset)
+  nameWithType: DateTimeOffsetInterval.IsNegativeInfinity(DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity*
+  name: IsNegativeInfinity
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsNegativeInfinity_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsNegativeInfinity
+  nameWithType: DateTimeOffsetInterval.IsNegativeInfinity
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity(System.DateTimeOffset)
+  name: IsPositiveInfinity(DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsPositiveInfinity_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity(System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity(System.DateTimeOffset)
+  nameWithType: DateTimeOffsetInterval.IsPositiveInfinity(DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity*
+  name: IsPositiveInfinity
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsPositiveInfinity_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsPositiveInfinity
+  nameWithType: DateTimeOffsetInterval.IsPositiveInfinity
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsRightBounded
+  commentId: P:Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded
+  nameWithType: DateTimeOffsetInterval.IsRightBounded
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded*
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_IsRightBounded_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.IsRightBounded
+  nameWithType: DateTimeOffsetInterval.IsRightBounded
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.op_Equality(Hsm.BaseTypes.DateTimeOffsetInterval,Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: Equality(DateTimeOffsetInterval, DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_op_Equality_Hsm_BaseTypes_DateTimeOffsetInterval_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.op_Equality(Hsm.BaseTypes.DateTimeOffsetInterval,Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Equality(Hsm.BaseTypes.DateTimeOffsetInterval, Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.Equality(DateTimeOffsetInterval, DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Equality
+  nameWithType: DateTimeOffsetInterval.Equality
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.op_Inequality(Hsm.BaseTypes.DateTimeOffsetInterval,Hsm.BaseTypes.DateTimeOffsetInterval)
+  name: Inequality(DateTimeOffsetInterval, DateTimeOffsetInterval)
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_op_Inequality_Hsm_BaseTypes_DateTimeOffsetInterval_Hsm_BaseTypes_DateTimeOffsetInterval_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetInterval.op_Inequality(Hsm.BaseTypes.DateTimeOffsetInterval,Hsm.BaseTypes.DateTimeOffsetInterval)
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Inequality(Hsm.BaseTypes.DateTimeOffsetInterval, Hsm.BaseTypes.DateTimeOffsetInterval)
+  nameWithType: DateTimeOffsetInterval.Inequality(DateTimeOffsetInterval, DateTimeOffsetInterval)
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Inequality
+  nameWithType: DateTimeOffsetInterval.Inequality
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
+  name: Unbounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Unbounded
+  commentId: P:Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
+  nameWithType: DateTimeOffsetInterval.Unbounded
+- uid: Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded*
+  name: Unbounded
+  href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html#Hsm_BaseTypes_DateTimeOffsetInterval_Unbounded_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
+  nameWithType: DateTimeOffsetInterval.Unbounded
 - uid: Hsm.BaseTypes.DateTimeRoundingPart
   name: DateTimeRoundingPart
   href: api/Hsm.BaseTypes.DateTimeRoundingPart.html
@@ -856,84 +953,168 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.DoubleInterval.DoubleInterval
   nameWithType: DoubleInterval.DoubleInterval
-- uid: Hsm.BaseTypes.DoubleInterval.From
-  name: From
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_From
-  commentId: P:Hsm.BaseTypes.DoubleInterval.From
-  fullName: Hsm.BaseTypes.DoubleInterval.From
-  nameWithType: DoubleInterval.From
-- uid: Hsm.BaseTypes.DoubleInterval.From*
-  name: From
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_From_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.From
+- uid: Hsm.BaseTypes.DoubleInterval.Contains(Hsm.BaseTypes.DoubleInterval)
+  name: Contains(DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Contains_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.Contains(Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.Contains(Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.Contains(DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.Contains*
+  name: Contains
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Contains_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.Contains
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.From
-  nameWithType: DoubleInterval.From
-- uid: Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
-  name: IsInInterval(Double)
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsInInterval_System_Double_
-  commentId: M:Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
-  fullName: Hsm.BaseTypes.DoubleInterval.IsInInterval(System.Double)
-  nameWithType: DoubleInterval.IsInInterval(Double)
-- uid: Hsm.BaseTypes.DoubleInterval.IsInInterval*
-  name: IsInInterval
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsInInterval_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsInInterval
+  fullName: Hsm.BaseTypes.DoubleInterval.Contains
+  nameWithType: DoubleInterval.Contains
+- uid: Hsm.BaseTypes.DoubleInterval.Equals(Hsm.BaseTypes.DoubleInterval)
+  name: Equals(DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Equals_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.Equals(Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.Equals(Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.Equals(DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.Equals(System.Object)
+  fullName: Hsm.BaseTypes.DoubleInterval.Equals(System.Object)
+  nameWithType: DoubleInterval.Equals(Object)
+- uid: Hsm.BaseTypes.DoubleInterval.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Equals_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.Equals
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.IsInInterval
-  nameWithType: DoubleInterval.IsInInterval
-- uid: Hsm.BaseTypes.DoubleInterval.LeftOpen
-  name: LeftOpen
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_LeftOpen
-  commentId: P:Hsm.BaseTypes.DoubleInterval.LeftOpen
-  fullName: Hsm.BaseTypes.DoubleInterval.LeftOpen
-  nameWithType: DoubleInterval.LeftOpen
-- uid: Hsm.BaseTypes.DoubleInterval.LeftOpen*
-  name: LeftOpen
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_LeftOpen_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.LeftOpen
+  fullName: Hsm.BaseTypes.DoubleInterval.Equals
+  nameWithType: DoubleInterval.Equals
+- uid: Hsm.BaseTypes.DoubleInterval.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_GetHashCode
+  commentId: M:Hsm.BaseTypes.DoubleInterval.GetHashCode
+  fullName: Hsm.BaseTypes.DoubleInterval.GetHashCode()
+  nameWithType: DoubleInterval.GetHashCode()
+- uid: Hsm.BaseTypes.DoubleInterval.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.GetHashCode
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.LeftOpen
-  nameWithType: DoubleInterval.LeftOpen
-- uid: Hsm.BaseTypes.DoubleInterval.RightOpen
-  name: RightOpen
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_RightOpen
-  commentId: P:Hsm.BaseTypes.DoubleInterval.RightOpen
-  fullName: Hsm.BaseTypes.DoubleInterval.RightOpen
-  nameWithType: DoubleInterval.RightOpen
-- uid: Hsm.BaseTypes.DoubleInterval.RightOpen*
-  name: RightOpen
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_RightOpen_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.RightOpen
+  fullName: Hsm.BaseTypes.DoubleInterval.GetHashCode
+  nameWithType: DoubleInterval.GetHashCode
+- uid: Hsm.BaseTypes.DoubleInterval.Intersects(Hsm.BaseTypes.DoubleInterval)
+  name: Intersects(DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Intersects_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.Intersects(Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.Intersects(Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.Intersects(DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.Intersects*
+  name: Intersects
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Intersects_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.Intersects
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.RightOpen
-  nameWithType: DoubleInterval.RightOpen
-- uid: Hsm.BaseTypes.DoubleInterval.To
-  name: To
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_To
-  commentId: P:Hsm.BaseTypes.DoubleInterval.To
-  fullName: Hsm.BaseTypes.DoubleInterval.To
-  nameWithType: DoubleInterval.To
-- uid: Hsm.BaseTypes.DoubleInterval.To*
-  name: To
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_To_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.To
+  fullName: Hsm.BaseTypes.DoubleInterval.Intersects
+  nameWithType: DoubleInterval.Intersects
+- uid: Hsm.BaseTypes.DoubleInterval.IsContained(Hsm.BaseTypes.DoubleInterval)
+  name: IsContained(DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsContained_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.IsContained(Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.IsContained(Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.IsContained(DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.IsContained*
+  name: IsContained
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsContained_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsContained
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.To
-  nameWithType: DoubleInterval.To
-- uid: Hsm.BaseTypes.DoubleInterval.ToString(System.String,System.Globalization.CultureInfo)
-  name: ToString(String, CultureInfo)
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_ToString_System_String_System_Globalization_CultureInfo_
-  commentId: M:Hsm.BaseTypes.DoubleInterval.ToString(System.String,System.Globalization.CultureInfo)
-  fullName: Hsm.BaseTypes.DoubleInterval.ToString(System.String, System.Globalization.CultureInfo)
-  nameWithType: DoubleInterval.ToString(String, CultureInfo)
-- uid: Hsm.BaseTypes.DoubleInterval.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_ToString_
-  commentId: Overload:Hsm.BaseTypes.DoubleInterval.ToString
+  fullName: Hsm.BaseTypes.DoubleInterval.IsContained
+  nameWithType: DoubleInterval.IsContained
+- uid: Hsm.BaseTypes.DoubleInterval.IsLeftBounded
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsLeftBounded
+  commentId: P:Hsm.BaseTypes.DoubleInterval.IsLeftBounded
+  fullName: Hsm.BaseTypes.DoubleInterval.IsLeftBounded
+  nameWithType: DoubleInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.DoubleInterval.IsLeftBounded*
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsLeftBounded_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsLeftBounded
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DoubleInterval.ToString
-  nameWithType: DoubleInterval.ToString
+  fullName: Hsm.BaseTypes.DoubleInterval.IsLeftBounded
+  nameWithType: DoubleInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity(System.Double)
+  name: IsNegativeInfinity(Double)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsNegativeInfinity_System_Double_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity(System.Double)
+  fullName: Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity(System.Double)
+  nameWithType: DoubleInterval.IsNegativeInfinity(Double)
+- uid: Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity*
+  name: IsNegativeInfinity
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsNegativeInfinity_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.IsNegativeInfinity
+  nameWithType: DoubleInterval.IsNegativeInfinity
+- uid: Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity(System.Double)
+  name: IsPositiveInfinity(Double)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsPositiveInfinity_System_Double_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity(System.Double)
+  fullName: Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity(System.Double)
+  nameWithType: DoubleInterval.IsPositiveInfinity(Double)
+- uid: Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity*
+  name: IsPositiveInfinity
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsPositiveInfinity_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.IsPositiveInfinity
+  nameWithType: DoubleInterval.IsPositiveInfinity
+- uid: Hsm.BaseTypes.DoubleInterval.IsRightBounded
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsRightBounded
+  commentId: P:Hsm.BaseTypes.DoubleInterval.IsRightBounded
+  fullName: Hsm.BaseTypes.DoubleInterval.IsRightBounded
+  nameWithType: DoubleInterval.IsRightBounded
+- uid: Hsm.BaseTypes.DoubleInterval.IsRightBounded*
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_IsRightBounded_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.IsRightBounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.IsRightBounded
+  nameWithType: DoubleInterval.IsRightBounded
+- uid: Hsm.BaseTypes.DoubleInterval.op_Equality(Hsm.BaseTypes.DoubleInterval,Hsm.BaseTypes.DoubleInterval)
+  name: Equality(DoubleInterval, DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_op_Equality_Hsm_BaseTypes_DoubleInterval_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.op_Equality(Hsm.BaseTypes.DoubleInterval,Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.Equality(Hsm.BaseTypes.DoubleInterval, Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.Equality(DoubleInterval, DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.Equality
+  nameWithType: DoubleInterval.Equality
+- uid: Hsm.BaseTypes.DoubleInterval.op_Inequality(Hsm.BaseTypes.DoubleInterval,Hsm.BaseTypes.DoubleInterval)
+  name: Inequality(DoubleInterval, DoubleInterval)
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_op_Inequality_Hsm_BaseTypes_DoubleInterval_Hsm_BaseTypes_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.DoubleInterval.op_Inequality(Hsm.BaseTypes.DoubleInterval,Hsm.BaseTypes.DoubleInterval)
+  fullName: Hsm.BaseTypes.DoubleInterval.Inequality(Hsm.BaseTypes.DoubleInterval, Hsm.BaseTypes.DoubleInterval)
+  nameWithType: DoubleInterval.Inequality(DoubleInterval, DoubleInterval)
+- uid: Hsm.BaseTypes.DoubleInterval.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.Inequality
+  nameWithType: DoubleInterval.Inequality
+- uid: Hsm.BaseTypes.DoubleInterval.Unbounded
+  name: Unbounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Unbounded
+  commentId: P:Hsm.BaseTypes.DoubleInterval.Unbounded
+  fullName: Hsm.BaseTypes.DoubleInterval.Unbounded
+  nameWithType: DoubleInterval.Unbounded
+- uid: Hsm.BaseTypes.DoubleInterval.Unbounded*
+  name: Unbounded
+  href: api/Hsm.BaseTypes.DoubleInterval.html#Hsm_BaseTypes_DoubleInterval_Unbounded_
+  commentId: Overload:Hsm.BaseTypes.DoubleInterval.Unbounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DoubleInterval.Unbounded
+  nameWithType: DoubleInterval.Unbounded
 - uid: Hsm.BaseTypes.Eui64
   name: Eui64
   href: api/Hsm.BaseTypes.Eui64.html
@@ -1189,6 +1370,350 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.IdentifierPart.Value
   nameWithType: IdentifierPart.Value
+- uid: Hsm.BaseTypes.IntervalBase`1
+  name: IntervalBase<T>
+  href: api/Hsm.BaseTypes.IntervalBase-1.html
+  commentId: T:Hsm.BaseTypes.IntervalBase`1
+  name.vb: IntervalBase(Of T)
+  fullName: Hsm.BaseTypes.IntervalBase<T>
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T)
+  nameWithType: IntervalBase<T>
+  nameWithType.vb: IntervalBase(Of T)
+- uid: Hsm.BaseTypes.IntervalBase`1.#ctor(`0,`0,System.Boolean,System.Boolean)
+  name: IntervalBase(T, T, Boolean, Boolean)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1__ctor__0__0_System_Boolean_System_Boolean_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.#ctor(`0,`0,System.Boolean,System.Boolean)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IntervalBase(T, T, System.Boolean, System.Boolean)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IntervalBase(T, T, System.Boolean, System.Boolean)
+  nameWithType: IntervalBase<T>.IntervalBase(T, T, Boolean, Boolean)
+  nameWithType.vb: IntervalBase(Of T).IntervalBase(T, T, Boolean, Boolean)
+- uid: Hsm.BaseTypes.IntervalBase`1.#ctor*
+  name: IntervalBase
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1__ctor_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IntervalBase
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IntervalBase
+  nameWithType: IntervalBase<T>.IntervalBase
+  nameWithType.vb: IntervalBase(Of T).IntervalBase
+- uid: Hsm.BaseTypes.IntervalBase`1.Contains(Hsm.BaseTypes.IntervalBase{`0})
+  name: Contains(IntervalBase<T>)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Contains_Hsm_BaseTypes_IntervalBase__0__
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.Contains(Hsm.BaseTypes.IntervalBase{`0})
+  name.vb: Contains(IntervalBase(Of T))
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Contains(Hsm.BaseTypes.IntervalBase<T>)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Contains(Hsm.BaseTypes.IntervalBase(Of T))
+  nameWithType: IntervalBase<T>.Contains(IntervalBase<T>)
+  nameWithType.vb: IntervalBase(Of T).Contains(IntervalBase(Of T))
+- uid: Hsm.BaseTypes.IntervalBase`1.Contains*
+  name: Contains
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Contains_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.Contains
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Contains
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Contains
+  nameWithType: IntervalBase<T>.Contains
+  nameWithType.vb: IntervalBase(Of T).Contains
+- uid: Hsm.BaseTypes.IntervalBase`1.Equals(Hsm.BaseTypes.IntervalBase{`0})
+  name: Equals(IntervalBase<T>)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Equals_Hsm_BaseTypes_IntervalBase__0__
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.Equals(Hsm.BaseTypes.IntervalBase{`0})
+  name.vb: Equals(IntervalBase(Of T))
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Equals(Hsm.BaseTypes.IntervalBase<T>)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Equals(Hsm.BaseTypes.IntervalBase(Of T))
+  nameWithType: IntervalBase<T>.Equals(IntervalBase<T>)
+  nameWithType.vb: IntervalBase(Of T).Equals(IntervalBase(Of T))
+- uid: Hsm.BaseTypes.IntervalBase`1.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Equals_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Equals
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Equals
+  nameWithType: IntervalBase<T>.Equals
+  nameWithType.vb: IntervalBase(Of T).Equals
+- uid: Hsm.BaseTypes.IntervalBase`1.Intersects(Hsm.BaseTypes.IntervalBase{`0})
+  name: Intersects(IntervalBase<T>)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Intersects_Hsm_BaseTypes_IntervalBase__0__
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.Intersects(Hsm.BaseTypes.IntervalBase{`0})
+  name.vb: Intersects(IntervalBase(Of T))
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Intersects(Hsm.BaseTypes.IntervalBase<T>)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Intersects(Hsm.BaseTypes.IntervalBase(Of T))
+  nameWithType: IntervalBase<T>.Intersects(IntervalBase<T>)
+  nameWithType.vb: IntervalBase(Of T).Intersects(IntervalBase(Of T))
+- uid: Hsm.BaseTypes.IntervalBase`1.Intersects*
+  name: Intersects
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_Intersects_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.Intersects
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.Intersects
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).Intersects
+  nameWithType: IntervalBase<T>.Intersects
+  nameWithType.vb: IntervalBase(Of T).Intersects
+- uid: Hsm.BaseTypes.IntervalBase`1.IsContained(Hsm.BaseTypes.IntervalBase{`0})
+  name: IsContained(IntervalBase<T>)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsContained_Hsm_BaseTypes_IntervalBase__0__
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.IsContained(Hsm.BaseTypes.IntervalBase{`0})
+  name.vb: IsContained(IntervalBase(Of T))
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsContained(Hsm.BaseTypes.IntervalBase<T>)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsContained(Hsm.BaseTypes.IntervalBase(Of T))
+  nameWithType: IntervalBase<T>.IsContained(IntervalBase<T>)
+  nameWithType.vb: IntervalBase(Of T).IsContained(IntervalBase(Of T))
+- uid: Hsm.BaseTypes.IntervalBase`1.IsContained*
+  name: IsContained
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsContained_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsContained
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsContained
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsContained
+  nameWithType: IntervalBase<T>.IsContained
+  nameWithType.vb: IntervalBase(Of T).IsContained
+- uid: Hsm.BaseTypes.IntervalBase`1.IsDegenerated
+  name: IsDegenerated
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsDegenerated
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.IsDegenerated
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsDegenerated
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsDegenerated
+  nameWithType: IntervalBase<T>.IsDegenerated
+  nameWithType.vb: IntervalBase(Of T).IsDegenerated
+- uid: Hsm.BaseTypes.IntervalBase`1.IsDegenerated*
+  name: IsDegenerated
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsDegenerated_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsDegenerated
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsDegenerated
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsDegenerated
+  nameWithType: IntervalBase<T>.IsDegenerated
+  nameWithType.vb: IntervalBase(Of T).IsDegenerated
+- uid: Hsm.BaseTypes.IntervalBase`1.IsEmpty
+  name: IsEmpty
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsEmpty
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.IsEmpty
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsEmpty
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsEmpty
+  nameWithType: IntervalBase<T>.IsEmpty
+  nameWithType.vb: IntervalBase(Of T).IsEmpty
+- uid: Hsm.BaseTypes.IntervalBase`1.IsEmpty*
+  name: IsEmpty
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsEmpty_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsEmpty
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsEmpty
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsEmpty
+  nameWithType: IntervalBase<T>.IsEmpty
+  nameWithType.vb: IntervalBase(Of T).IsEmpty
+- uid: Hsm.BaseTypes.IntervalBase`1.IsInfinity(`0)
+  name: IsInfinity(T)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsInfinity__0_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.IsInfinity(`0)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsInfinity(T)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsInfinity(T)
+  nameWithType: IntervalBase<T>.IsInfinity(T)
+  nameWithType.vb: IntervalBase(Of T).IsInfinity(T)
+- uid: Hsm.BaseTypes.IntervalBase`1.IsInfinity*
+  name: IsInfinity
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsInfinity_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsInfinity
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsInfinity
+  nameWithType: IntervalBase<T>.IsInfinity
+  nameWithType.vb: IntervalBase(Of T).IsInfinity
+- uid: Hsm.BaseTypes.IntervalBase`1.IsInInterval(`0)
+  name: IsInInterval(T)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsInInterval__0_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.IsInInterval(`0)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsInInterval(T)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsInInterval(T)
+  nameWithType: IntervalBase<T>.IsInInterval(T)
+  nameWithType.vb: IntervalBase(Of T).IsInInterval(T)
+- uid: Hsm.BaseTypes.IntervalBase`1.IsInInterval*
+  name: IsInInterval
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsInInterval_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsInInterval
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsInInterval
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsInInterval
+  nameWithType: IntervalBase<T>.IsInInterval
+  nameWithType.vb: IntervalBase(Of T).IsInInterval
+- uid: Hsm.BaseTypes.IntervalBase`1.IsLeftBounded
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsLeftBounded
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.IsLeftBounded
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsLeftBounded
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsLeftBounded
+  nameWithType: IntervalBase<T>.IsLeftBounded
+  nameWithType.vb: IntervalBase(Of T).IsLeftBounded
+- uid: Hsm.BaseTypes.IntervalBase`1.IsLeftBounded*
+  name: IsLeftBounded
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsLeftBounded_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsLeftBounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsLeftBounded
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsLeftBounded
+  nameWithType: IntervalBase<T>.IsLeftBounded
+  nameWithType.vb: IntervalBase(Of T).IsLeftBounded
+- uid: Hsm.BaseTypes.IntervalBase`1.IsNegativeInfinity(`0)
+  name: IsNegativeInfinity(T)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsNegativeInfinity__0_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.IsNegativeInfinity(`0)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsNegativeInfinity(T)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsNegativeInfinity(T)
+  nameWithType: IntervalBase<T>.IsNegativeInfinity(T)
+  nameWithType.vb: IntervalBase(Of T).IsNegativeInfinity(T)
+- uid: Hsm.BaseTypes.IntervalBase`1.IsNegativeInfinity*
+  name: IsNegativeInfinity
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsNegativeInfinity_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsNegativeInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsNegativeInfinity
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsNegativeInfinity
+  nameWithType: IntervalBase<T>.IsNegativeInfinity
+  nameWithType.vb: IntervalBase(Of T).IsNegativeInfinity
+- uid: Hsm.BaseTypes.IntervalBase`1.IsPositiveInfinity(`0)
+  name: IsPositiveInfinity(T)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsPositiveInfinity__0_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.IsPositiveInfinity(`0)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsPositiveInfinity(T)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsPositiveInfinity(T)
+  nameWithType: IntervalBase<T>.IsPositiveInfinity(T)
+  nameWithType.vb: IntervalBase(Of T).IsPositiveInfinity(T)
+- uid: Hsm.BaseTypes.IntervalBase`1.IsPositiveInfinity*
+  name: IsPositiveInfinity
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsPositiveInfinity_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsPositiveInfinity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsPositiveInfinity
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsPositiveInfinity
+  nameWithType: IntervalBase<T>.IsPositiveInfinity
+  nameWithType.vb: IntervalBase(Of T).IsPositiveInfinity
+- uid: Hsm.BaseTypes.IntervalBase`1.IsProper
+  name: IsProper
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsProper
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.IsProper
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsProper
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsProper
+  nameWithType: IntervalBase<T>.IsProper
+  nameWithType.vb: IntervalBase(Of T).IsProper
+- uid: Hsm.BaseTypes.IntervalBase`1.IsProper*
+  name: IsProper
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsProper_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsProper
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsProper
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsProper
+  nameWithType: IntervalBase<T>.IsProper
+  nameWithType.vb: IntervalBase(Of T).IsProper
+- uid: Hsm.BaseTypes.IntervalBase`1.IsRightBounded
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsRightBounded
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.IsRightBounded
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsRightBounded
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsRightBounded
+  nameWithType: IntervalBase<T>.IsRightBounded
+  nameWithType.vb: IntervalBase(Of T).IsRightBounded
+- uid: Hsm.BaseTypes.IntervalBase`1.IsRightBounded*
+  name: IsRightBounded
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_IsRightBounded_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.IsRightBounded
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.IsRightBounded
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).IsRightBounded
+  nameWithType: IntervalBase<T>.IsRightBounded
+  nameWithType.vb: IntervalBase(Of T).IsRightBounded
+- uid: Hsm.BaseTypes.IntervalBase`1.LeftBoundary
+  name: LeftBoundary
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_LeftBoundary
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.LeftBoundary
+  fullName: Hsm.BaseTypes.IntervalBase<T>.LeftBoundary
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).LeftBoundary
+  nameWithType: IntervalBase<T>.LeftBoundary
+  nameWithType.vb: IntervalBase(Of T).LeftBoundary
+- uid: Hsm.BaseTypes.IntervalBase`1.LeftBoundary*
+  name: LeftBoundary
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_LeftBoundary_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.LeftBoundary
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.LeftBoundary
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).LeftBoundary
+  nameWithType: IntervalBase<T>.LeftBoundary
+  nameWithType.vb: IntervalBase(Of T).LeftBoundary
+- uid: Hsm.BaseTypes.IntervalBase`1.LeftClosed
+  name: LeftClosed
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_LeftClosed
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.LeftClosed
+  fullName: Hsm.BaseTypes.IntervalBase<T>.LeftClosed
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).LeftClosed
+  nameWithType: IntervalBase<T>.LeftClosed
+  nameWithType.vb: IntervalBase(Of T).LeftClosed
+- uid: Hsm.BaseTypes.IntervalBase`1.LeftClosed*
+  name: LeftClosed
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_LeftClosed_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.LeftClosed
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.LeftClosed
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).LeftClosed
+  nameWithType: IntervalBase<T>.LeftClosed
+  nameWithType.vb: IntervalBase(Of T).LeftClosed
+- uid: Hsm.BaseTypes.IntervalBase`1.RightBoundary
+  name: RightBoundary
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_RightBoundary
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.RightBoundary
+  fullName: Hsm.BaseTypes.IntervalBase<T>.RightBoundary
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).RightBoundary
+  nameWithType: IntervalBase<T>.RightBoundary
+  nameWithType.vb: IntervalBase(Of T).RightBoundary
+- uid: Hsm.BaseTypes.IntervalBase`1.RightBoundary*
+  name: RightBoundary
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_RightBoundary_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.RightBoundary
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.RightBoundary
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).RightBoundary
+  nameWithType: IntervalBase<T>.RightBoundary
+  nameWithType.vb: IntervalBase(Of T).RightBoundary
+- uid: Hsm.BaseTypes.IntervalBase`1.RightClosed
+  name: RightClosed
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_RightClosed
+  commentId: P:Hsm.BaseTypes.IntervalBase`1.RightClosed
+  fullName: Hsm.BaseTypes.IntervalBase<T>.RightClosed
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).RightClosed
+  nameWithType: IntervalBase<T>.RightClosed
+  nameWithType.vb: IntervalBase(Of T).RightClosed
+- uid: Hsm.BaseTypes.IntervalBase`1.RightClosed*
+  name: RightClosed
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_RightClosed_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.RightClosed
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.RightClosed
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).RightClosed
+  nameWithType: IntervalBase<T>.RightClosed
+  nameWithType.vb: IntervalBase(Of T).RightClosed
+- uid: Hsm.BaseTypes.IntervalBase`1.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_ToString
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.ToString
+  fullName: Hsm.BaseTypes.IntervalBase<T>.ToString()
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).ToString()
+  nameWithType: IntervalBase<T>.ToString()
+  nameWithType.vb: IntervalBase(Of T).ToString()
+- uid: Hsm.BaseTypes.IntervalBase`1.ToString(System.String,System.IFormatProvider)
+  name: ToString(String, IFormatProvider)
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_ToString_System_String_System_IFormatProvider_
+  commentId: M:Hsm.BaseTypes.IntervalBase`1.ToString(System.String,System.IFormatProvider)
+  fullName: Hsm.BaseTypes.IntervalBase<T>.ToString(System.String, System.IFormatProvider)
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).ToString(System.String, System.IFormatProvider)
+  nameWithType: IntervalBase<T>.ToString(String, IFormatProvider)
+  nameWithType.vb: IntervalBase(Of T).ToString(String, IFormatProvider)
+- uid: Hsm.BaseTypes.IntervalBase`1.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.IntervalBase-1.html#Hsm_BaseTypes_IntervalBase_1_ToString_
+  commentId: Overload:Hsm.BaseTypes.IntervalBase`1.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IntervalBase<T>.ToString
+  fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).ToString
+  nameWithType: IntervalBase<T>.ToString
+  nameWithType.vb: IntervalBase(Of T).ToString
 - uid: Hsm.BaseTypes.IVersion
   name: IVersion
   href: api/Hsm.BaseTypes.IVersion.html
