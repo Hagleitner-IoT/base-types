@@ -114,6 +114,9 @@ Implements the according definition of semver.org.</p>
       <h4><a class="xref" href="Hsm.BaseTypes.RelativeDateInterval.html">RelativeDateInterval</a></h4>
       <section><p>Represent a relative date interval. The effective start and end date is created by offsetting the current (rounded) date.</p>
 </section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ResxValidationResultTranslator.html">ResxValidationResultTranslator</a></h4>
+      <section><p>Represents a translator, which translates <a class="xref" href="Hsm.BaseTypes.ValidationMessage.html">ValidationMessage</a> of a <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</section>
       <h4><a class="xref" href="Hsm.BaseTypes.SemanticVersion.html">SemanticVersion</a></h4>
       <section><p>Represents a semantic version number.</p>
 </section>
@@ -126,6 +129,18 @@ Implements the according definition of semver.org.</p>
       <h4><a class="xref" href="Hsm.BaseTypes.TimeOffset.html">TimeOffset</a></h4>
       <section><p>Represents a <a class="xref" href="Hsm.BaseTypes.TimeOffset.html">TimeOffset</a>.</p>
 </section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ValidationException.html">ValidationException</a></h4>
+      <section><p>This <span class="xref">System.Exception</span> can be thrown if a <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a> contains at least one <a class="xref" href="Hsm.BaseTypes.ValidationMessage.html">ValidationMessage</a> with <a class="xref" href="Hsm.BaseTypes.Severity.html#Hsm_BaseTypes_Severity_Error">Error</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ValidationMessage.html">ValidationMessage</a></h4>
+      <section><p>A message which contains validation information.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a></h4>
+      <section><p>Result of a validation run produced by objects implementing the <a class="xref" href="Hsm.BaseTypes.IValidatable.html">IValidatable</a> interface.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ValidationResultTextFormatter.html">ValidationResultTextFormatter</a></h4>
+      <section><p>Represents a class to format a <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</section>
     <h3 id="structs">Structs
   </h3>
       <h4><a class="xref" href="Hsm.BaseTypes.Base36Cipher.html">Base36Cipher</a></h4>
@@ -134,8 +149,27 @@ Implements the according definition of semver.org.</p>
       <h4><a class="xref" href="Hsm.BaseTypes.Eui64.html">Eui64</a></h4>
       <section><p>Represents a standardized address format (EUI-64).</p>
 </section>
+      <h4><a class="xref" href="Hsm.BaseTypes.ResourceInstanceIdentifier.html">ResourceInstanceIdentifier</a></h4>
+      <section><p>A resource instance is uniquely identified by the resource type and the instance number.
+This class represents this identifier.</p>
+</section>
     <h3 id="interfaces">Interfaces
   </h3>
+      <h4><a class="xref" href="Hsm.BaseTypes.ISequentallySortable.html">ISequentallySortable</a></h4>
+      <section><p>Interface for classes which allows ordering by their creation date.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.IValidatable.html">IValidatable</a></h4>
+      <section><p>An interfaces for classes that implement validation using the notification pattern (<a href="https://martinfowler.com/articles/replaceThrowWithNotification.html">https://martinfowler.com/articles/replaceThrowWithNotification.html</a>).</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.IValidationMessage.html">IValidationMessage</a></h4>
+      <section><p>Interface for validation messages.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.IValidationResultFormatter.html">IValidationResultFormatter</a></h4>
+      <section><p>Interface for formatters which format a <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.IValidationResultTranslator.html">IValidationResultTranslator</a></h4>
+      <section><p>Interface representing a translator for <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</section>
       <h4><a class="xref" href="Hsm.BaseTypes.IVersion.html">IVersion</a></h4>
       <section><p>Represents an interface for a version.</p>
 </section>
@@ -149,6 +183,9 @@ Implements the according definition of semver.org.</p>
 </section>
       <h4><a class="xref" href="Hsm.BaseTypes.Eui64Presentation.html">Eui64Presentation</a></h4>
       <section><p>Represents different <a class="xref" href="Hsm.BaseTypes.Eui64.html">Eui64</a> formats.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Severity.html">Severity</a></h4>
+      <section><p>Defines the level of severity that a <a class="xref" href="Hsm.BaseTypes.ValidationMessage.html">ValidationMessage</a> could have.</p>
 </section>
 </article>
           </div>

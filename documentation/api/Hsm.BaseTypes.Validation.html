@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Namespace Hsm.BaseTypes.ResourceInstanceIdentifierDefinition
+    <title>Namespace Hsm.BaseTypes.Validation
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Namespace Hsm.BaseTypes.ResourceInstanceIdentifierDefinition
+    <meta name="title" content="Namespace Hsm.BaseTypes.Validation
    ">
     <meta name="generator" content="docfx 2.52.0.0">
     
@@ -68,18 +68,51 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.ResourceInstanceIdentifierDefinition">
+            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.Validation">
   
-  <h1 id="Hsm_BaseTypes_ResourceInstanceIdentifierDefinition" data-uid="Hsm.BaseTypes.ResourceInstanceIdentifierDefinition" class="text-break">Namespace Hsm.BaseTypes.ResourceInstanceIdentifierDefinition
+  <h1 id="Hsm_BaseTypes_Validation" data-uid="Hsm.BaseTypes.Validation" class="text-break">Namespace Hsm.BaseTypes.Validation
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="markdown level0 remarks"></div>
-    <h3 id="structs">Structs
+    <h3 id="classes">Classes
   </h3>
-      <h4><a class="xref" href="Hsm.BaseTypes.ResourceInstanceIdentifierDefinition.ResourceInstanceIdentifier.html">ResourceInstanceIdentifier</a></h4>
-      <section><p>A resource instance is uniquely identified by the resource type and the instance number.
-This class represents this identifier.</p>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.html">ResxValidationResultTranslator</a></h4>
+      <section><p>Represents a translator, which translates <a class="xref" href="Hsm.BaseTypes.Validation.ValidationMessage.html">ValidationMessage</a> of a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ValidationException.html">ValidationException</a></h4>
+      <section><p>This <span class="xref">System.Exception</span> can be thrown if a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationException.html#Hsm_BaseTypes_Validation_ValidationException_ValidationResult">ValidationResult</a> contains at least one <a class="xref" href="Hsm.BaseTypes.Validation.ValidationMessage.html">ValidationMessage</a> with <a class="xref" href="Hsm.BaseTypes.Validation.Severity.html#Hsm_BaseTypes_Validation_Severity_Error">Error</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ValidationMessage.html">ValidationMessage</a></h4>
+      <section><p>A message which contains information about a validation information.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a></h4>
+      <section><p>Result of a validation run produced by objects implementing the <a class="xref" href="Hsm.BaseTypes.Validation.IValidatable.html">IValidatable</a> interface.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ValidationResultTextFormatter.html">ValidationResultTextFormatter</a></h4>
+      <section><p>Represents a class to format a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a>.</p>
+</section>
+    <h3 id="interfaces">Interfaces
+  </h3>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.ISequentallySortable.html">ISequentallySortable</a></h4>
+      <section><p>Interface for classes that should be ordered by their creation date.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.IValidatable.html">IValidatable</a></h4>
+      <section><p>An interfaces for classes that implement validation using the notification pattern (<a href="https://martinfowler.com/articles/replaceThrowWithNotification.html">https://martinfowler.com/articles/replaceThrowWithNotification.html</a>).</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.IValidationMessage.html">IValidationMessage</a></h4>
+      <section><p>Interface for validation messages.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.IValidationResultFormatter.html">IValidationResultFormatter</a></h4>
+      <section><p>Interface for formatters which format a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a>.</p>
+</section>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.IValidationResultTranslator.html">IValidationResultTranslator</a></h4>
+      <section><p>Interface representing a translator for <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a>.</p>
+</section>
+    <h3 id="enums">Enums
+  </h3>
+      <h4><a class="xref" href="Hsm.BaseTypes.Validation.Severity.html">Severity</a></h4>
+      <section><p>Defines the level of severity that a validation notification could have.</p>
 </section>
 </article>
           </div>

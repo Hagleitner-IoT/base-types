@@ -1714,6 +1714,127 @@ references:
   fullName.vb: Hsm.BaseTypes.IntervalBase(Of T).ToString
   nameWithType: IntervalBase<T>.ToString
   nameWithType.vb: IntervalBase(Of T).ToString
+- uid: Hsm.BaseTypes.ISequentallySortable
+  name: ISequentallySortable
+  href: api/Hsm.BaseTypes.ISequentallySortable.html
+  commentId: T:Hsm.BaseTypes.ISequentallySortable
+  fullName: Hsm.BaseTypes.ISequentallySortable
+  nameWithType: ISequentallySortable
+- uid: Hsm.BaseTypes.ISequentallySortable.CreationDate
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ISequentallySortable.html#Hsm_BaseTypes_ISequentallySortable_CreationDate
+  commentId: P:Hsm.BaseTypes.ISequentallySortable.CreationDate
+  fullName: Hsm.BaseTypes.ISequentallySortable.CreationDate
+  nameWithType: ISequentallySortable.CreationDate
+- uid: Hsm.BaseTypes.ISequentallySortable.CreationDate*
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ISequentallySortable.html#Hsm_BaseTypes_ISequentallySortable_CreationDate_
+  commentId: Overload:Hsm.BaseTypes.ISequentallySortable.CreationDate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ISequentallySortable.CreationDate
+  nameWithType: ISequentallySortable.CreationDate
+- uid: Hsm.BaseTypes.IValidatable
+  name: IValidatable
+  href: api/Hsm.BaseTypes.IValidatable.html
+  commentId: T:Hsm.BaseTypes.IValidatable
+  fullName: Hsm.BaseTypes.IValidatable
+  nameWithType: IValidatable
+- uid: Hsm.BaseTypes.IValidatable.Validate
+  name: Validate()
+  href: api/Hsm.BaseTypes.IValidatable.html#Hsm_BaseTypes_IValidatable_Validate
+  commentId: M:Hsm.BaseTypes.IValidatable.Validate
+  fullName: Hsm.BaseTypes.IValidatable.Validate()
+  nameWithType: IValidatable.Validate()
+- uid: Hsm.BaseTypes.IValidatable.Validate*
+  name: Validate
+  href: api/Hsm.BaseTypes.IValidatable.html#Hsm_BaseTypes_IValidatable_Validate_
+  commentId: Overload:Hsm.BaseTypes.IValidatable.Validate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidatable.Validate
+  nameWithType: IValidatable.Validate
+- uid: Hsm.BaseTypes.IValidationMessage
+  name: IValidationMessage
+  href: api/Hsm.BaseTypes.IValidationMessage.html
+  commentId: T:Hsm.BaseTypes.IValidationMessage
+  fullName: Hsm.BaseTypes.IValidationMessage
+  nameWithType: IValidationMessage
+- uid: Hsm.BaseTypes.IValidationMessage.MessageId
+  name: MessageId
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_MessageId
+  commentId: P:Hsm.BaseTypes.IValidationMessage.MessageId
+  fullName: Hsm.BaseTypes.IValidationMessage.MessageId
+  nameWithType: IValidationMessage.MessageId
+- uid: Hsm.BaseTypes.IValidationMessage.MessageId*
+  name: MessageId
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_MessageId_
+  commentId: Overload:Hsm.BaseTypes.IValidationMessage.MessageId
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidationMessage.MessageId
+  nameWithType: IValidationMessage.MessageId
+- uid: Hsm.BaseTypes.IValidationMessage.MessageText
+  name: MessageText
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_MessageText
+  commentId: P:Hsm.BaseTypes.IValidationMessage.MessageText
+  fullName: Hsm.BaseTypes.IValidationMessage.MessageText
+  nameWithType: IValidationMessage.MessageText
+- uid: Hsm.BaseTypes.IValidationMessage.MessageText*
+  name: MessageText
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_MessageText_
+  commentId: Overload:Hsm.BaseTypes.IValidationMessage.MessageText
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidationMessage.MessageText
+  nameWithType: IValidationMessage.MessageText
+- uid: Hsm.BaseTypes.IValidationMessage.Severity
+  name: Severity
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_Severity
+  commentId: P:Hsm.BaseTypes.IValidationMessage.Severity
+  fullName: Hsm.BaseTypes.IValidationMessage.Severity
+  nameWithType: IValidationMessage.Severity
+- uid: Hsm.BaseTypes.IValidationMessage.Severity*
+  name: Severity
+  href: api/Hsm.BaseTypes.IValidationMessage.html#Hsm_BaseTypes_IValidationMessage_Severity_
+  commentId: Overload:Hsm.BaseTypes.IValidationMessage.Severity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidationMessage.Severity
+  nameWithType: IValidationMessage.Severity
+- uid: Hsm.BaseTypes.IValidationResultFormatter
+  name: IValidationResultFormatter
+  href: api/Hsm.BaseTypes.IValidationResultFormatter.html
+  commentId: T:Hsm.BaseTypes.IValidationResultFormatter
+  fullName: Hsm.BaseTypes.IValidationResultFormatter
+  nameWithType: IValidationResultFormatter
+- uid: Hsm.BaseTypes.IValidationResultFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  name: Format(ValidationResult)
+  href: api/Hsm.BaseTypes.IValidationResultFormatter.html#Hsm_BaseTypes_IValidationResultFormatter_Format_Hsm_BaseTypes_ValidationResult_
+  commentId: M:Hsm.BaseTypes.IValidationResultFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  fullName: Hsm.BaseTypes.IValidationResultFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  nameWithType: IValidationResultFormatter.Format(ValidationResult)
+- uid: Hsm.BaseTypes.IValidationResultFormatter.Format*
+  name: Format
+  href: api/Hsm.BaseTypes.IValidationResultFormatter.html#Hsm_BaseTypes_IValidationResultFormatter_Format_
+  commentId: Overload:Hsm.BaseTypes.IValidationResultFormatter.Format
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidationResultFormatter.Format
+  nameWithType: IValidationResultFormatter.Format
+- uid: Hsm.BaseTypes.IValidationResultTranslator
+  name: IValidationResultTranslator
+  href: api/Hsm.BaseTypes.IValidationResultTranslator.html
+  commentId: T:Hsm.BaseTypes.IValidationResultTranslator
+  fullName: Hsm.BaseTypes.IValidationResultTranslator
+  nameWithType: IValidationResultTranslator
+- uid: Hsm.BaseTypes.IValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo)
+  name: Translate(ValidationResult, CultureInfo)
+  href: api/Hsm.BaseTypes.IValidationResultTranslator.html#Hsm_BaseTypes_IValidationResultTranslator_Translate_Hsm_BaseTypes_ValidationResult_System_Globalization_CultureInfo_
+  commentId: M:Hsm.BaseTypes.IValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo)
+  fullName: Hsm.BaseTypes.IValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult, System.Globalization.CultureInfo)
+  nameWithType: IValidationResultTranslator.Translate(ValidationResult, CultureInfo)
+- uid: Hsm.BaseTypes.IValidationResultTranslator.Translate*
+  name: Translate
+  href: api/Hsm.BaseTypes.IValidationResultTranslator.html#Hsm_BaseTypes_IValidationResultTranslator_Translate_
+  commentId: Overload:Hsm.BaseTypes.IValidationResultTranslator.Translate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.IValidationResultTranslator.Translate
+  nameWithType: IValidationResultTranslator.Translate
 - uid: Hsm.BaseTypes.IVersion
   name: IVersion
   href: api/Hsm.BaseTypes.IVersion.html
@@ -2213,6 +2334,141 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.StartOffset
   nameWithType: RelativeDateInterval.StartOffset
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier
+  name: ResourceInstanceIdentifier
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html
+  commentId: T:Hsm.BaseTypes.ResourceInstanceIdentifier
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier
+  nameWithType: ResourceInstanceIdentifier
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
+  name: ResourceInstanceIdentifier(Int16, Int16)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier__ctor_System_Int16_System_Int16_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceIdentifier(System.Int16, System.Int16)
+  nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier(Int16, Int16)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor*
+  name: ResourceInstanceIdentifier
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier__ctor_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceIdentifier
+  nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(Hsm.BaseTypes.ResourceInstanceIdentifier)
+  name: Equals(ResourceInstanceIdentifier)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_Equals_Hsm_BaseTypes_ResourceInstanceIdentifier_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(Hsm.BaseTypes.ResourceInstanceIdentifier)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(Hsm.BaseTypes.ResourceInstanceIdentifier)
+  nameWithType: ResourceInstanceIdentifier.Equals(ResourceInstanceIdentifier)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals(System.Object)
+  nameWithType: ResourceInstanceIdentifier.Equals(Object)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_Equals_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Equals
+  nameWithType: ResourceInstanceIdentifier.Equals
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_GetHashCode
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode()
+  nameWithType: ResourceInstanceIdentifier.GetHashCode()
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.GetHashCode
+  nameWithType: ResourceInstanceIdentifier.GetHashCode
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.op_Equality(Hsm.BaseTypes.ResourceInstanceIdentifier,Hsm.BaseTypes.ResourceInstanceIdentifier)
+  name: Equality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_op_Equality_Hsm_BaseTypes_ResourceInstanceIdentifier_Hsm_BaseTypes_ResourceInstanceIdentifier_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.op_Equality(Hsm.BaseTypes.ResourceInstanceIdentifier,Hsm.BaseTypes.ResourceInstanceIdentifier)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Equality(Hsm.BaseTypes.ResourceInstanceIdentifier, Hsm.BaseTypes.ResourceInstanceIdentifier)
+  nameWithType: ResourceInstanceIdentifier.Equality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Equality
+  nameWithType: ResourceInstanceIdentifier.Equality
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.op_Inequality(Hsm.BaseTypes.ResourceInstanceIdentifier,Hsm.BaseTypes.ResourceInstanceIdentifier)
+  name: Inequality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_op_Inequality_Hsm_BaseTypes_ResourceInstanceIdentifier_Hsm_BaseTypes_ResourceInstanceIdentifier_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.op_Inequality(Hsm.BaseTypes.ResourceInstanceIdentifier,Hsm.BaseTypes.ResourceInstanceIdentifier)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Inequality(Hsm.BaseTypes.ResourceInstanceIdentifier, Hsm.BaseTypes.ResourceInstanceIdentifier)
+  nameWithType: ResourceInstanceIdentifier.Inequality(ResourceInstanceIdentifier, ResourceInstanceIdentifier)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.Inequality
+  nameWithType: ResourceInstanceIdentifier.Inequality
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber
+  name: ResourceInstanceNumber
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_ResourceInstanceNumber
+  commentId: P:Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber
+  nameWithType: ResourceInstanceIdentifier.ResourceInstanceNumber
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber*
+  name: ResourceInstanceNumber
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_ResourceInstanceNumber_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceNumber
+  nameWithType: ResourceInstanceIdentifier.ResourceInstanceNumber
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId
+  name: ResourceTypeId
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_ResourceTypeId
+  commentId: P:Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId
+  nameWithType: ResourceInstanceIdentifier.ResourceTypeId
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId*
+  name: ResourceTypeId
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier_ResourceTypeId_
+  commentId: Overload:Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceTypeId
+  nameWithType: ResourceInstanceIdentifier.ResourceTypeId
+- uid: Hsm.BaseTypes.ResxValidationResultTranslator
+  name: ResxValidationResultTranslator
+  href: api/Hsm.BaseTypes.ResxValidationResultTranslator.html
+  commentId: T:Hsm.BaseTypes.ResxValidationResultTranslator
+  fullName: Hsm.BaseTypes.ResxValidationResultTranslator
+  nameWithType: ResxValidationResultTranslator
+- uid: Hsm.BaseTypes.ResxValidationResultTranslator.#ctor(System.Resources.ResourceManager)
+  name: ResxValidationResultTranslator(ResourceManager)
+  href: api/Hsm.BaseTypes.ResxValidationResultTranslator.html#Hsm_BaseTypes_ResxValidationResultTranslator__ctor_System_Resources_ResourceManager_
+  commentId: M:Hsm.BaseTypes.ResxValidationResultTranslator.#ctor(System.Resources.ResourceManager)
+  fullName: Hsm.BaseTypes.ResxValidationResultTranslator.ResxValidationResultTranslator(System.Resources.ResourceManager)
+  nameWithType: ResxValidationResultTranslator.ResxValidationResultTranslator(ResourceManager)
+- uid: Hsm.BaseTypes.ResxValidationResultTranslator.#ctor*
+  name: ResxValidationResultTranslator
+  href: api/Hsm.BaseTypes.ResxValidationResultTranslator.html#Hsm_BaseTypes_ResxValidationResultTranslator__ctor_
+  commentId: Overload:Hsm.BaseTypes.ResxValidationResultTranslator.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResxValidationResultTranslator.ResxValidationResultTranslator
+  nameWithType: ResxValidationResultTranslator.ResxValidationResultTranslator
+- uid: Hsm.BaseTypes.ResxValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo)
+  name: Translate(ValidationResult, CultureInfo)
+  href: api/Hsm.BaseTypes.ResxValidationResultTranslator.html#Hsm_BaseTypes_ResxValidationResultTranslator_Translate_Hsm_BaseTypes_ValidationResult_System_Globalization_CultureInfo_
+  commentId: M:Hsm.BaseTypes.ResxValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo)
+  fullName: Hsm.BaseTypes.ResxValidationResultTranslator.Translate(Hsm.BaseTypes.ValidationResult, System.Globalization.CultureInfo)
+  nameWithType: ResxValidationResultTranslator.Translate(ValidationResult, CultureInfo)
+- uid: Hsm.BaseTypes.ResxValidationResultTranslator.Translate*
+  name: Translate
+  href: api/Hsm.BaseTypes.ResxValidationResultTranslator.html#Hsm_BaseTypes_ResxValidationResultTranslator_Translate_
+  commentId: Overload:Hsm.BaseTypes.ResxValidationResultTranslator.Translate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ResxValidationResultTranslator.Translate
+  nameWithType: ResxValidationResultTranslator.Translate
 - uid: Hsm.BaseTypes.SemanticVersion
   name: SemanticVersion
   href: api/Hsm.BaseTypes.SemanticVersion.html
@@ -2696,6 +2952,30 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SerialNumber.TryParse
   nameWithType: SerialNumber.TryParse
+- uid: Hsm.BaseTypes.Severity
+  name: Severity
+  href: api/Hsm.BaseTypes.Severity.html
+  commentId: T:Hsm.BaseTypes.Severity
+  fullName: Hsm.BaseTypes.Severity
+  nameWithType: Severity
+- uid: Hsm.BaseTypes.Severity.Error
+  name: Error
+  href: api/Hsm.BaseTypes.Severity.html#Hsm_BaseTypes_Severity_Error
+  commentId: F:Hsm.BaseTypes.Severity.Error
+  fullName: Hsm.BaseTypes.Severity.Error
+  nameWithType: Severity.Error
+- uid: Hsm.BaseTypes.Severity.Info
+  name: Info
+  href: api/Hsm.BaseTypes.Severity.html#Hsm_BaseTypes_Severity_Info
+  commentId: F:Hsm.BaseTypes.Severity.Info
+  fullName: Hsm.BaseTypes.Severity.Info
+  nameWithType: Severity.Info
+- uid: Hsm.BaseTypes.Severity.Warning
+  name: Warning
+  href: api/Hsm.BaseTypes.Severity.html#Hsm_BaseTypes_Severity_Warning
+  commentId: F:Hsm.BaseTypes.Severity.Warning
+  fullName: Hsm.BaseTypes.Severity.Warning
+  nameWithType: Severity.Warning
 - uid: Hsm.BaseTypes.TimeIntervalOffset
   name: TimeIntervalOffset
   href: api/Hsm.BaseTypes.TimeIntervalOffset.html
@@ -2760,3 +3040,338 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.TimeOffset.OffsetDate
   nameWithType: TimeOffset.OffsetDate
+- uid: Hsm.BaseTypes.ValidationException
+  name: ValidationException
+  href: api/Hsm.BaseTypes.ValidationException.html
+  commentId: T:Hsm.BaseTypes.ValidationException
+  fullName: Hsm.BaseTypes.ValidationException
+  nameWithType: ValidationException
+- uid: Hsm.BaseTypes.ValidationException.#ctor
+  name: ValidationException()
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException()
+  nameWithType: ValidationException.ValidationException()
+- uid: Hsm.BaseTypes.ValidationException.#ctor(Hsm.BaseTypes.ValidationResult)
+  name: ValidationException(ValidationResult)
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_Hsm_BaseTypes_ValidationResult_
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor(Hsm.BaseTypes.ValidationResult)
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException(Hsm.BaseTypes.ValidationResult)
+  nameWithType: ValidationException.ValidationException(ValidationResult)
+- uid: Hsm.BaseTypes.ValidationException.#ctor(System.String)
+  name: ValidationException(String)
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException(System.String)
+  nameWithType: ValidationException.ValidationException(String)
+- uid: Hsm.BaseTypes.ValidationException.#ctor(System.String,Hsm.BaseTypes.ValidationResult)
+  name: ValidationException(String, ValidationResult)
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_System_String_Hsm_BaseTypes_ValidationResult_
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor(System.String,Hsm.BaseTypes.ValidationResult)
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException(System.String, Hsm.BaseTypes.ValidationResult)
+  nameWithType: ValidationException.ValidationException(String, ValidationResult)
+- uid: Hsm.BaseTypes.ValidationException.#ctor(System.String,Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo,Hsm.BaseTypes.IValidationResultTranslator)
+  name: ValidationException(String, ValidationResult, CultureInfo, IValidationResultTranslator)
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_System_String_Hsm_BaseTypes_ValidationResult_System_Globalization_CultureInfo_Hsm_BaseTypes_IValidationResultTranslator_
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor(System.String,Hsm.BaseTypes.ValidationResult,System.Globalization.CultureInfo,Hsm.BaseTypes.IValidationResultTranslator)
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException(System.String, Hsm.BaseTypes.ValidationResult, System.Globalization.CultureInfo, Hsm.BaseTypes.IValidationResultTranslator)
+  nameWithType: ValidationException.ValidationException(String, ValidationResult, CultureInfo, IValidationResultTranslator)
+- uid: Hsm.BaseTypes.ValidationException.#ctor(System.String,System.Exception)
+  name: ValidationException(String, Exception)
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_System_String_System_Exception_
+  commentId: M:Hsm.BaseTypes.ValidationException.#ctor(System.String,System.Exception)
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException(System.String, System.Exception)
+  nameWithType: ValidationException.ValidationException(String, Exception)
+- uid: Hsm.BaseTypes.ValidationException.#ctor*
+  name: ValidationException
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException__ctor_
+  commentId: Overload:Hsm.BaseTypes.ValidationException.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationException.ValidationException
+  nameWithType: ValidationException.ValidationException
+- uid: Hsm.BaseTypes.ValidationException.ValidationResult
+  name: ValidationResult
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException_ValidationResult
+  commentId: P:Hsm.BaseTypes.ValidationException.ValidationResult
+  fullName: Hsm.BaseTypes.ValidationException.ValidationResult
+  nameWithType: ValidationException.ValidationResult
+- uid: Hsm.BaseTypes.ValidationException.ValidationResult*
+  name: ValidationResult
+  href: api/Hsm.BaseTypes.ValidationException.html#Hsm_BaseTypes_ValidationException_ValidationResult_
+  commentId: Overload:Hsm.BaseTypes.ValidationException.ValidationResult
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationException.ValidationResult
+  nameWithType: ValidationException.ValidationResult
+- uid: Hsm.BaseTypes.ValidationMessage
+  name: ValidationMessage
+  href: api/Hsm.BaseTypes.ValidationMessage.html
+  commentId: T:Hsm.BaseTypes.ValidationMessage
+  fullName: Hsm.BaseTypes.ValidationMessage
+  nameWithType: ValidationMessage
+- uid: Hsm.BaseTypes.ValidationMessage.#ctor(System.String)
+  name: ValidationMessage(String)
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ValidationMessage.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ValidationMessage.ValidationMessage(System.String)
+  nameWithType: ValidationMessage.ValidationMessage(String)
+- uid: Hsm.BaseTypes.ValidationMessage.#ctor(System.String,Hsm.BaseTypes.Severity)
+  name: ValidationMessage(String, Severity)
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage__ctor_System_String_Hsm_BaseTypes_Severity_
+  commentId: M:Hsm.BaseTypes.ValidationMessage.#ctor(System.String,Hsm.BaseTypes.Severity)
+  fullName: Hsm.BaseTypes.ValidationMessage.ValidationMessage(System.String, Hsm.BaseTypes.Severity)
+  nameWithType: ValidationMessage.ValidationMessage(String, Severity)
+- uid: Hsm.BaseTypes.ValidationMessage.#ctor(System.String,System.String)
+  name: ValidationMessage(String, String)
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage__ctor_System_String_System_String_
+  commentId: M:Hsm.BaseTypes.ValidationMessage.#ctor(System.String,System.String)
+  fullName: Hsm.BaseTypes.ValidationMessage.ValidationMessage(System.String, System.String)
+  nameWithType: ValidationMessage.ValidationMessage(String, String)
+- uid: Hsm.BaseTypes.ValidationMessage.#ctor(System.String,System.String,Hsm.BaseTypes.Severity)
+  name: ValidationMessage(String, String, Severity)
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage__ctor_System_String_System_String_Hsm_BaseTypes_Severity_
+  commentId: M:Hsm.BaseTypes.ValidationMessage.#ctor(System.String,System.String,Hsm.BaseTypes.Severity)
+  fullName: Hsm.BaseTypes.ValidationMessage.ValidationMessage(System.String, System.String, Hsm.BaseTypes.Severity)
+  nameWithType: ValidationMessage.ValidationMessage(String, String, Severity)
+- uid: Hsm.BaseTypes.ValidationMessage.#ctor*
+  name: ValidationMessage
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage__ctor_
+  commentId: Overload:Hsm.BaseTypes.ValidationMessage.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationMessage.ValidationMessage
+  nameWithType: ValidationMessage.ValidationMessage
+- uid: Hsm.BaseTypes.ValidationMessage.CreationDate
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_CreationDate
+  commentId: P:Hsm.BaseTypes.ValidationMessage.CreationDate
+  fullName: Hsm.BaseTypes.ValidationMessage.CreationDate
+  nameWithType: ValidationMessage.CreationDate
+- uid: Hsm.BaseTypes.ValidationMessage.CreationDate*
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_CreationDate_
+  commentId: Overload:Hsm.BaseTypes.ValidationMessage.CreationDate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationMessage.CreationDate
+  nameWithType: ValidationMessage.CreationDate
+- uid: Hsm.BaseTypes.ValidationMessage.MessageId
+  name: MessageId
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_MessageId
+  commentId: P:Hsm.BaseTypes.ValidationMessage.MessageId
+  fullName: Hsm.BaseTypes.ValidationMessage.MessageId
+  nameWithType: ValidationMessage.MessageId
+- uid: Hsm.BaseTypes.ValidationMessage.MessageId*
+  name: MessageId
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_MessageId_
+  commentId: Overload:Hsm.BaseTypes.ValidationMessage.MessageId
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationMessage.MessageId
+  nameWithType: ValidationMessage.MessageId
+- uid: Hsm.BaseTypes.ValidationMessage.MessageText
+  name: MessageText
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_MessageText
+  commentId: P:Hsm.BaseTypes.ValidationMessage.MessageText
+  fullName: Hsm.BaseTypes.ValidationMessage.MessageText
+  nameWithType: ValidationMessage.MessageText
+- uid: Hsm.BaseTypes.ValidationMessage.MessageText*
+  name: MessageText
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_MessageText_
+  commentId: Overload:Hsm.BaseTypes.ValidationMessage.MessageText
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationMessage.MessageText
+  nameWithType: ValidationMessage.MessageText
+- uid: Hsm.BaseTypes.ValidationMessage.Severity
+  name: Severity
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_Severity
+  commentId: P:Hsm.BaseTypes.ValidationMessage.Severity
+  fullName: Hsm.BaseTypes.ValidationMessage.Severity
+  nameWithType: ValidationMessage.Severity
+- uid: Hsm.BaseTypes.ValidationMessage.Severity*
+  name: Severity
+  href: api/Hsm.BaseTypes.ValidationMessage.html#Hsm_BaseTypes_ValidationMessage_Severity_
+  commentId: Overload:Hsm.BaseTypes.ValidationMessage.Severity
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationMessage.Severity
+  nameWithType: ValidationMessage.Severity
+- uid: Hsm.BaseTypes.ValidationResult
+  name: ValidationResult
+  href: api/Hsm.BaseTypes.ValidationResult.html
+  commentId: T:Hsm.BaseTypes.ValidationResult
+  fullName: Hsm.BaseTypes.ValidationResult
+  nameWithType: ValidationResult
+- uid: Hsm.BaseTypes.ValidationResult.#ctor
+  name: ValidationResult()
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult__ctor
+  commentId: M:Hsm.BaseTypes.ValidationResult.#ctor
+  fullName: Hsm.BaseTypes.ValidationResult.ValidationResult()
+  nameWithType: ValidationResult.ValidationResult()
+- uid: Hsm.BaseTypes.ValidationResult.#ctor*
+  name: ValidationResult
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult__ctor_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.ValidationResult
+  nameWithType: ValidationResult.ValidationResult
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
+  name: AddMessage(ValidationMessage)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_Hsm_BaseTypes_ValidationMessage_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
+  nameWithType: ValidationResult.AddMessage(ValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
+  name: AddMessage(String)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
+  nameWithType: ValidationResult.AddMessage(String)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String,System.String)
+  name: AddMessage(String, String)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_System_String_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(System.String,System.String)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(System.String, System.String)
+  nameWithType: ValidationResult.AddMessage(String, String)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String,System.String,Hsm.BaseTypes.Severity)
+  name: AddMessage(String, String, Severity)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_System_String_Hsm_BaseTypes_Severity_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(System.String,System.String,Hsm.BaseTypes.Severity)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(System.String, System.String, Hsm.BaseTypes.Severity)
+  nameWithType: ValidationResult.AddMessage(String, String, Severity)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage*
+  name: AddMessage
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddMessage
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage
+  nameWithType: ValidationResult.AddMessage
+- uid: Hsm.BaseTypes.ValidationResult.AddMessageIf(System.Func{System.Boolean},Hsm.BaseTypes.ValidationMessage)
+  name: AddMessageIf(Func<Boolean>, ValidationMessage)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessageIf_System_Func_System_Boolean__Hsm_BaseTypes_ValidationMessage_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessageIf(System.Func{System.Boolean},Hsm.BaseTypes.ValidationMessage)
+  name.vb: AddMessageIf(Func(Of Boolean), ValidationMessage)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessageIf(System.Func<System.Boolean>, Hsm.BaseTypes.ValidationMessage)
+  fullName.vb: Hsm.BaseTypes.ValidationResult.AddMessageIf(System.Func(Of System.Boolean), Hsm.BaseTypes.ValidationMessage)
+  nameWithType: ValidationResult.AddMessageIf(Func<Boolean>, ValidationMessage)
+  nameWithType.vb: ValidationResult.AddMessageIf(Func(Of Boolean), ValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessageIf*
+  name: AddMessageIf
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessageIf_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddMessageIf
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessageIf
+  nameWithType: ValidationResult.AddMessageIf
+- uid: Hsm.BaseTypes.ValidationResult.AddMessageIf``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean},Hsm.BaseTypes.ValidationMessage)
+  name: AddMessageIf<T>(IEnumerable<T>, Func<T, Boolean>, ValidationMessage)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessageIf__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__Hsm_BaseTypes_ValidationMessage_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessageIf``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean},Hsm.BaseTypes.ValidationMessage)
+  name.vb: AddMessageIf(Of T)(IEnumerable(Of T), Func(Of T, Boolean), ValidationMessage)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessageIf<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, System.Boolean>, Hsm.BaseTypes.ValidationMessage)
+  fullName.vb: Hsm.BaseTypes.ValidationResult.AddMessageIf(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, System.Boolean), Hsm.BaseTypes.ValidationMessage)
+  nameWithType: ValidationResult.AddMessageIf<T>(IEnumerable<T>, Func<T, Boolean>, ValidationMessage)
+  nameWithType.vb: ValidationResult.AddMessageIf(Of T)(IEnumerable(Of T), Func(Of T, Boolean), ValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.IValidatable)
+  name: AddValidationResult(IValidatable)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResult_Hsm_BaseTypes_IValidatable_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.IValidatable)
+  fullName: Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.IValidatable)
+  nameWithType: ValidationResult.AddValidationResult(IValidatable)
+- uid: Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.ValidationResult)
+  name: AddValidationResult(ValidationResult)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResult_Hsm_BaseTypes_ValidationResult_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.ValidationResult)
+  fullName: Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.ValidationResult)
+  nameWithType: ValidationResult.AddValidationResult(ValidationResult)
+- uid: Hsm.BaseTypes.ValidationResult.AddValidationResult*
+  name: AddValidationResult
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResult_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddValidationResult
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddValidationResult
+  nameWithType: ValidationResult.AddValidationResult
+- uid: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid
+  name: AssertConfigurationIsValid()
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AssertConfigurationIsValid
+  commentId: M:Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid
+  fullName: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid()
+  nameWithType: ValidationResult.AssertConfigurationIsValid()
+- uid: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid(Hsm.BaseTypes.IValidationResultTranslator,System.Globalization.CultureInfo)
+  name: AssertConfigurationIsValid(IValidationResultTranslator, CultureInfo)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AssertConfigurationIsValid_Hsm_BaseTypes_IValidationResultTranslator_System_Globalization_CultureInfo_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid(Hsm.BaseTypes.IValidationResultTranslator,System.Globalization.CultureInfo)
+  fullName: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid(Hsm.BaseTypes.IValidationResultTranslator, System.Globalization.CultureInfo)
+  nameWithType: ValidationResult.AssertConfigurationIsValid(IValidationResultTranslator, CultureInfo)
+- uid: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid*
+  name: AssertConfigurationIsValid
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AssertConfigurationIsValid_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid
+  nameWithType: ValidationResult.AssertConfigurationIsValid
+- uid: Hsm.BaseTypes.ValidationResult.CreationDate
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_CreationDate
+  commentId: P:Hsm.BaseTypes.ValidationResult.CreationDate
+  fullName: Hsm.BaseTypes.ValidationResult.CreationDate
+  nameWithType: ValidationResult.CreationDate
+- uid: Hsm.BaseTypes.ValidationResult.CreationDate*
+  name: CreationDate
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_CreationDate_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.CreationDate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.CreationDate
+  nameWithType: ValidationResult.CreationDate
+- uid: Hsm.BaseTypes.ValidationResult.IsValid
+  name: IsValid
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_IsValid
+  commentId: P:Hsm.BaseTypes.ValidationResult.IsValid
+  fullName: Hsm.BaseTypes.ValidationResult.IsValid
+  nameWithType: ValidationResult.IsValid
+- uid: Hsm.BaseTypes.ValidationResult.IsValid*
+  name: IsValid
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_IsValid_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.IsValid
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.IsValid
+  nameWithType: ValidationResult.IsValid
+- uid: Hsm.BaseTypes.ValidationResult.Messages
+  name: Messages
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_Messages
+  commentId: P:Hsm.BaseTypes.ValidationResult.Messages
+  fullName: Hsm.BaseTypes.ValidationResult.Messages
+  nameWithType: ValidationResult.Messages
+- uid: Hsm.BaseTypes.ValidationResult.Messages*
+  name: Messages
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_Messages_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.Messages
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.Messages
+  nameWithType: ValidationResult.Messages
+- uid: Hsm.BaseTypes.ValidationResult.ValidationResults
+  name: ValidationResults
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_ValidationResults
+  commentId: P:Hsm.BaseTypes.ValidationResult.ValidationResults
+  fullName: Hsm.BaseTypes.ValidationResult.ValidationResults
+  nameWithType: ValidationResult.ValidationResults
+- uid: Hsm.BaseTypes.ValidationResult.ValidationResults*
+  name: ValidationResults
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_ValidationResults_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.ValidationResults
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.ValidationResults
+  nameWithType: ValidationResult.ValidationResults
+- uid: Hsm.BaseTypes.ValidationResultTextFormatter
+  name: ValidationResultTextFormatter
+  href: api/Hsm.BaseTypes.ValidationResultTextFormatter.html
+  commentId: T:Hsm.BaseTypes.ValidationResultTextFormatter
+  fullName: Hsm.BaseTypes.ValidationResultTextFormatter
+  nameWithType: ValidationResultTextFormatter
+- uid: Hsm.BaseTypes.ValidationResultTextFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  name: Format(ValidationResult)
+  href: api/Hsm.BaseTypes.ValidationResultTextFormatter.html#Hsm_BaseTypes_ValidationResultTextFormatter_Format_Hsm_BaseTypes_ValidationResult_
+  commentId: M:Hsm.BaseTypes.ValidationResultTextFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  fullName: Hsm.BaseTypes.ValidationResultTextFormatter.Format(Hsm.BaseTypes.ValidationResult)
+  nameWithType: ValidationResultTextFormatter.Format(ValidationResult)
+- uid: Hsm.BaseTypes.ValidationResultTextFormatter.Format*
+  name: Format
+  href: api/Hsm.BaseTypes.ValidationResultTextFormatter.html#Hsm_BaseTypes_ValidationResultTextFormatter_Format_
+  commentId: Overload:Hsm.BaseTypes.ValidationResultTextFormatter.Format
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResultTextFormatter.Format
+  nameWithType: ValidationResultTextFormatter.Format

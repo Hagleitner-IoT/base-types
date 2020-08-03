@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class MonthOffset
+    <title>Class ResxValidationResultTranslator
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class MonthOffset
+    <meta name="title" content="Class ResxValidationResultTranslator
    ">
     <meta name="generator" content="docfx 2.52.0.0">
     
@@ -68,19 +68,22 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.MonthOffset">
+            <article class="content wrap" id="_content" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator">
   
   
-  <h1 id="Hsm_BaseTypes_MonthOffset" data-uid="Hsm.BaseTypes.MonthOffset" class="text-break">Class MonthOffset
+  <h1 id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator" class="text-break">Class ResxValidationResultTranslator
   </h1>
-  <div class="markdown level0 summary"><p>Represents a <a class="xref" href="Hsm.BaseTypes.MonthOffset.html">MonthOffset</a>.</p>
+  <div class="markdown level0 summary"><p>Represents a translator, which translates <a class="xref" href="Hsm.BaseTypes.Validation.ValidationMessage.html">ValidationMessage</a> of a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a>.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><a class="xref" href="Hsm.BaseTypes.TimeOffset.html">TimeOffset</a></div>
-    <div class="level2"><span class="xref">MonthOffset</span></div>
+    <div class="level1"><span class="xref">ResxValidationResultTranslator</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="Hsm.BaseTypes.Validation.IValidationResultTranslator.html">IValidationResultTranslator</a></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -106,26 +109,26 @@
       <span class="xref">System.Object.ToString()</span>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Hsm.BaseTypes.html">Hsm.BaseTypes</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Hsm.BaseTypes.Validation.html">Hsm.BaseTypes.Validation</a></h6>
   <h6><strong>Assembly</strong>: Hsm.BaseTypes.dll</h6>
-  <h5 id="Hsm_BaseTypes_MonthOffset_syntax">Syntax</h5>
+  <h5 id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class MonthOffset : TimeOffset</code></pre>
+    <pre><code class="lang-csharp hljs">public class ResxValidationResultTranslator : IValidationResultTranslator</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/MonthOffset.cs&amp;version=GBDevelop&amp;line=14">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/Validation/ResxValidationResultTranslator.cs&amp;version=GBDevelop&amp;line=16">View Source</a>
   </span>
-  <a id="Hsm_BaseTypes_MonthOffset__ctor_" data-uid="Hsm.BaseTypes.MonthOffset.#ctor*"></a>
-  <h4 id="Hsm_BaseTypes_MonthOffset__ctor_System_Int32_" data-uid="Hsm.BaseTypes.MonthOffset.#ctor(System.Int32)">MonthOffset(Int32)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.MonthOffset.html">MonthOffset</a> class.</p>
+  <a id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator__ctor_" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.#ctor*"></a>
+  <h4 id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator__ctor_System_Resources_ResourceManager_" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.#ctor(System.Resources.ResourceManager)">ResxValidationResultTranslator(ResourceManager)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.html">ResxValidationResultTranslator</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public MonthOffset(int months)</code></pre>
+    <pre><code class="lang-csharp hljs">public ResxValidationResultTranslator(ResourceManager resourceManager)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -138,40 +141,10 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">months</span></td>
-        <td><p>The number of months used for the offset.</p>
+        <td><span class="xref">System.Resources.ResourceManager</span></td>
+        <td><span class="parametername">resourceManager</span></td>
+        <td><p>The <span class="xref">Hsm.BaseTypes.Validation.ResxValidationResultTranslator.ResourceManager</span> used for the translations.</p>
 </td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="properties">Properties
-  </h3>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/MonthOffset.cs&amp;version=GBDevelop&amp;line=22">View Source</a>
-  </span>
-  <a id="Hsm_BaseTypes_MonthOffset_Months_" data-uid="Hsm.BaseTypes.MonthOffset.Months*"></a>
-  <h4 id="Hsm_BaseTypes_MonthOffset_Months" data-uid="Hsm.BaseTypes.MonthOffset.Months">Months</h4>
-  <div class="markdown level1 summary"><p>Gets the number of months.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int Months { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
       </tr>
     </tbody>
   </table>
@@ -179,16 +152,16 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/MonthOffset.cs&amp;version=GBDevelop&amp;line=25">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/Validation/ResxValidationResultTranslator.cs&amp;version=GBDevelop&amp;line=33">View Source</a>
   </span>
-  <a id="Hsm_BaseTypes_MonthOffset_OffsetDate_" data-uid="Hsm.BaseTypes.MonthOffset.OffsetDate*"></a>
-  <h4 id="Hsm_BaseTypes_MonthOffset_OffsetDate_System_DateTimeOffset_" data-uid="Hsm.BaseTypes.MonthOffset.OffsetDate(System.DateTimeOffset)">OffsetDate(DateTimeOffset)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.TimeOffset.html">TimeOffset</a> class.</p>
+  <a id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator_Translate_" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.Translate*"></a>
+  <h4 id="Hsm_BaseTypes_Validation_ResxValidationResultTranslator_Translate_Hsm_BaseTypes_Validation_ValidationResult_System_Globalization_CultureInfo_" data-uid="Hsm.BaseTypes.Validation.ResxValidationResultTranslator.Translate(Hsm.BaseTypes.Validation.ValidationResult,System.Globalization.CultureInfo)">Translate(ValidationResult, CultureInfo)</h4>
+  <div class="markdown level1 summary"><p>Translates a <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a> to a specified language derived from a <span class="xref">System.Globalization.CultureInfo</span>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override DateTimeOffset OffsetDate(DateTimeOffset date)</code></pre>
+    <pre><code class="lang-csharp hljs">public void Translate(ValidationResult validationResult, CultureInfo culture)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -201,30 +174,44 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.DateTimeOffset</span></td>
-        <td><span class="parametername">date</span></td>
-        <td></td>
+        <td><a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a></td>
+        <td><span class="parametername">validationResult</span></td>
+        <td><p>The <a class="xref" href="Hsm.BaseTypes.Validation.ValidationResult.html">ValidationResult</a> to be translated.</p>
+</td>
       </tr>
-    </tbody>
-  </table>
-  <h5 class="returns">Returns</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
       <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.DateTimeOffset</span></td>
-        <td><p>Returns a timespan.</p>
+        <td><span class="xref">System.Globalization.CultureInfo</span></td>
+        <td><span class="parametername">culture</span></td>
+        <td><p>The <span class="xref">System.Globalization.CultureInfo</span> of which the language is derived.</p>
 </td>
       </tr>
     </tbody>
   </table>
-  <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="Hsm.BaseTypes.TimeOffset.html#Hsm_BaseTypes_TimeOffset_OffsetDate_System_DateTimeOffset_">TimeOffset.OffsetDate(DateTimeOffset)</a></div>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ArgumentNullException</span></td>
+        <td><p>Throws an exception if the <code data-dev-comment-type="paramref" class="paramref">validationResult</code> is null.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.ArgumentNullException</span></td>
+        <td><p>Throws an exception if the <code data-dev-comment-type="paramref" class="paramref">culture</code> is null.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="Hsm.BaseTypes.Validation.IValidationResultTranslator.html">IValidationResultTranslator</a>
+  </div>
 </article>
           </div>
           
@@ -233,7 +220,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/MonthOffset.cs&amp;version=GBDevelop&amp;line=8" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/Validation/ResxValidationResultTranslator.cs&amp;version=GBDevelop&amp;line=10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
