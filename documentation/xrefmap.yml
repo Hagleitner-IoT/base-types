@@ -711,6 +711,25 @@ references:
   commentId: F:Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   fullName: Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   nameWithType: DateTimeAdjustmentMethod.Round
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
+  name: DateTimeOffsetAdjustmentExtension
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html
+  commentId: T:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
+  nameWithType: DateTimeOffsetAdjustmentExtension
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeRoundingPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
+  name: DateTimeRounding(DateTimeOffset, DateTimeRoundingPart, DateTimeAdjustmentMethod, DayOfWeek)
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentExtension_DateTimeRounding_System_DateTimeOffset_Hsm_BaseTypes_DateTimeRoundingPart_Hsm_BaseTypes_DateTimeAdjustmentMethod_System_DayOfWeek_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeRoundingPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset, Hsm.BaseTypes.DateTimeRoundingPart, Hsm.BaseTypes.DateTimeAdjustmentMethod, System.DayOfWeek)
+  nameWithType: DateTimeOffsetAdjustmentExtension.DateTimeRounding(DateTimeOffset, DateTimeRoundingPart, DateTimeAdjustmentMethod, DayOfWeek)
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding*
+  name: DateTimeRounding
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentExtension_DateTimeRounding_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding
+  nameWithType: DateTimeOffsetAdjustmentExtension.DateTimeRounding
 - uid: Hsm.BaseTypes.DateTimeOffsetInterval
   name: DateTimeOffsetInterval
   href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html
@@ -2230,32 +2249,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.RelativeDateInterval
   nameWithType: RelativeDateInterval.RelativeDateInterval
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
-  name: DateTimeAdjustmentMethod
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeAdjustmentMethod
-  commentId: P:Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
-  nameWithType: RelativeDateInterval.DateTimeAdjustmentMethod
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod*
-  name: DateTimeAdjustmentMethod
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeAdjustmentMethod_
-  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
+- uid: Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod
+  name: AdjustmentMethod
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_AdjustmentMethod
+  commentId: P:Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod
+  fullName: Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod
+  nameWithType: RelativeDateInterval.AdjustmentMethod
+- uid: Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod*
+  name: AdjustmentMethod
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_AdjustmentMethod_
+  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod
   isSpec: "True"
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
-  nameWithType: RelativeDateInterval.DateTimeAdjustmentMethod
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  name: DateTimeRoundingPart
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeRoundingPart
-  commentId: P:Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  nameWithType: RelativeDateInterval.DateTimeRoundingPart
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart*
-  name: DateTimeRoundingPart
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeRoundingPart_
-  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  nameWithType: RelativeDateInterval.DateTimeRoundingPart
+  fullName: Hsm.BaseTypes.RelativeDateInterval.AdjustmentMethod
+  nameWithType: RelativeDateInterval.AdjustmentMethod
 - uid: Hsm.BaseTypes.RelativeDateInterval.EndOffset
   name: EndOffset
   href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_EndOffset
@@ -2269,19 +2275,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.EndOffset
   nameWithType: RelativeDateInterval.EndOffset
-- uid: Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek
-  name: FirstDayOfWeek
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_FirstDayOfWeek
-  commentId: P:Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek
-  fullName: Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek
-  nameWithType: RelativeDateInterval.FirstDayOfWeek
-- uid: Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek*
-  name: FirstDayOfWeek
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_FirstDayOfWeek_
-  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.RelativeDateInterval.FirstDayOfWeek
-  nameWithType: RelativeDateInterval.FirstDayOfWeek
 - uid: Hsm.BaseTypes.RelativeDateInterval.GetEffectiveEndDate
   name: GetEffectiveEndDate()
   href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_GetEffectiveEndDate
@@ -2321,6 +2314,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.GetEffectiveStartDate
   nameWithType: RelativeDateInterval.GetEffectiveStartDate
+- uid: Hsm.BaseTypes.RelativeDateInterval.RoundingPart
+  name: RoundingPart
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_RoundingPart
+  commentId: P:Hsm.BaseTypes.RelativeDateInterval.RoundingPart
+  fullName: Hsm.BaseTypes.RelativeDateInterval.RoundingPart
+  nameWithType: RelativeDateInterval.RoundingPart
+- uid: Hsm.BaseTypes.RelativeDateInterval.RoundingPart*
+  name: RoundingPart
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_RoundingPart_
+  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.RoundingPart
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.RelativeDateInterval.RoundingPart
+  nameWithType: RelativeDateInterval.RoundingPart
 - uid: Hsm.BaseTypes.RelativeDateInterval.StartOffset
   name: StartOffset
   href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_StartOffset
