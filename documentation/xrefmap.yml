@@ -3222,6 +3222,12 @@ references:
   commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
   fullName: Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
   nameWithType: ValidationResult.AddMessage(String)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String,Hsm.BaseTypes.Severity)
+  name: AddMessage(String, Severity)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_Hsm_BaseTypes_Severity_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(System.String,Hsm.BaseTypes.Severity)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(System.String, Hsm.BaseTypes.Severity)
+  nameWithType: ValidationResult.AddMessage(String, Severity)
 - uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String,System.String)
   name: AddMessage(String, String)
   href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_System_String_
