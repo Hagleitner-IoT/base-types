@@ -711,25 +711,111 @@ references:
   commentId: F:Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   fullName: Hsm.BaseTypes.DateTimeAdjustmentMethod.Round
   nameWithType: DateTimeAdjustmentMethod.Round
-- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
-  name: DateTimeOffsetAdjustmentExtension
-  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html
-  commentId: T:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
-  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension
-  nameWithType: DateTimeOffsetAdjustmentExtension
-- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeRoundingPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
-  name: DateTimeRounding(DateTimeOffset, DateTimeRoundingPart, DateTimeAdjustmentMethod, DayOfWeek)
-  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentExtension_DateTimeRounding_System_DateTimeOffset_Hsm_BaseTypes_DateTimeRoundingPart_Hsm_BaseTypes_DateTimeAdjustmentMethod_System_DayOfWeek_
-  commentId: M:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeRoundingPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
-  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding(System.DateTimeOffset, Hsm.BaseTypes.DateTimeRoundingPart, Hsm.BaseTypes.DateTimeAdjustmentMethod, System.DayOfWeek)
-  nameWithType: DateTimeOffsetAdjustmentExtension.DateTimeRounding(DateTimeOffset, DateTimeRoundingPart, DateTimeAdjustmentMethod, DayOfWeek)
-- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding*
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart
+  name: DateTimeOffsetAdjustmentPart
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html
+  commentId: T:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart
+  nameWithType: DateTimeOffsetAdjustmentPart
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Day
+  name: Day
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Day
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Day
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Day
+  nameWithType: DateTimeOffsetAdjustmentPart.Day
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Hour
+  name: Hour
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Hour
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Hour
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Hour
+  nameWithType: DateTimeOffsetAdjustmentPart.Hour
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Minute
+  name: Minute
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Minute
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Minute
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Minute
+  nameWithType: DateTimeOffsetAdjustmentPart.Minute
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Month
+  name: Month
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Month
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Month
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Month
+  nameWithType: DateTimeOffsetAdjustmentPart.Month
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Week
+  name: Week
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Week
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Week
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Week
+  nameWithType: DateTimeOffsetAdjustmentPart.Week
+- uid: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Year
+  name: Year
+  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Year
+  commentId: F:Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Year
+  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.Year
+  nameWithType: DateTimeOffsetAdjustmentPart.Year
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension
+  name: DateTimeOffsetExtension
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html
+  commentId: T:Hsm.BaseTypes.DateTimeOffsetExtension
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension
+  nameWithType: DateTimeOffsetExtension
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeOffsetAdjustmentPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
+  name: DateTimeRounding(DateTimeOffset, DateTimeOffsetAdjustmentPart, DateTimeAdjustmentMethod, DayOfWeek)
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_DateTimeRounding_System_DateTimeOffset_Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_Hsm_BaseTypes_DateTimeAdjustmentMethod_System_DayOfWeek_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding(System.DateTimeOffset,Hsm.BaseTypes.DateTimeOffsetAdjustmentPart,Hsm.BaseTypes.DateTimeAdjustmentMethod,System.DayOfWeek)
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding(System.DateTimeOffset, Hsm.BaseTypes.DateTimeOffsetAdjustmentPart, Hsm.BaseTypes.DateTimeAdjustmentMethod, System.DayOfWeek)
+  nameWithType: DateTimeOffsetExtension.DateTimeRounding(DateTimeOffset, DateTimeOffsetAdjustmentPart, DateTimeAdjustmentMethod, DayOfWeek)
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding*
   name: DateTimeRounding
-  href: api/Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.html#Hsm_BaseTypes_DateTimeOffsetAdjustmentExtension_DateTimeRounding_
-  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_DateTimeRounding_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding
   isSpec: "True"
-  fullName: Hsm.BaseTypes.DateTimeOffsetAdjustmentExtension.DateTimeRounding
-  nameWithType: DateTimeOffsetAdjustmentExtension.DateTimeRounding
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.DateTimeRounding
+  nameWithType: DateTimeOffsetExtension.DateTimeRounding
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name: Max(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Max_System_DateTimeOffset_System_Collections_Generic_IEnumerable_System_DateTimeOffset__
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name.vb: Max(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset, System.Collections.Generic.IEnumerable<System.DateTimeOffset>)
+  fullName.vb: Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset, System.Collections.Generic.IEnumerable(Of System.DateTimeOffset))
+  nameWithType: DateTimeOffsetExtension.Max(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  nameWithType.vb: DateTimeOffsetExtension.Max(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset,System.DateTimeOffset)
+  name: Max(DateTimeOffset, DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Max_System_DateTimeOffset_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset,System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Max(System.DateTimeOffset, System.DateTimeOffset)
+  nameWithType: DateTimeOffsetExtension.Max(DateTimeOffset, DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Max*
+  name: Max
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Max_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetExtension.Max
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Max
+  nameWithType: DateTimeOffsetExtension.Max
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name: Min(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Min_System_DateTimeOffset_System_Collections_Generic_IEnumerable_System_DateTimeOffset__
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name.vb: Min(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset, System.Collections.Generic.IEnumerable<System.DateTimeOffset>)
+  fullName.vb: Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset, System.Collections.Generic.IEnumerable(Of System.DateTimeOffset))
+  nameWithType: DateTimeOffsetExtension.Min(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  nameWithType.vb: DateTimeOffsetExtension.Min(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset,System.DateTimeOffset)
+  name: Min(DateTimeOffset, DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Min_System_DateTimeOffset_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset,System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Min(System.DateTimeOffset, System.DateTimeOffset)
+  nameWithType: DateTimeOffsetExtension.Min(DateTimeOffset, DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetExtension.Min*
+  name: Min
+  href: api/Hsm.BaseTypes.DateTimeOffsetExtension.html#Hsm_BaseTypes_DateTimeOffsetExtension_Min_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetExtension.Min
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetExtension.Min
+  nameWithType: DateTimeOffsetExtension.Min
 - uid: Hsm.BaseTypes.DateTimeOffsetInterval
   name: DateTimeOffsetInterval
   href: api/Hsm.BaseTypes.DateTimeOffsetInterval.html
@@ -911,48 +997,56 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.DateTimeOffsetInterval.Unbounded
   nameWithType: DateTimeOffsetInterval.Unbounded
-- uid: Hsm.BaseTypes.DateTimeRoundingPart
-  name: DateTimeRoundingPart
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html
-  commentId: T:Hsm.BaseTypes.DateTimeRoundingPart
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart
-  nameWithType: DateTimeRoundingPart
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Day
-  name: Day
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Day
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Day
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Day
-  nameWithType: DateTimeRoundingPart.Day
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Hour
-  name: Hour
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Hour
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Hour
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Hour
-  nameWithType: DateTimeRoundingPart.Hour
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Minute
-  name: Minute
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Minute
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Minute
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Minute
-  nameWithType: DateTimeRoundingPart.Minute
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Month
-  name: Month
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Month
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Month
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Month
-  nameWithType: DateTimeRoundingPart.Month
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Week
-  name: Week
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Week
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Week
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Week
-  nameWithType: DateTimeRoundingPart.Week
-- uid: Hsm.BaseTypes.DateTimeRoundingPart.Year
-  name: Year
-  href: api/Hsm.BaseTypes.DateTimeRoundingPart.html#Hsm_BaseTypes_DateTimeRoundingPart_Year
-  commentId: F:Hsm.BaseTypes.DateTimeRoundingPart.Year
-  fullName: Hsm.BaseTypes.DateTimeRoundingPart.Year
-  nameWithType: DateTimeRoundingPart.Year
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility
+  name: DateTimeOffsetUtility
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html
+  commentId: T:Hsm.BaseTypes.DateTimeOffsetUtility
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility
+  nameWithType: DateTimeOffsetUtility
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name: Max(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Max_System_DateTimeOffset_System_Collections_Generic_IEnumerable_System_DateTimeOffset__
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name.vb: Max(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset, System.Collections.Generic.IEnumerable<System.DateTimeOffset>)
+  fullName.vb: Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset, System.Collections.Generic.IEnumerable(Of System.DateTimeOffset))
+  nameWithType: DateTimeOffsetUtility.Max(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  nameWithType.vb: DateTimeOffsetUtility.Max(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset,System.DateTimeOffset)
+  name: Max(DateTimeOffset, DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Max_System_DateTimeOffset_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset,System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Max(System.DateTimeOffset, System.DateTimeOffset)
+  nameWithType: DateTimeOffsetUtility.Max(DateTimeOffset, DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Max*
+  name: Max
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Max_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetUtility.Max
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Max
+  nameWithType: DateTimeOffsetUtility.Max
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name: Min(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Min_System_DateTimeOffset_System_Collections_Generic_IEnumerable_System_DateTimeOffset__
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset,System.Collections.Generic.IEnumerable{System.DateTimeOffset})
+  name.vb: Min(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset, System.Collections.Generic.IEnumerable<System.DateTimeOffset>)
+  fullName.vb: Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset, System.Collections.Generic.IEnumerable(Of System.DateTimeOffset))
+  nameWithType: DateTimeOffsetUtility.Min(DateTimeOffset, IEnumerable<DateTimeOffset>)
+  nameWithType.vb: DateTimeOffsetUtility.Min(DateTimeOffset, IEnumerable(Of DateTimeOffset))
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset,System.DateTimeOffset)
+  name: Min(DateTimeOffset, DateTimeOffset)
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Min_System_DateTimeOffset_System_DateTimeOffset_
+  commentId: M:Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset,System.DateTimeOffset)
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Min(System.DateTimeOffset, System.DateTimeOffset)
+  nameWithType: DateTimeOffsetUtility.Min(DateTimeOffset, DateTimeOffset)
+- uid: Hsm.BaseTypes.DateTimeOffsetUtility.Min*
+  name: Min
+  href: api/Hsm.BaseTypes.DateTimeOffsetUtility.html#Hsm_BaseTypes_DateTimeOffsetUtility_Min_
+  commentId: Overload:Hsm.BaseTypes.DateTimeOffsetUtility.Min
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateTimeOffsetUtility.Min
+  nameWithType: DateTimeOffsetUtility.Min
 - uid: Hsm.BaseTypes.DoubleInterval
   name: DoubleInterval
   href: api/Hsm.BaseTypes.DoubleInterval.html
@@ -1187,6 +1281,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui64.Equals
   nameWithType: Eui64.Equals
+- uid: Hsm.BaseTypes.Eui64.FromLong(System.Int64)
+  name: FromLong(Int64)
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_FromLong_System_Int64_
+  commentId: M:Hsm.BaseTypes.Eui64.FromLong(System.Int64)
+  fullName: Hsm.BaseTypes.Eui64.FromLong(System.Int64)
+  nameWithType: Eui64.FromLong(Int64)
+- uid: Hsm.BaseTypes.Eui64.FromLong*
+  name: FromLong
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_FromLong_
+  commentId: Overload:Hsm.BaseTypes.Eui64.FromLong
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.FromLong
+  nameWithType: Eui64.FromLong
 - uid: Hsm.BaseTypes.Eui64.Get48BitAddress
   name: Get48BitAddress()
   href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_Get48BitAddress
@@ -1291,6 +1398,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui64.ParseExact
   nameWithType: Eui64.ParseExact
+- uid: Hsm.BaseTypes.Eui64.ToLong
+  name: ToLong()
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToLong
+  commentId: M:Hsm.BaseTypes.Eui64.ToLong
+  fullName: Hsm.BaseTypes.Eui64.ToLong()
+  nameWithType: Eui64.ToLong()
+- uid: Hsm.BaseTypes.Eui64.ToLong*
+  name: ToLong
+  href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToLong_
+  commentId: Overload:Hsm.BaseTypes.Eui64.ToLong
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui64.ToLong
+  nameWithType: Eui64.ToLong
 - uid: Hsm.BaseTypes.Eui64.ToString
   name: ToString()
   href: api/Hsm.BaseTypes.Eui64.html#Hsm_BaseTypes_Eui64_ToString
@@ -2236,12 +2356,12 @@ references:
   commentId: T:Hsm.BaseTypes.RelativeDateInterval
   fullName: Hsm.BaseTypes.RelativeDateInterval
   nameWithType: RelativeDateInterval
-- uid: Hsm.BaseTypes.RelativeDateInterval.#ctor(Hsm.BaseTypes.TimeOffset,Hsm.BaseTypes.TimeOffset,System.Boolean,System.Boolean,Hsm.BaseTypes.DateTimeAdjustmentMethod,Hsm.BaseTypes.DateTimeRoundingPart,System.DayOfWeek)
-  name: RelativeDateInterval(TimeOffset, TimeOffset, Boolean, Boolean, DateTimeAdjustmentMethod, DateTimeRoundingPart, DayOfWeek)
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval__ctor_Hsm_BaseTypes_TimeOffset_Hsm_BaseTypes_TimeOffset_System_Boolean_System_Boolean_Hsm_BaseTypes_DateTimeAdjustmentMethod_Hsm_BaseTypes_DateTimeRoundingPart_System_DayOfWeek_
-  commentId: M:Hsm.BaseTypes.RelativeDateInterval.#ctor(Hsm.BaseTypes.TimeOffset,Hsm.BaseTypes.TimeOffset,System.Boolean,System.Boolean,Hsm.BaseTypes.DateTimeAdjustmentMethod,Hsm.BaseTypes.DateTimeRoundingPart,System.DayOfWeek)
-  fullName: Hsm.BaseTypes.RelativeDateInterval.RelativeDateInterval(Hsm.BaseTypes.TimeOffset, Hsm.BaseTypes.TimeOffset, System.Boolean, System.Boolean, Hsm.BaseTypes.DateTimeAdjustmentMethod, Hsm.BaseTypes.DateTimeRoundingPart, System.DayOfWeek)
-  nameWithType: RelativeDateInterval.RelativeDateInterval(TimeOffset, TimeOffset, Boolean, Boolean, DateTimeAdjustmentMethod, DateTimeRoundingPart, DayOfWeek)
+- uid: Hsm.BaseTypes.RelativeDateInterval.#ctor(Hsm.BaseTypes.TimeOffset,Hsm.BaseTypes.TimeOffset,System.Boolean,System.Boolean,Hsm.BaseTypes.DateTimeAdjustmentMethod,Hsm.BaseTypes.DateTimeOffsetAdjustmentPart,System.DayOfWeek)
+  name: RelativeDateInterval(TimeOffset, TimeOffset, Boolean, Boolean, DateTimeAdjustmentMethod, DateTimeOffsetAdjustmentPart, DayOfWeek)
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval__ctor_Hsm_BaseTypes_TimeOffset_Hsm_BaseTypes_TimeOffset_System_Boolean_System_Boolean_Hsm_BaseTypes_DateTimeAdjustmentMethod_Hsm_BaseTypes_DateTimeOffsetAdjustmentPart_System_DayOfWeek_
+  commentId: M:Hsm.BaseTypes.RelativeDateInterval.#ctor(Hsm.BaseTypes.TimeOffset,Hsm.BaseTypes.TimeOffset,System.Boolean,System.Boolean,Hsm.BaseTypes.DateTimeAdjustmentMethod,Hsm.BaseTypes.DateTimeOffsetAdjustmentPart,System.DayOfWeek)
+  fullName: Hsm.BaseTypes.RelativeDateInterval.RelativeDateInterval(Hsm.BaseTypes.TimeOffset, Hsm.BaseTypes.TimeOffset, System.Boolean, System.Boolean, Hsm.BaseTypes.DateTimeAdjustmentMethod, Hsm.BaseTypes.DateTimeOffsetAdjustmentPart, System.DayOfWeek)
+  nameWithType: RelativeDateInterval.RelativeDateInterval(TimeOffset, TimeOffset, Boolean, Boolean, DateTimeAdjustmentMethod, DateTimeOffsetAdjustmentPart, DayOfWeek)
 - uid: Hsm.BaseTypes.RelativeDateInterval.#ctor*
   name: RelativeDateInterval
   href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval__ctor_
@@ -2262,19 +2382,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeAdjustmentMethod
   nameWithType: RelativeDateInterval.DateTimeAdjustmentMethod
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  name: DateTimeRoundingPart
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeRoundingPart
-  commentId: P:Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  nameWithType: RelativeDateInterval.DateTimeRoundingPart
-- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart*
-  name: DateTimeRoundingPart
-  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeRoundingPart_
-  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
+- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart
+  name: DateTimeOffsetAdjustmentPart
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeOffsetAdjustmentPart
+  commentId: P:Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart
+  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart
+  nameWithType: RelativeDateInterval.DateTimeOffsetAdjustmentPart
+- uid: Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart*
+  name: DateTimeOffsetAdjustmentPart
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_DateTimeOffsetAdjustmentPart_
+  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart
   isSpec: "True"
-  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeRoundingPart
-  nameWithType: RelativeDateInterval.DateTimeRoundingPart
+  fullName: Hsm.BaseTypes.RelativeDateInterval.DateTimeOffsetAdjustmentPart
+  nameWithType: RelativeDateInterval.DateTimeOffsetAdjustmentPart
 - uid: Hsm.BaseTypes.RelativeDateInterval.EndOffset
   name: EndOffset
   href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_EndOffset
@@ -2359,12 +2479,12 @@ references:
   commentId: T:Hsm.BaseTypes.ResourceInstanceIdentifier
   fullName: Hsm.BaseTypes.ResourceInstanceIdentifier
   nameWithType: ResourceInstanceIdentifier
-- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
-  name: ResourceInstanceIdentifier(Int16, Int16)
-  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier__ctor_System_Int16_System_Int16_
-  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.Int16,System.Int16)
-  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceIdentifier(System.Int16, System.Int16)
-  nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier(Int16, Int16)
+- uid: Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.UInt16,System.Byte)
+  name: ResourceInstanceIdentifier(UInt16, Byte)
+  href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier__ctor_System_UInt16_System_Byte_
+  commentId: M:Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor(System.UInt16,System.Byte)
+  fullName: Hsm.BaseTypes.ResourceInstanceIdentifier.ResourceInstanceIdentifier(System.UInt16, System.Byte)
+  nameWithType: ResourceInstanceIdentifier.ResourceInstanceIdentifier(UInt16, Byte)
 - uid: Hsm.BaseTypes.ResourceInstanceIdentifier.#ctor*
   name: ResourceInstanceIdentifier
   href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html#Hsm_BaseTypes_ResourceInstanceIdentifier__ctor_
@@ -3229,12 +3349,12 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.ValidationResult.ValidationResult
   nameWithType: ValidationResult.ValidationResult
-- uid: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
-  name: AddMessage(ValidationMessage)
-  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_Hsm_BaseTypes_ValidationMessage_
-  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
-  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.ValidationMessage)
-  nameWithType: ValidationResult.AddMessage(ValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.IValidationMessage)
+  name: AddMessage(IValidationMessage)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_Hsm_BaseTypes_IValidationMessage_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.IValidationMessage)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessage(Hsm.BaseTypes.IValidationMessage)
+  nameWithType: ValidationResult.AddMessage(IValidationMessage)
 - uid: Hsm.BaseTypes.ValidationResult.AddMessage(System.String)
   name: AddMessage(String)
   href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessage_System_String_
@@ -3291,6 +3411,51 @@ references:
   fullName.vb: Hsm.BaseTypes.ValidationResult.AddMessageIf(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, System.Boolean), Hsm.BaseTypes.ValidationMessage)
   nameWithType: ValidationResult.AddMessageIf<T>(IEnumerable<T>, Func<T, Boolean>, ValidationMessage)
   nameWithType.vb: ValidationResult.AddMessageIf(Of T)(IEnumerable(Of T), Func(Of T, Boolean), ValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessages(System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidationMessage})
+  name: AddMessages(IEnumerable<IValidationMessage>)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessages_System_Collections_Generic_IEnumerable_Hsm_BaseTypes_IValidationMessage__
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessages(System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidationMessage})
+  name.vb: AddMessages(IEnumerable(Of IValidationMessage))
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessages(System.Collections.Generic.IEnumerable<Hsm.BaseTypes.IValidationMessage>)
+  fullName.vb: Hsm.BaseTypes.ValidationResult.AddMessages(System.Collections.Generic.IEnumerable(Of Hsm.BaseTypes.IValidationMessage))
+  nameWithType: ValidationResult.AddMessages(IEnumerable<IValidationMessage>)
+  nameWithType.vb: ValidationResult.AddMessages(IEnumerable(Of IValidationMessage))
+- uid: Hsm.BaseTypes.ValidationResult.AddMessages*
+  name: AddMessages
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessages_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddMessages
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessages
+  nameWithType: ValidationResult.AddMessages
+- uid: Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix(System.String,System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidationMessage})
+  name: AddMessagesWithPrefix(String, IEnumerable<IValidationMessage>)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessagesWithPrefix_System_String_System_Collections_Generic_IEnumerable_Hsm_BaseTypes_IValidationMessage__
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix(System.String,System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidationMessage})
+  name.vb: AddMessagesWithPrefix(String, IEnumerable(Of IValidationMessage))
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix(System.String, System.Collections.Generic.IEnumerable<Hsm.BaseTypes.IValidationMessage>)
+  fullName.vb: Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix(System.String, System.Collections.Generic.IEnumerable(Of Hsm.BaseTypes.IValidationMessage))
+  nameWithType: ValidationResult.AddMessagesWithPrefix(String, IEnumerable<IValidationMessage>)
+  nameWithType.vb: ValidationResult.AddMessagesWithPrefix(String, IEnumerable(Of IValidationMessage))
+- uid: Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix*
+  name: AddMessagesWithPrefix
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessagesWithPrefix_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessagesWithPrefix
+  nameWithType: ValidationResult.AddMessagesWithPrefix
+- uid: Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix(System.String,Hsm.BaseTypes.IValidationMessage)
+  name: AddMessageWithPrefix(String, IValidationMessage)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessageWithPrefix_System_String_Hsm_BaseTypes_IValidationMessage_
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix(System.String,Hsm.BaseTypes.IValidationMessage)
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix(System.String, Hsm.BaseTypes.IValidationMessage)
+  nameWithType: ValidationResult.AddMessageWithPrefix(String, IValidationMessage)
+- uid: Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix*
+  name: AddMessageWithPrefix
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddMessageWithPrefix_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddMessageWithPrefix
+  nameWithType: ValidationResult.AddMessageWithPrefix
 - uid: Hsm.BaseTypes.ValidationResult.AddValidationResult(Hsm.BaseTypes.IValidatable)
   name: AddValidationResult(IValidatable)
   href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResult_Hsm_BaseTypes_IValidatable_
@@ -3310,6 +3475,22 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.ValidationResult.AddValidationResult
   nameWithType: ValidationResult.AddValidationResult
+- uid: Hsm.BaseTypes.ValidationResult.AddValidationResults(System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidatable})
+  name: AddValidationResults(IEnumerable<IValidatable>)
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResults_System_Collections_Generic_IEnumerable_Hsm_BaseTypes_IValidatable__
+  commentId: M:Hsm.BaseTypes.ValidationResult.AddValidationResults(System.Collections.Generic.IEnumerable{Hsm.BaseTypes.IValidatable})
+  name.vb: AddValidationResults(IEnumerable(Of IValidatable))
+  fullName: Hsm.BaseTypes.ValidationResult.AddValidationResults(System.Collections.Generic.IEnumerable<Hsm.BaseTypes.IValidatable>)
+  fullName.vb: Hsm.BaseTypes.ValidationResult.AddValidationResults(System.Collections.Generic.IEnumerable(Of Hsm.BaseTypes.IValidatable))
+  nameWithType: ValidationResult.AddValidationResults(IEnumerable<IValidatable>)
+  nameWithType.vb: ValidationResult.AddValidationResults(IEnumerable(Of IValidatable))
+- uid: Hsm.BaseTypes.ValidationResult.AddValidationResults*
+  name: AddValidationResults
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AddValidationResults_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.AddValidationResults
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.AddValidationResults
+  nameWithType: ValidationResult.AddValidationResults
 - uid: Hsm.BaseTypes.ValidationResult.AssertConfigurationIsValid
   name: AssertConfigurationIsValid()
   href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_AssertConfigurationIsValid
@@ -3342,6 +3523,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.ValidationResult.CreationDate
   nameWithType: ValidationResult.CreationDate
+- uid: Hsm.BaseTypes.ValidationResult.ErrorCount
+  name: ErrorCount()
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_ErrorCount
+  commentId: M:Hsm.BaseTypes.ValidationResult.ErrorCount
+  fullName: Hsm.BaseTypes.ValidationResult.ErrorCount()
+  nameWithType: ValidationResult.ErrorCount()
+- uid: Hsm.BaseTypes.ValidationResult.ErrorCount*
+  name: ErrorCount
+  href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_ErrorCount_
+  commentId: Overload:Hsm.BaseTypes.ValidationResult.ErrorCount
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ValidationResult.ErrorCount
+  nameWithType: ValidationResult.ErrorCount
 - uid: Hsm.BaseTypes.ValidationResult.IsValid
   name: IsValid
   href: api/Hsm.BaseTypes.ValidationResult.html#Hsm_BaseTypes_ValidationResult_IsValid
