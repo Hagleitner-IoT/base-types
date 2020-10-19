@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/daniel.egger/source/repos/BaseTypes-dev/DotNet/Documentation",
+  "source_base_path": "C:/Users/daniel.egger/source/repos/BaseTypes/DotNet/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.AbsoluteDateInterval.html",
-          "hash": "44+ug7dwJ9kmiMlAnxD2ug=="
+          "hash": "5Cbcf560NaOFXyKZdVrxog=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalDefinition.html",
-          "hash": "3GS/aup1tps9ce925ShjhA=="
+          "hash": "AzQAseLKGWTn6XHWNIAs1Q=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.RelativeDateInterval.html",
-          "hash": "9p0qOZ+vA1ownQq+yWBOcA=="
+          "hash": "L4N7XLL3dsXoAXTFebFYTQ=="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "kutJr2djyC+uL6s4ke2bOg=="
+          "hash": "eJ9NKPQwTkFAULSqqcVvjw=="
         }
       },
       "is_incremental": false,
@@ -477,10 +477,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/quickstart.html",
-          "hash": "eM7OQyCdeXbVPG2/EC5NJg=="
+          "hash": "o4w7zNizwYdcws8cmkLatw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -501,10 +501,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "BF8HmhBnjvl/94qAbioGaA=="
+          "hash": "YRDIRysEEHQdZBvBAlKerw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -523,23 +523,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 3
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 37,
-          "skipped_file_count": 27
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -552,8 +554,8 @@
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

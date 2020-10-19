@@ -82,6 +82,10 @@
     <div class="level1"><a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html">DateIntervalDefinition</a></div>
     <div class="level2"><span class="xref">AbsoluteDateInterval</span></div>
   </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="Hsm.BaseTypes.IValidatable.html">IValidatable</a></div>
+  </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
     <div>
@@ -116,7 +120,7 @@
   <h6><strong>Assembly</strong>: Hsm.BaseTypes.dll</h6>
   <h5 id="Hsm_BaseTypes_AbsoluteDateInterval_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class AbsoluteDateInterval : DateIntervalDefinition</code></pre>
+    <pre><code class="lang-csharp hljs">public class AbsoluteDateInterval : DateIntervalDefinition, IValidatable</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
@@ -189,7 +193,7 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=43">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=33">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_AbsoluteDateInterval_EndDate_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.EndDate*"></a>
   <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_EndDate" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.EndDate">EndDate</h4>
@@ -217,7 +221,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=38">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=28">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_AbsoluteDateInterval_StartDate_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.StartDate*"></a>
   <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_StartDate" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.StartDate">StartDate</h4>
@@ -247,7 +251,7 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=46">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=36">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_AbsoluteDateInterval_GetEffectiveInterval_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.GetEffectiveInterval*"></a>
   <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_GetEffectiveInterval" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.GetEffectiveInterval">GetEffectiveInterval()</h4>
@@ -276,6 +280,41 @@
   </table>
   <h5 class="overrides">Overrides</h5>
   <div><a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_GetEffectiveInterval">DateIntervalDefinition.GetEffectiveInterval()</a></div>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/HsM%20BaseTypes?path=DotNet/HsmBaseTypes/AdaptiveDateInterval/AbsoluteDateInterval.cs&amp;version=GBmaster&amp;line=42">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_AbsoluteDateInterval_Validate_" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.Validate*"></a>
+  <h4 id="Hsm_BaseTypes_AbsoluteDateInterval_Validate" data-uid="Hsm.BaseTypes.AbsoluteDateInterval.Validate">Validate()</h4>
+  <div class="markdown level1 summary"><p>Validates this object and returns a <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override ValidationResult Validate()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a></td>
+        <td><p>The <a class="xref" href="Hsm.BaseTypes.ValidationResult.html">ValidationResult</a>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_Validate">DateIntervalDefinition.Validate()</a></div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="Hsm.BaseTypes.IValidatable.html">IValidatable</a>
+  </div>
 </article>
           </div>
           

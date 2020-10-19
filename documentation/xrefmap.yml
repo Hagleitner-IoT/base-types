@@ -65,6 +65,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.AbsoluteDateInterval.StartDate
   nameWithType: AbsoluteDateInterval.StartDate
+- uid: Hsm.BaseTypes.AbsoluteDateInterval.Validate
+  name: Validate()
+  href: api/Hsm.BaseTypes.AbsoluteDateInterval.html#Hsm_BaseTypes_AbsoluteDateInterval_Validate
+  commentId: M:Hsm.BaseTypes.AbsoluteDateInterval.Validate
+  fullName: Hsm.BaseTypes.AbsoluteDateInterval.Validate()
+  nameWithType: AbsoluteDateInterval.Validate()
+- uid: Hsm.BaseTypes.AbsoluteDateInterval.Validate*
+  name: Validate
+  href: api/Hsm.BaseTypes.AbsoluteDateInterval.html#Hsm_BaseTypes_AbsoluteDateInterval_Validate_
+  commentId: Overload:Hsm.BaseTypes.AbsoluteDateInterval.Validate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.AbsoluteDateInterval.Validate
+  nameWithType: AbsoluteDateInterval.Validate
 - uid: Hsm.BaseTypes.Base36Cipher
   name: Base36Cipher
   href: api/Hsm.BaseTypes.Base36Cipher.html
@@ -687,6 +700,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.DateIntervalDefinition.StartIncluded
   nameWithType: DateIntervalDefinition.StartIncluded
+- uid: Hsm.BaseTypes.DateIntervalDefinition.Validate
+  name: Validate()
+  href: api/Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_Validate
+  commentId: M:Hsm.BaseTypes.DateIntervalDefinition.Validate
+  fullName: Hsm.BaseTypes.DateIntervalDefinition.Validate()
+  nameWithType: DateIntervalDefinition.Validate()
+- uid: Hsm.BaseTypes.DateIntervalDefinition.Validate*
+  name: Validate
+  href: api/Hsm.BaseTypes.DateIntervalDefinition.html#Hsm_BaseTypes_DateIntervalDefinition_Validate_
+  commentId: Overload:Hsm.BaseTypes.DateIntervalDefinition.Validate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateIntervalDefinition.Validate
+  nameWithType: DateIntervalDefinition.Validate
 - uid: Hsm.BaseTypes.DateTimeAdjustmentMethod
   name: DateTimeAdjustmentMethod
   href: api/Hsm.BaseTypes.DateTimeAdjustmentMethod.html
@@ -2473,6 +2499,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.RelativeDateInterval.StartOffset
   nameWithType: RelativeDateInterval.StartOffset
+- uid: Hsm.BaseTypes.RelativeDateInterval.Validate
+  name: Validate()
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_Validate
+  commentId: M:Hsm.BaseTypes.RelativeDateInterval.Validate
+  fullName: Hsm.BaseTypes.RelativeDateInterval.Validate()
+  nameWithType: RelativeDateInterval.Validate()
+- uid: Hsm.BaseTypes.RelativeDateInterval.Validate*
+  name: Validate
+  href: api/Hsm.BaseTypes.RelativeDateInterval.html#Hsm_BaseTypes_RelativeDateInterval_Validate_
+  commentId: Overload:Hsm.BaseTypes.RelativeDateInterval.Validate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.RelativeDateInterval.Validate
+  nameWithType: RelativeDateInterval.Validate
 - uid: Hsm.BaseTypes.ResourceInstanceIdentifier
   name: ResourceInstanceIdentifier
   href: api/Hsm.BaseTypes.ResourceInstanceIdentifier.html
