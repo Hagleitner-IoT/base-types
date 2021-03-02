@@ -806,6 +806,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.Eui48.ToPhysicalAddress
   nameWithType: Eui48.ToPhysicalAddress
+- uid: Hsm.BaseTypes.Eui.Eui48.ToSerialization
+  name: ToSerialization()
+  href: api/Hsm.BaseTypes.Eui.Eui48.html#Hsm_BaseTypes_Eui_Eui48_ToSerialization
+  commentId: M:Hsm.BaseTypes.Eui.Eui48.ToSerialization
+  fullName: Hsm.BaseTypes.Eui.Eui48.ToSerialization()
+  nameWithType: Eui48.ToSerialization()
+- uid: Hsm.BaseTypes.Eui.Eui48.ToSerialization*
+  name: ToSerialization
+  href: api/Hsm.BaseTypes.Eui.Eui48.html#Hsm_BaseTypes_Eui_Eui48_ToSerialization_
+  commentId: Overload:Hsm.BaseTypes.Eui.Eui48.ToSerialization
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui.Eui48.ToSerialization
+  nameWithType: Eui48.ToSerialization
 - uid: Hsm.BaseTypes.Eui.Eui48.ToString
   name: ToString()
   href: api/Hsm.BaseTypes.Eui.Eui48.html#Hsm_BaseTypes_Eui_Eui48_ToString
@@ -1149,6 +1162,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.Eui64.ToPhysicalAddress
   nameWithType: Eui64.ToPhysicalAddress
+- uid: Hsm.BaseTypes.Eui.Eui64.ToSerialization
+  name: ToSerialization()
+  href: api/Hsm.BaseTypes.Eui.Eui64.html#Hsm_BaseTypes_Eui_Eui64_ToSerialization
+  commentId: M:Hsm.BaseTypes.Eui.Eui64.ToSerialization
+  fullName: Hsm.BaseTypes.Eui.Eui64.ToSerialization()
+  nameWithType: Eui64.ToSerialization()
+- uid: Hsm.BaseTypes.Eui.Eui64.ToSerialization*
+  name: ToSerialization
+  href: api/Hsm.BaseTypes.Eui.Eui64.html#Hsm_BaseTypes_Eui_Eui64_ToSerialization_
+  commentId: Overload:Hsm.BaseTypes.Eui.Eui64.ToSerialization
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui.Eui64.ToSerialization
+  nameWithType: Eui64.ToSerialization
 - uid: Hsm.BaseTypes.Eui.Eui64.ToString
   name: ToString()
   href: api/Hsm.BaseTypes.Eui.Eui64.html#Hsm_BaseTypes_Eui_Eui64_ToString
@@ -1247,6 +1273,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.EuiFactory.CreateEui
   nameWithType: EuiFactory.CreateEui
+- uid: Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization(System.String)
+  name: CreateFromSerialization(String)
+  href: api/Hsm.BaseTypes.Eui.EuiFactory.html#Hsm_BaseTypes_Eui_EuiFactory_CreateFromSerialization_System_String_
+  commentId: M:Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization(System.String)
+  fullName: Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization(System.String)
+  nameWithType: EuiFactory.CreateFromSerialization(String)
+- uid: Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization*
+  name: CreateFromSerialization
+  href: api/Hsm.BaseTypes.Eui.EuiFactory.html#Hsm_BaseTypes_Eui_EuiFactory_CreateFromSerialization_
+  commentId: Overload:Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization
+  nameWithType: EuiFactory.CreateFromSerialization
 - uid: Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui(System.Byte[],Hsm.BaseTypes.Eui.IEui@)
   name: TryCreateEui(Byte[], out IEui)
   href: api/Hsm.BaseTypes.Eui.EuiFactory.html#Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_System_Byte___Hsm_BaseTypes_Eui_IEui__
@@ -1281,6 +1320,22 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui
   nameWithType: EuiFactory.TryCreateEui
+- uid: Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization(System.String,Hsm.BaseTypes.Eui.IEui@)
+  name: TryCreateFromSerialization(String, out IEui)
+  href: api/Hsm.BaseTypes.Eui.EuiFactory.html#Hsm_BaseTypes_Eui_EuiFactory_TryCreateFromSerialization_System_String_Hsm_BaseTypes_Eui_IEui__
+  commentId: M:Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization(System.String,Hsm.BaseTypes.Eui.IEui@)
+  name.vb: TryCreateFromSerialization(String, ByRef IEui)
+  fullName: Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization(System.String, out Hsm.BaseTypes.Eui.IEui)
+  fullName.vb: Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization(System.String, ByRef Hsm.BaseTypes.Eui.IEui)
+  nameWithType: EuiFactory.TryCreateFromSerialization(String, out IEui)
+  nameWithType.vb: EuiFactory.TryCreateFromSerialization(String, ByRef IEui)
+- uid: Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization*
+  name: TryCreateFromSerialization
+  href: api/Hsm.BaseTypes.Eui.EuiFactory.html#Hsm_BaseTypes_Eui_EuiFactory_TryCreateFromSerialization_
+  commentId: Overload:Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization
+  nameWithType: EuiFactory.TryCreateFromSerialization
 - uid: Hsm.BaseTypes.Eui.EuiPresentationFormat
   name: EuiPresentationFormat
   href: api/Hsm.BaseTypes.Eui.EuiPresentationFormat.html
@@ -1361,6 +1416,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.IEui.GetHashCode
   nameWithType: IEui.GetHashCode
+- uid: Hsm.BaseTypes.Eui.IEui.ToSerialization
+  name: ToSerialization()
+  href: api/Hsm.BaseTypes.Eui.IEui.html#Hsm_BaseTypes_Eui_IEui_ToSerialization
+  commentId: M:Hsm.BaseTypes.Eui.IEui.ToSerialization
+  fullName: Hsm.BaseTypes.Eui.IEui.ToSerialization()
+  nameWithType: IEui.ToSerialization()
+- uid: Hsm.BaseTypes.Eui.IEui.ToSerialization*
+  name: ToSerialization
+  href: api/Hsm.BaseTypes.Eui.IEui.html#Hsm_BaseTypes_Eui_IEui_ToSerialization_
+  commentId: Overload:Hsm.BaseTypes.Eui.IEui.ToSerialization
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Eui.IEui.ToSerialization
+  nameWithType: IEui.ToSerialization
 - uid: Hsm.BaseTypes.Eui.IEui.ToString(Hsm.BaseTypes.Eui.EuiPresentationFormat)
   name: ToString(EuiPresentationFormat)
   href: api/Hsm.BaseTypes.Eui.IEui.html#Hsm_BaseTypes_Eui_IEui_ToString_Hsm_BaseTypes_Eui_EuiPresentationFormat_
@@ -1918,187 +1986,187 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Intervals.DateTimeOffsetInterval.Unbounded
   nameWithType: DateTimeOffsetInterval.Unbounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval
-  name: DoubleAbstractInterval
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html
-  commentId: T:Hsm.BaseTypes.Intervals.DoubleAbstractInterval
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval
-  nameWithType: DoubleAbstractInterval
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
-  name: DoubleAbstractInterval(Double, Double, Boolean, Boolean)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval__ctor_System_Double_System_Double_System_Boolean_System_Boolean_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.DoubleAbstractInterval(System.Double, System.Double, System.Boolean, System.Boolean)
-  nameWithType: DoubleAbstractInterval.DoubleAbstractInterval(Double, Double, Boolean, Boolean)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.#ctor*
-  name: DoubleAbstractInterval
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval__ctor_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.#ctor
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval
+  name: DoubleInterval
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html
+  commentId: T:Hsm.BaseTypes.Intervals.DoubleInterval
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval
+  nameWithType: DoubleInterval
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
+  name: DoubleInterval(Double, Double, Boolean, Boolean)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval__ctor_System_Double_System_Double_System_Boolean_System_Boolean_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.DoubleInterval(System.Double, System.Double, System.Boolean, System.Boolean)
+  nameWithType: DoubleInterval.DoubleInterval(Double, Double, Boolean, Boolean)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.#ctor*
+  name: DoubleInterval
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval__ctor_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.#ctor
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.DoubleAbstractInterval
-  nameWithType: DoubleAbstractInterval.DoubleAbstractInterval
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: Contains(DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Contains_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.Contains(DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains*
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.DoubleInterval
+  nameWithType: DoubleInterval.DoubleInterval
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Contains(Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: Contains(DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Contains_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.Contains(Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Contains(Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.Contains(DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Contains*
   name: Contains
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Contains_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Contains_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.Contains
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Contains
-  nameWithType: DoubleAbstractInterval.Contains
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: Equals(DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Equals_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.Equals(DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(System.Object)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Contains
+  nameWithType: DoubleInterval.Contains
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Equals(Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: Equals(DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Equals_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.Equals(Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Equals(Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.Equals(DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Equals(System.Object)
   name: Equals(Object)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(System.Object)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals(System.Object)
-  nameWithType: DoubleAbstractInterval.Equals(Object)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.Equals(System.Object)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Equals(System.Object)
+  nameWithType: DoubleInterval.Equals(Object)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Equals*
   name: Equals
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Equals_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Equals_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.Equals
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equals
-  nameWithType: DoubleAbstractInterval.Equals
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Equals
+  nameWithType: DoubleInterval.Equals
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode
   name: GetHashCode()
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_GetHashCode
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode()
-  nameWithType: DoubleAbstractInterval.GetHashCode()
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_GetHashCode
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode()
+  nameWithType: DoubleInterval.GetHashCode()
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode*
   name: GetHashCode
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.GetHashCode
-  nameWithType: DoubleAbstractInterval.GetHashCode
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: Intersects(DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Intersects_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.Intersects(DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects*
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.GetHashCode
+  nameWithType: DoubleInterval.GetHashCode
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: Intersects(DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Intersects_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Intersects(Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.Intersects(DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Intersects*
   name: Intersects
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Intersects_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Intersects_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.Intersects
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Intersects
-  nameWithType: DoubleAbstractInterval.Intersects
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: IsContained(DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsContained_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.IsContained(DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained*
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Intersects
+  nameWithType: DoubleInterval.Intersects
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: IsContained(DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsContained_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsContained(Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.IsContained(DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsContained*
   name: IsContained
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsContained_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsContained_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.IsContained
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsContained
-  nameWithType: DoubleAbstractInterval.IsContained
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsContained
+  nameWithType: DoubleInterval.IsContained
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded
   name: IsLeftBounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsLeftBounded
-  commentId: P:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded
-  nameWithType: DoubleAbstractInterval.IsLeftBounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsLeftBounded
+  commentId: P:Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded
+  nameWithType: DoubleInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded*
   name: IsLeftBounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsLeftBounded_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsLeftBounded_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsLeftBounded
-  nameWithType: DoubleAbstractInterval.IsLeftBounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity(System.Double)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsLeftBounded
+  nameWithType: DoubleInterval.IsLeftBounded
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity(System.Double)
   name: IsNegativeInfinity(Double)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsNegativeInfinity_System_Double_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity(System.Double)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity(System.Double)
-  nameWithType: DoubleAbstractInterval.IsNegativeInfinity(Double)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsNegativeInfinity_System_Double_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity(System.Double)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity(System.Double)
+  nameWithType: DoubleInterval.IsNegativeInfinity(Double)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity*
   name: IsNegativeInfinity
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsNegativeInfinity_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsNegativeInfinity_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsNegativeInfinity
-  nameWithType: DoubleAbstractInterval.IsNegativeInfinity
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity(System.Double)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsNegativeInfinity
+  nameWithType: DoubleInterval.IsNegativeInfinity
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity(System.Double)
   name: IsPositiveInfinity(Double)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsPositiveInfinity_System_Double_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity(System.Double)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity(System.Double)
-  nameWithType: DoubleAbstractInterval.IsPositiveInfinity(Double)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsPositiveInfinity_System_Double_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity(System.Double)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity(System.Double)
+  nameWithType: DoubleInterval.IsPositiveInfinity(Double)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity*
   name: IsPositiveInfinity
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsPositiveInfinity_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsPositiveInfinity_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsPositiveInfinity
-  nameWithType: DoubleAbstractInterval.IsPositiveInfinity
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsPositiveInfinity
+  nameWithType: DoubleInterval.IsPositiveInfinity
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded
   name: IsRightBounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsRightBounded
-  commentId: P:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded
-  nameWithType: DoubleAbstractInterval.IsRightBounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsRightBounded
+  commentId: P:Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded
+  nameWithType: DoubleInterval.IsRightBounded
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded*
   name: IsRightBounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_IsRightBounded_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_IsRightBounded_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.IsRightBounded
-  nameWithType: DoubleAbstractInterval.IsRightBounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Equality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval,Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: Equality(DoubleAbstractInterval, DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_op_Equality_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Equality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval,Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval, Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.Equality(DoubleAbstractInterval, DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Equality*
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.IsRightBounded
+  nameWithType: DoubleInterval.IsRightBounded
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.op_Equality(Hsm.BaseTypes.Intervals.DoubleInterval,Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: Equality(DoubleInterval, DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_op_Equality_Hsm_BaseTypes_Intervals_DoubleInterval_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.op_Equality(Hsm.BaseTypes.Intervals.DoubleInterval,Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Equality(Hsm.BaseTypes.Intervals.DoubleInterval, Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.Equality(DoubleInterval, DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.op_Equality*
   name: Equality
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Equality
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.op_Equality
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Equality
-  nameWithType: DoubleAbstractInterval.Equality
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Inequality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval,Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  name: Inequality(DoubleAbstractInterval, DoubleAbstractInterval)
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_op_Inequality_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Hsm_BaseTypes_Intervals_DoubleAbstractInterval_
-  commentId: M:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Inequality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval,Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Inequality(Hsm.BaseTypes.Intervals.DoubleAbstractInterval, Hsm.BaseTypes.Intervals.DoubleAbstractInterval)
-  nameWithType: DoubleAbstractInterval.Inequality(DoubleAbstractInterval, DoubleAbstractInterval)
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Inequality*
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Equality
+  nameWithType: DoubleInterval.Equality
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.op_Inequality(Hsm.BaseTypes.Intervals.DoubleInterval,Hsm.BaseTypes.Intervals.DoubleInterval)
+  name: Inequality(DoubleInterval, DoubleInterval)
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_op_Inequality_Hsm_BaseTypes_Intervals_DoubleInterval_Hsm_BaseTypes_Intervals_DoubleInterval_
+  commentId: M:Hsm.BaseTypes.Intervals.DoubleInterval.op_Inequality(Hsm.BaseTypes.Intervals.DoubleInterval,Hsm.BaseTypes.Intervals.DoubleInterval)
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Inequality(Hsm.BaseTypes.Intervals.DoubleInterval, Hsm.BaseTypes.Intervals.DoubleInterval)
+  nameWithType: DoubleInterval.Inequality(DoubleInterval, DoubleInterval)
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.op_Inequality*
   name: Inequality
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.op_Inequality
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.op_Inequality
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Inequality
-  nameWithType: DoubleAbstractInterval.Inequality
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Inequality
+  nameWithType: DoubleInterval.Inequality
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
   name: Unbounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Unbounded
-  commentId: P:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded
-  nameWithType: DoubleAbstractInterval.Unbounded
-- uid: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded*
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Unbounded
+  commentId: P:Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
+  nameWithType: DoubleInterval.Unbounded
+- uid: Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded*
   name: Unbounded
-  href: api/Hsm.BaseTypes.Intervals.DoubleAbstractInterval.html#Hsm_BaseTypes_Intervals_DoubleAbstractInterval_Unbounded_
-  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded
+  href: api/Hsm.BaseTypes.Intervals.DoubleInterval.html#Hsm_BaseTypes_Intervals_DoubleInterval_Unbounded_
+  commentId: Overload:Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
   isSpec: "True"
-  fullName: Hsm.BaseTypes.Intervals.DoubleAbstractInterval.Unbounded
-  nameWithType: DoubleAbstractInterval.Unbounded
+  fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
+  nameWithType: DoubleInterval.Unbounded
 - uid: Hsm.BaseTypes.NumberDefinition
   name: Hsm.BaseTypes.NumberDefinition
   href: api/Hsm.BaseTypes.NumberDefinition.html
@@ -2188,6 +2256,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.Equals
   nameWithType: Base36Cipher.Equals
+- uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_From_System_String_
+  commentId: M:Hsm.BaseTypes.NumberDefinition.Base36Cipher.From(System.String)
+  fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.From(System.String)
+  nameWithType: Base36Cipher.From(String)
+- uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.From*
+  name: From
+  href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_From_
+  commentId: Overload:Hsm.BaseTypes.NumberDefinition.Base36Cipher.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.From
+  nameWithType: Base36Cipher.From
 - uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromInt32(System.Int32)
   name: FromInt32(Int32)
   href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_FromInt32_System_Int32_
@@ -2214,19 +2295,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromInt64
   nameWithType: Base36Cipher.FromInt64
-- uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString(System.String)
-  name: FromString(String)
-  href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_FromString_System_String_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString(System.String)
-  fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString(System.String)
-  nameWithType: Base36Cipher.FromString(String)
-- uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString*
-  name: FromString
-  href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_FromString_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromString
-  nameWithType: Base36Cipher.FromString
 - uid: Hsm.BaseTypes.NumberDefinition.Base36Cipher.FromUInt64(System.UInt64)
   name: FromUInt64(UInt64)
   href: api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html#Hsm_BaseTypes_NumberDefinition_Base36Cipher_FromUInt64_System_UInt64_
@@ -2590,306 +2658,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.NumberDefinition.Base36Cipher.TryParse
   nameWithType: Base36Cipher.TryParse
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name: FixedLengthNumber
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html
-  commentId: T:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  nameWithType: FixedLengthNumber
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.#ctor(System.UInt64,System.UInt32)
-  name: FixedLengthNumber(UInt64, UInt32)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber__ctor_System_UInt64_System_UInt32_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.#ctor(System.UInt64,System.UInt32)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FixedLengthNumber(System.UInt64, System.UInt32)
-  nameWithType: FixedLengthNumber.FixedLengthNumber(UInt64, UInt32)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.#ctor*
-  name: FixedLengthNumber
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber__ctor_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FixedLengthNumber
-  nameWithType: FixedLengthNumber.FixedLengthNumber
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: CompareTo(FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_CompareTo_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.CompareTo(FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo*
-  name: CompareTo
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_CompareTo_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.CompareTo
-  nameWithType: FixedLengthNumber.CompareTo
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue
-  name: DefaultValue
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_DefaultValue
-  commentId: P:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue
-  nameWithType: FixedLengthNumber.DefaultValue
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue*
-  name: DefaultValue
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_DefaultValue_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.DefaultValue
-  nameWithType: FixedLengthNumber.DefaultValue
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: Equals(FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Equals_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Equals(FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(System.Object)
-  name: Equals(Object)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(System.Object)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals(System.Object)
-  nameWithType: FixedLengthNumber.Equals(Object)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals*
-  name: Equals
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Equals_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equals
-  nameWithType: FixedLengthNumber.Equals
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString(System.String)
-  name: FromString(String)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_FromString_System_String_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString(System.String)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString(System.String)
-  nameWithType: FixedLengthNumber.FromString(String)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString*
-  name: FromString
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_FromString_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.FromString
-  nameWithType: FixedLengthNumber.FromString
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode
-  name: GetHashCode()
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_GetHashCode
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode()
-  nameWithType: FixedLengthNumber.GetHashCode()
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode*
-  name: GetHashCode
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GetHashCode
-  nameWithType: FixedLengthNumber.GetHashCode
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length
-  name: Length
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Length
-  commentId: P:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length
-  nameWithType: FixedLengthNumber.Length
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length*
-  name: Length
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Length_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Length
-  nameWithType: FixedLengthNumber.Length
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Equality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: Equality(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Equality_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Equality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Equality(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Equality*
-  name: Equality
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Equality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Equality
-  nameWithType: FixedLengthNumber.Equality
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.Int32)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name: Explicit(Int32 to FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Explicit_System_Int32__Hsm_BaseTypes_NumberDefinition_FixedLengthNumber
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.Int32)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name.vb: Narrowing(Int32 to FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Explicit(System.Int32 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Narrowing(System.Int32 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Explicit(Int32 to FixedLengthNumber)
-  nameWithType.vb: FixedLengthNumber.Narrowing(Int32 to FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.Int64)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name: Explicit(Int64 to FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Explicit_System_Int64__Hsm_BaseTypes_NumberDefinition_FixedLengthNumber
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.Int64)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name.vb: Narrowing(Int64 to FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Explicit(System.Int64 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Narrowing(System.Int64 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Explicit(Int64 to FixedLengthNumber)
-  nameWithType.vb: FixedLengthNumber.Narrowing(Int64 to FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.UInt32)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name: Explicit(UInt32 to FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Explicit_System_UInt32__Hsm_BaseTypes_NumberDefinition_FixedLengthNumber
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.UInt32)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name.vb: Narrowing(UInt32 to FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Explicit(System.UInt32 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Narrowing(System.UInt32 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Explicit(UInt32 to FixedLengthNumber)
-  nameWithType.vb: FixedLengthNumber.Narrowing(UInt32 to FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.UInt64)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name: Explicit(UInt64 to FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Explicit_System_UInt64__Hsm_BaseTypes_NumberDefinition_FixedLengthNumber
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit(System.UInt64)~Hsm.BaseTypes.NumberDefinition.FixedLengthNumber
-  name.vb: Narrowing(UInt64 to FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Explicit(System.UInt64 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Narrowing(System.UInt64 to Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Explicit(UInt64 to FixedLengthNumber)
-  nameWithType.vb: FixedLengthNumber.Narrowing(UInt64 to FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit*
-  name: Explicit
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Explicit_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Explicit
-  isSpec: "True"
-  name.vb: Narrowing
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Explicit
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Narrowing
-  nameWithType: FixedLengthNumber.Explicit
-  nameWithType.vb: FixedLengthNumber.Narrowing
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: GreaterThan(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_GreaterThan_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GreaterThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.GreaterThan(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThan*
-  name: GreaterThan
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_GreaterThan_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GreaterThan
-  nameWithType: FixedLengthNumber.GreaterThan
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: GreaterThanOrEqual(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_GreaterThanOrEqual_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GreaterThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.GreaterThanOrEqual(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThanOrEqual*
-  name: GreaterThanOrEqual
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_GreaterThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_GreaterThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.GreaterThanOrEqual
-  nameWithType: FixedLengthNumber.GreaterThanOrEqual
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Inequality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: Inequality(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Inequality_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Inequality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Inequality(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.Inequality(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Inequality*
-  name: Inequality
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_Inequality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Inequality
-  nameWithType: FixedLengthNumber.Inequality
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: LessThan(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_LessThan_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.LessThan(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.LessThan(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThan*
-  name: LessThan
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_LessThan_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.LessThan
-  nameWithType: FixedLengthNumber.LessThan
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  name: LessThanOrEqual(FixedLengthNumber, FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_LessThanOrEqual_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.LessThanOrEqual(Hsm.BaseTypes.NumberDefinition.FixedLengthNumber, Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.LessThanOrEqual(FixedLengthNumber, FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThanOrEqual*
-  name: LessThanOrEqual
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_op_LessThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.op_LessThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.LessThanOrEqual
-  nameWithType: FixedLengthNumber.LessThanOrEqual
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int32)
-  name: ToFixedLengthNumber(Int32)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToFixedLengthNumber_System_Int32_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int32)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int32)
-  nameWithType: FixedLengthNumber.ToFixedLengthNumber(Int32)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int64)
-  name: ToFixedLengthNumber(Int64)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToFixedLengthNumber_System_Int64_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int64)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.Int64)
-  nameWithType: FixedLengthNumber.ToFixedLengthNumber(Int64)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt32)
-  name: ToFixedLengthNumber(UInt32)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToFixedLengthNumber_System_UInt32_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt32)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt32)
-  nameWithType: FixedLengthNumber.ToFixedLengthNumber(UInt32)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt64)
-  name: ToFixedLengthNumber(UInt64)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToFixedLengthNumber_System_UInt64_
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt64)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber(System.UInt64)
-  nameWithType: FixedLengthNumber.ToFixedLengthNumber(UInt64)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber*
-  name: ToFixedLengthNumber
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToFixedLengthNumber_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToFixedLengthNumber
-  nameWithType: FixedLengthNumber.ToFixedLengthNumber
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToString
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString()
-  nameWithType: FixedLengthNumber.ToString()
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_ToString_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.ToString
-  nameWithType: FixedLengthNumber.ToString
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse(System.String,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber@)
-  name: TryParse(String, out FixedLengthNumber)
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_TryParse_System_String_Hsm_BaseTypes_NumberDefinition_FixedLengthNumber__
-  commentId: M:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse(System.String,Hsm.BaseTypes.NumberDefinition.FixedLengthNumber@)
-  name.vb: TryParse(String, ByRef FixedLengthNumber)
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse(System.String, out Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  fullName.vb: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse(System.String, ByRef Hsm.BaseTypes.NumberDefinition.FixedLengthNumber)
-  nameWithType: FixedLengthNumber.TryParse(String, out FixedLengthNumber)
-  nameWithType.vb: FixedLengthNumber.TryParse(String, ByRef FixedLengthNumber)
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse*
-  name: TryParse
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_TryParse_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.TryParse
-  nameWithType: FixedLengthNumber.TryParse
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value
-  name: Value
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Value
-  commentId: P:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value
-  nameWithType: FixedLengthNumber.Value
-- uid: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value*
-  name: Value
-  href: api/Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.html#Hsm_BaseTypes_NumberDefinition_FixedLengthNumber_Value_
-  commentId: Overload:Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.NumberDefinition.FixedLengthNumber.Value
-  nameWithType: FixedLengthNumber.Value
 - uid: Hsm.BaseTypes.ResourceInstanceIdentifierDefinition
   name: Hsm.BaseTypes.ResourceInstanceIdentifierDefinition
   href: api/Hsm.BaseTypes.ResourceInstanceIdentifierDefinition.html
@@ -3236,6 +3004,1094 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SerialNumberFactory.CreateSerialNumber
   nameWithType: SerialNumberFactory.CreateSerialNumber
+- uid: Hsm.BaseTypes.SerialNumbers
+  name: Hsm.BaseTypes.SerialNumbers
+  href: api/Hsm.BaseTypes.SerialNumbers.html
+  commentId: N:Hsm.BaseTypes.SerialNumbers
+  fullName: Hsm.BaseTypes.SerialNumbers
+  nameWithType: Hsm.BaseTypes.SerialNumbers
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber
+  name: ISerialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.ISerialNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber
+  nameWithType: ISerialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_Generation
+  commentId: P:Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation
+  nameWithType: ISerialNumber.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation*
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_Generation_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.Generation
+  nameWithType: ISerialNumber.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode()
+  nameWithType: ISerialNumber.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.GetHashCode
+  nameWithType: ISerialNumber.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString()
+  nameWithType: ISerialNumber.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html#Hsm_BaseTypes_SerialNumbers_ISerialNumber_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ISerialNumber.ToString
+  nameWithType: ISerialNumber.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier
+  name: ProductionLineIdentifier
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier
+  nameWithType: ProductionLineIdentifier
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.#ctor(System.String)
+  name: ProductionLineIdentifier(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.#ctor(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ProductionLineIdentifier(System.String)
+  nameWithType: ProductionLineIdentifier.ProductionLineIdentifier(String)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.#ctor*
+  name: ProductionLineIdentifier
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ProductionLineIdentifier
+  nameWithType: ProductionLineIdentifier.ProductionLineIdentifier
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: CompareTo(ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_CompareTo_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.CompareTo(ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.CompareTo
+  nameWithType: ProductionLineIdentifier.CompareTo
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: Equals(ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Equals_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.Equals(ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals(System.Object)
+  nameWithType: ProductionLineIdentifier.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equals
+  nameWithType: ProductionLineIdentifier.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode()
+  nameWithType: ProductionLineIdentifier.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GetHashCode
+  nameWithType: ProductionLineIdentifier.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Equality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: Equality(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_Equality_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Equality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.Equality(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Equality
+  nameWithType: ProductionLineIdentifier.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: GreaterThan(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_GreaterThan_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.GreaterThan(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GreaterThan
+  nameWithType: ProductionLineIdentifier.GreaterThan
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: GreaterThanOrEqual(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_GreaterThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.GreaterThanOrEqual(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.GreaterThanOrEqual
+  nameWithType: ProductionLineIdentifier.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Inequality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: Inequality(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_Inequality_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Inequality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Inequality(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.Inequality(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.Inequality
+  nameWithType: ProductionLineIdentifier.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: LessThan(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_LessThan_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.LessThan(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.LessThan(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.LessThan
+  nameWithType: ProductionLineIdentifier.LessThan
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  name: LessThanOrEqual(ProductionLineIdentifier, ProductionLineIdentifier)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_LessThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier)
+  nameWithType: ProductionLineIdentifier.LessThanOrEqual(ProductionLineIdentifier, ProductionLineIdentifier)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.LessThanOrEqual
+  nameWithType: ProductionLineIdentifier.LessThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString()
+  nameWithType: ProductionLineIdentifier.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html#Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.ToString
+  nameWithType: ProductionLineIdentifier.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode
+  name: ProductTypeCode
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.ProductTypeCode
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode
+  nameWithType: ProductTypeCode
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.String)
+  name: ProductTypeCode(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ProductTypeCode(System.String)
+  nameWithType: ProductTypeCode.ProductTypeCode(String)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor*
+  name: ProductTypeCode
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ProductTypeCode
+  nameWithType: ProductTypeCode.ProductTypeCode
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: CompareTo(ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_CompareTo_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.CompareTo(ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo
+  nameWithType: ProductTypeCode.CompareTo
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: Equals(ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.Equals(ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(System.Object)
+  nameWithType: ProductTypeCode.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals
+  nameWithType: ProductTypeCode.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode()
+  nameWithType: ProductTypeCode.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode
+  nameWithType: ProductTypeCode.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: Equality(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Equality_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.Equality(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equality
+  nameWithType: ProductTypeCode.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: GreaterThan(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThan_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.GreaterThan(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GreaterThan
+  nameWithType: ProductTypeCode.GreaterThan
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: GreaterThanOrEqual(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.GreaterThanOrEqual(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GreaterThanOrEqual
+  nameWithType: ProductTypeCode.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: Inequality(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Inequality_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Inequality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.Inequality(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Inequality
+  nameWithType: ProductTypeCode.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: LessThan(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThan_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.LessThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.LessThan(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.LessThan
+  nameWithType: ProductTypeCode.LessThan
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  name: LessThanOrEqual(ProductTypeCode, ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.LessThanOrEqual(ProductTypeCode, ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.LessThanOrEqual
+  nameWithType: ProductTypeCode.LessThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString()
+  nameWithType: ProductTypeCode.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString
+  nameWithType: ProductTypeCode.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SequentialNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber
+  nameWithType: SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.#ctor(System.String)
+  name: SequentialNumber(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.#ctor(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.SequentialNumber(System.String)
+  nameWithType: SequentialNumber.SequentialNumber(String)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.#ctor*
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.SequentialNumber
+  nameWithType: SequentialNumber.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: CompareTo(SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_CompareTo_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.CompareTo(SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.CompareTo
+  nameWithType: SequentialNumber.CompareTo
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: Equals(SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_Equals_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.Equals(SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals(System.Object)
+  nameWithType: SequentialNumber.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equals
+  nameWithType: SequentialNumber.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode()
+  nameWithType: SequentialNumber.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GetHashCode
+  nameWithType: SequentialNumber.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Equality(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: Equality(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_Equality_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Equality(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equality(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.Equality(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Equality
+  nameWithType: SequentialNumber.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: GreaterThan(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_GreaterThan_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GreaterThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.GreaterThan(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GreaterThan
+  nameWithType: SequentialNumber.GreaterThan
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: GreaterThanOrEqual(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_GreaterThanOrEqual_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.GreaterThanOrEqual(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.GreaterThanOrEqual
+  nameWithType: SequentialNumber.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Inequality(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: Inequality(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_Inequality_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Inequality(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Inequality(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.Inequality(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.Inequality
+  nameWithType: SequentialNumber.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: LessThan(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_LessThan_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.LessThan(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.LessThan(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.LessThan
+  nameWithType: SequentialNumber.LessThan
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: LessThanOrEqual(SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_LessThanOrEqual_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SequentialNumber.LessThanOrEqual(SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.LessThanOrEqual
+  nameWithType: SequentialNumber.LessThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString()
+  nameWithType: SequentialNumber.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html#Hsm_BaseTypes_SerialNumbers_SequentialNumber_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SequentialNumber.ToString
+  nameWithType: SequentialNumber.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory
+  name: SerialNumberFactory
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SerialNumberFactory
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory
+  nameWithType: SerialNumberFactory
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber(System.String)
+  name: CreateSerialNumber(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html#Hsm_BaseTypes_SerialNumbers_SerialNumberFactory_CreateSerialNumber_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber(System.String)
+  nameWithType: SerialNumberFactory.CreateSerialNumber(String)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber*
+  name: CreateSerialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html#Hsm_BaseTypes_SerialNumbers_SerialNumberFactory_CreateSerialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.CreateSerialNumber
+  nameWithType: SerialNumberFactory.CreateSerialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber(System.String,Hsm.BaseTypes.SerialNumbers.ISerialNumber@)
+  name: TryCreateSerialNumber(String, out ISerialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html#Hsm_BaseTypes_SerialNumbers_SerialNumberFactory_TryCreateSerialNumber_System_String_Hsm_BaseTypes_SerialNumbers_ISerialNumber__
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber(System.String,Hsm.BaseTypes.SerialNumbers.ISerialNumber@)
+  name.vb: TryCreateSerialNumber(String, ByRef ISerialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber(System.String, out Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber(System.String, ByRef Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  nameWithType: SerialNumberFactory.TryCreateSerialNumber(String, out ISerialNumber)
+  nameWithType.vb: SerialNumberFactory.TryCreateSerialNumber(String, ByRef ISerialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber*
+  name: TryCreateSerialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html#Hsm_BaseTypes_SerialNumbers_SerialNumberFactory_TryCreateSerialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.TryCreateSerialNumber
+  nameWithType: SerialNumberFactory.TryCreateSerialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration
+  name: SerialNumberGeneration
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration
+  nameWithType: SerialNumberGeneration
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationOne
+  name: GenerationOne
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGeneration_GenerationOne
+  commentId: F:Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationOne
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationOne
+  nameWithType: SerialNumberGeneration.GenerationOne
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationThree
+  name: GenerationThree
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGeneration_GenerationThree
+  commentId: F:Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationThree
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationThree
+  nameWithType: SerialNumberGeneration.GenerationThree
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationTwo
+  name: GenerationTwo
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGeneration_GenerationTwo
+  commentId: F:Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationTwo
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.GenerationTwo
+  nameWithType: SerialNumberGeneration.GenerationTwo
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne
+  name: SerialNumberGenerationOne
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne
+  nameWithType: SerialNumberGenerationOne
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.#ctor(System.DateTime,Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: SerialNumberGenerationOne(DateTime, SequentialNumber, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne__ctor_System_DateTime_Hsm_BaseTypes_SerialNumbers_SequentialNumber_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.#ctor(System.DateTime,Hsm.BaseTypes.SerialNumbers.SequentialNumber,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SerialNumberGenerationOne(System.DateTime, Hsm.BaseTypes.SerialNumbers.SequentialNumber, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SerialNumberGenerationOne.SerialNumberGenerationOne(DateTime, SequentialNumber, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.#ctor*
+  name: SerialNumberGenerationOne
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SerialNumberGenerationOne
+  nameWithType: SerialNumberGenerationOne.SerialNumberGenerationOne
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber
+  name: EmployeeNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_EmployeeNumber
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber
+  nameWithType: SerialNumberGenerationOne.EmployeeNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber*
+  name: EmployeeNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_EmployeeNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.EmployeeNumber
+  nameWithType: SerialNumberGenerationOne.EmployeeNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  name: Equals(SerialNumberGenerationOne)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Equals_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  nameWithType: SerialNumberGenerationOne.Equals(SerialNumberGenerationOne)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals(System.Object)
+  nameWithType: SerialNumberGenerationOne.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equals
+  nameWithType: SerialNumberGenerationOne.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_From_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From(System.String)
+  nameWithType: SerialNumberGenerationOne.From(String)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From*
+  name: From
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_From_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.From
+  nameWithType: SerialNumberGenerationOne.From
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Generation
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation
+  nameWithType: SerialNumberGenerationOne.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation*
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Generation_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Generation
+  nameWithType: SerialNumberGenerationOne.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode()
+  nameWithType: SerialNumberGenerationOne.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.GetHashCode
+  nameWithType: SerialNumberGenerationOne.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  name: Equality(SerialNumberGenerationOne, SerialNumberGenerationOne)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_op_Equality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  nameWithType: SerialNumberGenerationOne.Equality(SerialNumberGenerationOne, SerialNumberGenerationOne)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Equality
+  nameWithType: SerialNumberGenerationOne.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  name: Inequality(SerialNumberGenerationOne, SerialNumberGenerationOne)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_op_Inequality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  nameWithType: SerialNumberGenerationOne.Inequality(SerialNumberGenerationOne, SerialNumberGenerationOne)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.Inequality
+  nameWithType: SerialNumberGenerationOne.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_ProducedAt
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt
+  nameWithType: SerialNumberGenerationOne.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt*
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_ProducedAt_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ProducedAt
+  nameWithType: SerialNumberGenerationOne.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_SequentialNumber
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber
+  nameWithType: SerialNumberGenerationOne.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber*
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_SequentialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.SequentialNumber
+  nameWithType: SerialNumberGenerationOne.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString()
+  nameWithType: SerialNumberGenerationOne.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.ToString
+  nameWithType: SerialNumberGenerationOne.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne@)
+  name: TryParse(String, out SerialNumberGenerationOne)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_TryParse_System_String_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne__
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne@)
+  name.vb: TryParse(String, ByRef SerialNumberGenerationOne)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse(System.String, out Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse(System.String, ByRef Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne)
+  nameWithType: SerialNumberGenerationOne.TryParse(String, out SerialNumberGenerationOne)
+  nameWithType.vb: SerialNumberGenerationOne.TryParse(String, ByRef SerialNumberGenerationOne)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationOne_TryParse_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.TryParse
+  nameWithType: SerialNumberGenerationOne.TryParse
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree
+  name: SerialNumberGenerationThree
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree
+  nameWithType: SerialNumberGenerationThree
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.#ctor(System.DateTime,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.NumberDefinition.Base36Cipher)
+  name: SerialNumberGenerationThree(DateTime, ProductionLineIdentifier, Base36Cipher)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree__ctor_System_DateTime_Hsm_BaseTypes_SerialNumbers_ProductionLineIdentifier_Hsm_BaseTypes_NumberDefinition_Base36Cipher_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.#ctor(System.DateTime,Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier,Hsm.BaseTypes.NumberDefinition.Base36Cipher)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SerialNumberGenerationThree(System.DateTime, Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier, Hsm.BaseTypes.NumberDefinition.Base36Cipher)
+  nameWithType: SerialNumberGenerationThree.SerialNumberGenerationThree(DateTime, ProductionLineIdentifier, Base36Cipher)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.#ctor*
+  name: SerialNumberGenerationThree
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SerialNumberGenerationThree
+  nameWithType: SerialNumberGenerationThree.SerialNumberGenerationThree
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  name: Equals(SerialNumberGenerationThree)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Equals_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  nameWithType: SerialNumberGenerationThree.Equals(SerialNumberGenerationThree)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals(System.Object)
+  nameWithType: SerialNumberGenerationThree.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equals
+  nameWithType: SerialNumberGenerationThree.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_From_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From(System.String)
+  nameWithType: SerialNumberGenerationThree.From(String)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From*
+  name: From
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_From_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.From
+  nameWithType: SerialNumberGenerationThree.From
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Generation
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation
+  nameWithType: SerialNumberGenerationThree.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation*
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Generation_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Generation
+  nameWithType: SerialNumberGenerationThree.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode()
+  nameWithType: SerialNumberGenerationThree.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.GetHashCode
+  nameWithType: SerialNumberGenerationThree.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  name: Equality(SerialNumberGenerationThree, SerialNumberGenerationThree)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_op_Equality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  nameWithType: SerialNumberGenerationThree.Equality(SerialNumberGenerationThree, SerialNumberGenerationThree)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Equality
+  nameWithType: SerialNumberGenerationThree.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  name: Inequality(SerialNumberGenerationThree, SerialNumberGenerationThree)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_op_Inequality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  nameWithType: SerialNumberGenerationThree.Inequality(SerialNumberGenerationThree, SerialNumberGenerationThree)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.Inequality
+  nameWithType: SerialNumberGenerationThree.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ProducedAt
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt
+  nameWithType: SerialNumberGenerationThree.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt*
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ProducedAt_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProducedAt
+  nameWithType: SerialNumberGenerationThree.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier
+  name: ProductionLineIdentifier
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ProductionLineIdentifier
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier
+  nameWithType: SerialNumberGenerationThree.ProductionLineIdentifier
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier*
+  name: ProductionLineIdentifier
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ProductionLineIdentifier_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ProductionLineIdentifier
+  nameWithType: SerialNumberGenerationThree.ProductionLineIdentifier
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_SequentialNumber
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber
+  nameWithType: SerialNumberGenerationThree.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber*
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_SequentialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.SequentialNumber
+  nameWithType: SerialNumberGenerationThree.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString()
+  nameWithType: SerialNumberGenerationThree.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.ToString
+  nameWithType: SerialNumberGenerationThree.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree@)
+  name: TryParse(String, out SerialNumberGenerationThree)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_TryParse_System_String_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree__
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree@)
+  name.vb: TryParse(String, ByRef SerialNumberGenerationThree)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse(System.String, out Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse(System.String, ByRef Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree)
+  nameWithType: SerialNumberGenerationThree.TryParse(String, out SerialNumberGenerationThree)
+  nameWithType.vb: SerialNumberGenerationThree.TryParse(String, ByRef SerialNumberGenerationThree)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationThree_TryParse_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.TryParse
+  nameWithType: SerialNumberGenerationThree.TryParse
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo
+  name: SerialNumberGenerationTwo
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html
+  commentId: T:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo
+  nameWithType: SerialNumberGenerationTwo
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,System.DateTime,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  name: SerialNumberGenerationTwo(ProductTypeCode, DateTime, SequentialNumber)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_System_DateTime_Hsm_BaseTypes_SerialNumbers_SequentialNumber_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,System.DateTime,Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SerialNumberGenerationTwo(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, System.DateTime, Hsm.BaseTypes.SerialNumbers.SequentialNumber)
+  nameWithType: SerialNumberGenerationTwo.SerialNumberGenerationTwo(ProductTypeCode, DateTime, SequentialNumber)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.#ctor*
+  name: SerialNumberGenerationTwo
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo__ctor_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SerialNumberGenerationTwo
+  nameWithType: SerialNumberGenerationTwo.SerialNumberGenerationTwo
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  name: Equals(SerialNumberGenerationTwo)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Equals_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  nameWithType: SerialNumberGenerationTwo.Equals(SerialNumberGenerationTwo)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(System.Object)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals(System.Object)
+  nameWithType: SerialNumberGenerationTwo.Equals(Object)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Equals_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equals
+  nameWithType: SerialNumberGenerationTwo.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_From_System_String_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From(System.String)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From(System.String)
+  nameWithType: SerialNumberGenerationTwo.From(String)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From*
+  name: From
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_From_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.From
+  nameWithType: SerialNumberGenerationTwo.From
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Generation
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation
+  nameWithType: SerialNumberGenerationTwo.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation*
+  name: Generation
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Generation_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Generation
+  nameWithType: SerialNumberGenerationTwo.Generation
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_GetHashCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode()
+  nameWithType: SerialNumberGenerationTwo.GetHashCode()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.GetHashCode
+  nameWithType: SerialNumberGenerationTwo.GetHashCode
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  name: Equality(SerialNumberGenerationTwo, SerialNumberGenerationTwo)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_op_Equality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  nameWithType: SerialNumberGenerationTwo.Equality(SerialNumberGenerationTwo, SerialNumberGenerationTwo)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Equality
+  nameWithType: SerialNumberGenerationTwo.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  name: Inequality(SerialNumberGenerationTwo, SerialNumberGenerationTwo)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_op_Inequality_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Inequality(Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo, Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  nameWithType: SerialNumberGenerationTwo.Inequality(SerialNumberGenerationTwo, SerialNumberGenerationTwo)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.Inequality
+  nameWithType: SerialNumberGenerationTwo.Inequality
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ProducedAt
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt
+  nameWithType: SerialNumberGenerationTwo.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt*
+  name: ProducedAt
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ProducedAt_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProducedAt
+  nameWithType: SerialNumberGenerationTwo.ProducedAt
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode
+  name: ProductTypeCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ProductTypeCode
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode
+  nameWithType: SerialNumberGenerationTwo.ProductTypeCode
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode*
+  name: ProductTypeCode
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ProductTypeCode_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ProductTypeCode
+  nameWithType: SerialNumberGenerationTwo.ProductTypeCode
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_SequentialNumber
+  commentId: P:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber
+  nameWithType: SerialNumberGenerationTwo.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber*
+  name: SequentialNumber
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_SequentialNumber_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.SequentialNumber
+  nameWithType: SerialNumberGenerationTwo.SequentialNumber
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ToString
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString()
+  nameWithType: SerialNumberGenerationTwo.ToString()
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_ToString_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.ToString
+  nameWithType: SerialNumberGenerationTwo.ToString
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo@)
+  name: TryParse(String, out SerialNumberGenerationTwo)
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_TryParse_System_String_Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo__
+  commentId: M:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse(System.String,Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo@)
+  name.vb: TryParse(String, ByRef SerialNumberGenerationTwo)
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse(System.String, out Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse(System.String, ByRef Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo)
+  nameWithType: SerialNumberGenerationTwo.TryParse(String, out SerialNumberGenerationTwo)
+  nameWithType.vb: SerialNumberGenerationTwo.TryParse(String, ByRef SerialNumberGenerationTwo)
+- uid: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html#Hsm_BaseTypes_SerialNumbers_SerialNumberGenerationTwo_TryParse_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.TryParse
+  nameWithType: SerialNumberGenerationTwo.TryParse
 - uid: Hsm.BaseTypes.Validation
   name: Hsm.BaseTypes.Validation
   href: api/Hsm.BaseTypes.Validation.html

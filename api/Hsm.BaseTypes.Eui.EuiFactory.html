@@ -115,7 +115,7 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=69">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=64">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_System_Byte___" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui(System.Byte[])">CreateEui(Byte[])</h4>
@@ -183,7 +183,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=112">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=107">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_System_Net_NetworkInformation_PhysicalAddress_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui(System.Net.NetworkInformation.PhysicalAddress)">CreateEui(PhysicalAddress)</h4>
@@ -246,7 +246,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=24">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=19">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_CreateEui_System_String_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateEui(System.String)">CreateEui(String)</h4>
@@ -314,7 +314,80 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=90">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=153">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_Eui_EuiFactory_CreateFromSerialization_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization*"></a>
+  <h4 id="Hsm_BaseTypes_Eui_EuiFactory_CreateFromSerialization_System_String_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.CreateFromSerialization(System.String)">CreateFromSerialization(String)</h4>
+  <div class="markdown level1 summary"><p>Converts the given string to a byte-array and creates a representation of <a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a> based on the length.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static IEui CreateFromSerialization(string address)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">address</span></td>
+        <td><p>The ungrouped address string.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a></td>
+        <td><p><a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ArgumentNullException</span></td>
+        <td><p>When the given address is invalid.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.ArgumentException</span></td>
+        <td><p>When the given address is not of length 12 or length 16.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.InvalidOperationException</span></td>
+        <td><p>When the conversion of the string to the byte-array succeeds with an unexpected length.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=85">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_System_Byte___Hsm_BaseTypes_Eui_IEui__" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui(System.Byte[],Hsm.BaseTypes.Eui.IEui@)">TryCreateEui(Byte[], out IEui)</h4>
@@ -367,7 +440,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=129">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=124">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_System_Net_NetworkInformation_PhysicalAddress_Hsm_BaseTypes_Eui_IEui__" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui(System.Net.NetworkInformation.PhysicalAddress,Hsm.BaseTypes.Eui.IEui@)">TryCreateEui(PhysicalAddress, out IEui)</h4>
@@ -436,7 +509,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=46">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=41">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui*"></a>
   <h4 id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateEui_System_String_Hsm_BaseTypes_Eui_IEui__" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateEui(System.String,Hsm.BaseTypes.Eui.IEui@)">TryCreateEui(String, out IEui)</h4>
@@ -487,6 +560,59 @@
       </tr>
     </tbody>
   </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=186">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateFromSerialization_" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization*"></a>
+  <h4 id="Hsm_BaseTypes_Eui_EuiFactory_TryCreateFromSerialization_System_String_Hsm_BaseTypes_Eui_IEui__" data-uid="Hsm.BaseTypes.Eui.EuiFactory.TryCreateFromSerialization(System.String,Hsm.BaseTypes.Eui.IEui@)">TryCreateFromSerialization(String, out IEui)</h4>
+  <div class="markdown level1 summary"><p>Tries to convert the given string to a byte-array and creates a representation of <a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a> based on the length.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool TryCreateFromSerialization(string address, out IEui eui)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">address</span></td>
+        <td><p>The ungrouped address string.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a></td>
+        <td><span class="parametername">eui</span></td>
+        <td><p>The <a class="xref" href="Hsm.BaseTypes.Eui.IEui.html">IEui</a> result.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>True, when the operation succeeds, otherwise false.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
 </article>
           </div>
           
@@ -495,7 +621,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBfeature/HSMBT-39_fix-documentation-project-before-vnext&amp;line=15" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/Eui/EuiFactory.cs&amp;version=GBdevelop&amp;line=10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
@@ -512,7 +638,7 @@
         <div class="footer">
           <div class="container">
             <span class="pull-right">
-              <a href="https://docs.hagleitner.com/">Back to docs.hagleitner.com</a>
+              <a href="https://docs.hsm.digital/">Back to docs.hsm.digital</a>
             </span>
             
           </div>
