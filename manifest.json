@@ -5,11 +5,95 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html",
+          "hash": "fuNpN5qcP7FPJRgahnMg6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html",
+          "hash": "DdnGccF0Jr7yy/fMV6V9kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html",
+          "hash": "XLSm7C+ObNbOVhLxNSYZlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.Container.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.Container.html",
+          "hash": "QnkLGabkK8dKwxlbkSHGLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html",
+          "hash": "4EqBMWYTE0xfCtSri8vMng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html",
+          "hash": "QZJGoilyOvdBswU0FzWBQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ArticleNumbers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ArticleNumbers.html",
+          "hash": "eVSm0FGF6waxwUqnISRvWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.AbstractDateTimeOffsetIntervalSpecification.yml",
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.AbstractDateTimeOffsetIntervalSpecification.html",
-          "hash": "oBYqnVL7B2fZLezj9a5g9g=="
+          "hash": "Nuah3fcsbhrwkfaIywa31Q=="
         }
       },
       "is_incremental": false,
@@ -21,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.AbstractTimeOffset.html",
-          "hash": "3G2inFYYrosc68j0nU5LkQ=="
+          "hash": "si5YQrRi2CwghoC+y2HeNw=="
         }
       },
       "is_incremental": false,
@@ -33,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.AdaptiveDateTimeOffsetIntervalSpecification.html",
-          "hash": "1NC7lnrf4gxGJiCKIJmQUw=="
+          "hash": "F+/csZWJlqfBvMJXoGG5lA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.DateTimeAdjustmentMethod.html",
-          "hash": "LJCEh4aVPdiMDlAfX0em7A=="
+          "hash": "QMGqhppOyBHceQGMOOaNLA=="
         }
       },
       "is_incremental": false,
@@ -57,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.DateTimeOffsetAdjustmentPart.html",
-          "hash": "Rj5qoddyx+YfIERzY56nXA=="
+          "hash": "LZ4CeiDbnWmZTfPcZsMcIA=="
         }
       },
       "is_incremental": false,
@@ -69,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.MonthOffset.html",
-          "hash": "1N1b9Fj1WjsLbebmy+IBbg=="
+          "hash": "wUu1V6JjC0evrqHbrVrJgQ=="
         }
       },
       "is_incremental": false,
@@ -81,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.PredefinedAdaptiveInterval.html",
-          "hash": "oYrOKFLnUMxFBKZW9DyY4A=="
+          "hash": "ne/F6B5NwjRxk60ptDAYAQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.StaticDateTimeOffsetIntervalSpecification.html",
-          "hash": "dqymY8PkSkZw5MD88DiGhQ=="
+          "hash": "9mISMH6V50sygc8rHIALNA=="
         }
       },
       "is_incremental": false,
@@ -105,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html",
-          "hash": "Vxe2TIkEE4VXrsApUo9m+w=="
+          "hash": "t5cQjDNKbo0MopdqSJLQsg=="
         }
       },
       "is_incremental": false,
@@ -117,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.html",
-          "hash": "DLNe7iwvkY/Q9mvK6I4y+g=="
+          "hash": "XcwziCvxCSK5PaBvBIA9xg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.Eui48.html",
-          "hash": "KoCNnibLtMGIAshxNKTEig=="
+          "hash": "5H6DImVJJtBG+BIjl3c14Q=="
         }
       },
       "is_incremental": false,
@@ -141,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.Eui64.html",
-          "hash": "rzHCwcBaY/JZaZuv18gk/g=="
+          "hash": "3hJjxc14AfpU+O19dnI6mA=="
         }
       },
       "is_incremental": false,
@@ -153,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.EuiFactory.html",
-          "hash": "0RUuuSD++2tkE8sjDx7HtQ=="
+          "hash": "WZ40ipV/AUZri3CfzzzR8Q=="
         }
       },
       "is_incremental": false,
@@ -165,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.EuiPresentationFormat.html",
-          "hash": "YCdkwnKOpCO+Vciw+BNSWA=="
+          "hash": "w7GiBiL/mXUY//wQwOZNzg=="
         }
       },
       "is_incremental": false,
@@ -177,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.EuiType.html",
-          "hash": "J3l1ViZdzmvvxLcoHNIDpA=="
+          "hash": "bqAfKNaQyt6vuQiLGAULYQ=="
         }
       },
       "is_incremental": false,
@@ -189,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.IEui.html",
-          "hash": "PRe9iJQZufZXt5JQfoJIFw=="
+          "hash": "BPPQO6OkCvw1PsRlZi1E/g=="
         }
       },
       "is_incremental": false,
@@ -201,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Eui.html",
-          "hash": "n0CCmAvQUstxMTZwdAru+w=="
+          "hash": "XTnCgVLqVeT5y+7SO3pKkA=="
         }
       },
       "is_incremental": false,
@@ -213,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Intervals.AbstractInterval-1.html",
-          "hash": "jzn1RZS6MWiA95iy39q+gg=="
+          "hash": "yL/7lhPz6JvnfTTN4HtGfQ=="
         }
       },
       "is_incremental": false,
@@ -225,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Intervals.DateTimeOffsetInterval.html",
-          "hash": "2aKMtrlGZV5DCjMfImVrhw=="
+          "hash": "KAuONNiFIAmexGF34nwhqg=="
         }
       },
       "is_incremental": false,
@@ -237,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Intervals.DoubleInterval.html",
-          "hash": "IxGAupFRVDiZVTYhTZCXpA=="
+          "hash": "TbSscjEVrRnv3aEf+N/ERA=="
         }
       },
       "is_incremental": false,
@@ -249,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Intervals.html",
-          "hash": "fvwK+PNPzOrFrsjQou2e0w=="
+          "hash": "rrPSxHno37u0LmERPfkmmg=="
         }
       },
       "is_incremental": false,
@@ -261,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.NumberDefinition.Base36Cipher.html",
-          "hash": "tlbfwBpCIwk3gAPdhlbf1A=="
+          "hash": "UFiU4RlGhc1f+yqkgWYurw=="
         }
       },
       "is_incremental": false,
@@ -273,7 +357,163 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.NumberDefinition.html",
-          "hash": "C0f6/iOVjnGZEJZaJ+FaKQ=="
+          "hash": "7DZh4Zgik9bXWIYsgbAwiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html",
+          "hash": "kQMYs+Sky0o1tN3VYcZf0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.html",
+          "hash": "GtHdyzWEFJ1XMPkwALb2vg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.ContentTypeDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.ContentTypeDefinition.html",
+          "hash": "5deoPLdPK1hn8qx2YkAhdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.html",
+          "hash": "tURsoDayid0STNN45PbP6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html",
+          "hash": "3GCKsvGL2gCsMxE3s5ymRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html",
+          "hash": "RJpYVF+d4R/WdWb2PSzb8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.html",
+          "hash": "BiWM+pz3XG5chq3l9tCF+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.IEuiQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.IEuiQrCode.html",
+          "hash": "VaJrJIPShV3MZP96QOC01w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.IQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.IQrCode.html",
+          "hash": "tRKYq3BlBKSinbaHs6rjQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.ISerialNumberQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.ISerialNumberQrCode.html",
+          "hash": "N4Z7L+x6mvyPMYou8925mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeFactory.html",
+          "hash": "NvdQtb1JnWt9j5Z1MsaWQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeType.html",
+          "hash": "jCxCWUfmCEUWI3fvFpj/aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.html",
+          "hash": "LihkHepwOXbnwqASVH3m+Q=="
         }
       },
       "is_incremental": false,
@@ -285,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.ResourceInstanceIdentifierDefinition.ResourceInstanceIdentifier.html",
-          "hash": "Y9xZRTMPNS2dfJBPiOoUug=="
+          "hash": "bW8CY1CGWxLST2YKtP2ueA=="
         }
       },
       "is_incremental": false,
@@ -297,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.ResourceInstanceIdentifierDefinition.html",
-          "hash": "8Gu0OdDBJlqLXmtge9fhrw=="
+          "hash": "NSVjoeBPV558ugOYwRJakw=="
         }
       },
       "is_incremental": false,
@@ -309,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SalesProductArticleNumber.html",
-          "hash": "WHPL0fFiK+8+BSevW0A9Iw=="
+          "hash": "Pmmdhs+M8Nbr7aGdyUzhtg=="
         }
       },
       "is_incremental": false,
@@ -321,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumberFactory.html",
-          "hash": "yH5KZS4MCA+0Lz0W3uzcMQ=="
+          "hash": "ewYqlClT+tRzcQQKz7sVUw=="
         }
       },
       "is_incremental": false,
@@ -333,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.ISerialNumber.html",
-          "hash": "A6ygruvPGMe++4nU01as/Q=="
+          "hash": "fMOvp2NhFBA2+Ywm/Pr/rg=="
         }
       },
       "is_incremental": false,
@@ -345,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html",
-          "hash": "DE0y/vtwdePGIyHKGobrHQ=="
+          "hash": "U2NQnCEbBY7BSo/xz3gvNQ=="
         }
       },
       "is_incremental": false,
@@ -357,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.ProductionLineIdentifier.html",
-          "hash": "7NW3MNBw+EGM2kA+TVkCXA=="
+          "hash": "yi1B4pFVFM4Qwu42cxwFUw=="
         }
       },
       "is_incremental": false,
@@ -369,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SequentialNumber.html",
-          "hash": "f9delFGQmVDCavGon73jOQ=="
+          "hash": "7SBPllfptYLY+VQVhdr2Dw=="
         }
       },
       "is_incremental": false,
@@ -381,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SerialNumberFactory.html",
-          "hash": "OdXEG8xT748rv5waNsWa7Q=="
+          "hash": "4NKUzwxeseJLnjKqRKdxfg=="
         }
       },
       "is_incremental": false,
@@ -393,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SerialNumberGeneration.html",
-          "hash": "TSa0ChS36E9k1BvpyyPkVA=="
+          "hash": "g/FjuGaB9UztLIq331+SkQ=="
         }
       },
       "is_incremental": false,
@@ -405,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationOne.html",
-          "hash": "DN/sfzIwlheEFM356sFGtw=="
+          "hash": "Lctnk69+mnt8YEIUk8wyJw=="
         }
       },
       "is_incremental": false,
@@ -417,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationThree.html",
-          "hash": "u3ALSQPF2W2p9fdG2gnR9A=="
+          "hash": "jI9EJiyf5zY5VXl4hgrb3w=="
         }
       },
       "is_incremental": false,
@@ -429,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.SerialNumberGenerationTwo.html",
-          "hash": "niJha9WIwxNvd/Xi3FKibA=="
+          "hash": "SC3XlvIdWOLd0WLU0bGA7w=="
         }
       },
       "is_incremental": false,
@@ -441,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.SerialNumbers.html",
-          "hash": "YyEZqBkDNFXUW9eftsgB6A=="
+          "hash": "NHZ+O5pnS2pD9J+ZM31JZw=="
         }
       },
       "is_incremental": false,
@@ -453,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ISequentallySortable.html",
-          "hash": "aHDriB0aQyzk4Ru0ot5u6g=="
+          "hash": "NY6cGzF39P0FI6PRO6qdeQ=="
         }
       },
       "is_incremental": false,
@@ -465,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.IValidatable.html",
-          "hash": "p3ZFku4f0VBZn2jCpV/1qg=="
+          "hash": "ANjZFvZqn3JVgFJoYv6aWw=="
         }
       },
       "is_incremental": false,
@@ -477,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.IValidationMessage.html",
-          "hash": "8eJLO8WgcJJUgd2+OCic1A=="
+          "hash": "sGLG9/8aM60G0vL3MnH6YA=="
         }
       },
       "is_incremental": false,
@@ -489,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.IValidationResultFormatter.html",
-          "hash": "F1k2Q2NfdSJ9pXSGY3g1oQ=="
+          "hash": "xKPTiP2tQQz1ly6aeq3aMw=="
         }
       },
       "is_incremental": false,
@@ -501,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.IValidationResultTranslator.html",
-          "hash": "yda/uxVecXqpFVvMqyEuHw=="
+          "hash": "AHcoslLDwEzUXUQ7Pf1dBA=="
         }
       },
       "is_incremental": false,
@@ -513,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ResxValidationResultTranslator.html",
-          "hash": "dX0lSVIGILvWMMaZc7rhNA=="
+          "hash": "w1/IXa1y0NpVzKsIOCHwkQ=="
         }
       },
       "is_incremental": false,
@@ -525,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.Severity.html",
-          "hash": "Z1N19b5C5HrBfS5gZH0esQ=="
+          "hash": "vSPZNV8EXaFnOadKs5oWYA=="
         }
       },
       "is_incremental": false,
@@ -537,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ValidationException.html",
-          "hash": "nfSY7bfXEoYjhODVVRlxoQ=="
+          "hash": "BAwC99VxNiENEFea0/N36A=="
         }
       },
       "is_incremental": false,
@@ -549,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ValidationMessage.html",
-          "hash": "GSB6f+c89yByGIYr50pCKA=="
+          "hash": "fu1+nLgvYIOcNZ/0WwIaOA=="
         }
       },
       "is_incremental": false,
@@ -561,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ValidationResult.html",
-          "hash": "cQsUfD/7KPVd7kxb4treDQ=="
+          "hash": "j9mx4z237ETEOL4kjbY5jw=="
         }
       },
       "is_incremental": false,
@@ -573,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.ValidationResultTextFormatter.html",
-          "hash": "b2Adseaiord/hoVeJ5E7aA=="
+          "hash": "EX/S1OR17+vjiPLYNc81GQ=="
         }
       },
       "is_incremental": false,
@@ -585,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.Validation.html",
-          "hash": "TRB1j0SdLEovWPk5ZXzgxQ=="
+          "hash": "eiEqy6vEiGn7lMvA+lSygw=="
         }
       },
       "is_incremental": false,
@@ -597,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.BuildIdentifier.html",
-          "hash": "eurAkzSrTE87HmZ+LoQEuQ=="
+          "hash": "oOrp/nnSZihjTng0NrlfJA=="
         }
       },
       "is_incremental": false,
@@ -609,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.BuildIdentifierPart.html",
-          "hash": "KDC5MdhS2z0lLPKOixGKpw=="
+          "hash": "8V2X8VSPTnWQd2sXiBBNAQ=="
         }
       },
       "is_incremental": false,
@@ -621,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.IVersion.html",
-          "hash": "v1ZMYHvIrrBP/UvyjaRcVw=="
+          "hash": "GtQkNewhJJw97cDXh1waDw=="
         }
       },
       "is_incremental": false,
@@ -633,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.IdentifierPart.html",
-          "hash": "y3Lk/fE8+53GElDkxllLxQ=="
+          "hash": "djJkOJaNkRvBX7+yjwgJmQ=="
         }
       },
       "is_incremental": false,
@@ -645,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.PreReleaseIdentifier.html",
-          "hash": "j7VhchYFeKeLavWLfTM1Gg=="
+          "hash": "E6zYRojLzAa65TlIpqG+hg=="
         }
       },
       "is_incremental": false,
@@ -657,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.PreReleaseIdentifierPart.html",
-          "hash": "e+foY78jrlrAZOh2cju73w=="
+          "hash": "1D0Yk7CptHdEH6SYxdwItw=="
         }
       },
       "is_incremental": false,
@@ -669,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.SemanticVersion.html",
-          "hash": "6yeCR0DgJ2PhHrFZUnPV6A=="
+          "hash": "0VFhFsOARFtttZDj3eQeTw=="
         }
       },
       "is_incremental": false,
@@ -681,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.VersionDefinition.html",
-          "hash": "mQBVhQtGzdVuKaOTpDupLw=="
+          "hash": "zcYi6N+/lIWevx8OjLxWwQ=="
         }
       },
       "is_incremental": false,
@@ -693,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "4q8uOL2Kx8HHQHZpK/NDgQ=="
+          "hash": "SmmreVaIQfw0n4YH5U1L/Q=="
         }
       },
       "is_incremental": false,
@@ -705,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "hzkiF1kigO/p52BFVnEdUQ=="
+          "hash": "BERjhFVgWnC233/Axip9fw=="
         }
       },
       "is_incremental": false,
@@ -717,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/quickstart.html",
-          "hash": "9RP5WCkuR4UAXpXCJFUrMA=="
+          "hash": "XCDfUSrWLa3S78nsL4OgAA=="
         }
       },
       "is_incremental": false,
@@ -741,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "x1y0jtox5ReFOhY2hQN/Hw=="
+          "hash": "4mfnGEn7cMHUs65tx+xhVw=="
         }
       },
       "is_incremental": false,
@@ -780,7 +1020,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 57,
+          "total_file_count": 77,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
