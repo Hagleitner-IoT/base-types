@@ -5291,6 +5291,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals
   nameWithType: ProductTypeCode.Equals
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16(System.Int16)
+  name: FromInt16(Int16)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_FromInt16_System_Int16_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16(System.Int16)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16(System.Int16)
+  nameWithType: ProductTypeCode.FromInt16(Int16)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16*
+  name: FromInt16
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_FromInt16_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16
+  nameWithType: ProductTypeCode.FromInt16
 - uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode
   name: GetHashCode()
   href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_GetHashCode
@@ -5317,6 +5330,34 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equality
   nameWithType: ProductTypeCode.Equality
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)~System.Int16
+  name: Explicit(ProductTypeCode to Int16)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_Hsm_BaseTypes_SerialNumbers_ProductTypeCode__System_Int16
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)~System.Int16
+  name.vb: Narrowing(ProductTypeCode to Int16)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Explicit(Hsm.BaseTypes.SerialNumbers.ProductTypeCode to System.Int16)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Narrowing(Hsm.BaseTypes.SerialNumbers.ProductTypeCode to System.Int16)
+  nameWithType: ProductTypeCode.Explicit(ProductTypeCode to Int16)
+  nameWithType.vb: ProductTypeCode.Narrowing(ProductTypeCode to Int16)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(System.Int16)~Hsm.BaseTypes.SerialNumbers.ProductTypeCode
+  name: Explicit(Int16 to ProductTypeCode)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_System_Int16__Hsm_BaseTypes_SerialNumbers_ProductTypeCode
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(System.Int16)~Hsm.BaseTypes.SerialNumbers.ProductTypeCode
+  name.vb: Narrowing(Int16 to ProductTypeCode)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Explicit(System.Int16 to Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Narrowing(System.Int16 to Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
+  nameWithType: ProductTypeCode.Explicit(Int16 to ProductTypeCode)
+  nameWithType.vb: ProductTypeCode.Narrowing(Int16 to ProductTypeCode)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit*
+  name: Explicit
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Explicit
+  fullName.vb: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Narrowing
+  nameWithType: ProductTypeCode.Explicit
+  nameWithType.vb: ProductTypeCode.Narrowing
 - uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)
   name: GreaterThan(ProductTypeCode, ProductTypeCode)
   href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThan_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_
@@ -5382,6 +5423,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.LessThanOrEqual
   nameWithType: ProductTypeCode.LessThanOrEqual
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16
+  name: ToInt16()
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToInt16
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16()
+  nameWithType: ProductTypeCode.ToInt16()
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16*
+  name: ToInt16
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToInt16_
+  commentId: Overload:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16
+  nameWithType: ProductTypeCode.ToInt16
 - uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString
   name: ToString()
   href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToString
