@@ -3645,6 +3645,14 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).ContentTypeDefinition
   nameWithType: AbstractSerialNumberQrCode<TQrCode>.ContentTypeDefinition
   nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals(`0)
+  name: Equals(TQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals__0_
+  commentId: M:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals(`0)
+  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.Equals(TQrCode)
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).Equals(TQrCode)
+  nameWithType: AbstractSerialNumberQrCode<TQrCode>.Equals(TQrCode)
+  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).Equals(TQrCode)
 - uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals(Hsm.BaseTypes.QrCodes.IQrCode)
   name: Equals(IQrCode)
   href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals_Hsm_BaseTypes_QrCodes_IQrCode_
