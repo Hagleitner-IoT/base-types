@@ -1,723 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Hsm.BaseTypes.ArticleNumbers
-  name: Hsm.BaseTypes.ArticleNumbers
-  href: api/Hsm.BaseTypes.ArticleNumbers.html
-  commentId: N:Hsm.BaseTypes.ArticleNumbers
-  fullName: Hsm.BaseTypes.ArticleNumbers
-  nameWithType: Hsm.BaseTypes.ArticleNumbers
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass
-  name: ArticleClass
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.ArticleClass
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass
-  nameWithType: ArticleClass
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor(System.Int16)
-  name: ArticleClass(Int16)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass__ctor_System_Int16_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor(System.Int16)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ArticleClass(System.Int16)
-  nameWithType: ArticleClass.ArticleClass(Int16)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor(System.String)
-  name: ArticleClass(String)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass__ctor_System_String_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor(System.String)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ArticleClass(System.String)
-  nameWithType: ArticleClass.ArticleClass(String)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor*
-  name: ArticleClass
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass__ctor_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ArticleClass
-  nameWithType: ArticleClass.ArticleClass
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: CompareTo(ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_CompareTo_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.CompareTo(ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo*
-  name: CompareTo
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_CompareTo_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.CompareTo
-  nameWithType: ArticleClass.CompareTo
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: Equals(ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_Equals_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.Equals(ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(System.Object)
-  name: Equals(Object)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(System.Object)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals(System.Object)
-  nameWithType: ArticleClass.Equals(Object)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals*
-  name: Equals
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_Equals_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equals
-  nameWithType: ArticleClass.Equals
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode
-  name: GetHashCode()
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_GetHashCode
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode()
-  nameWithType: ArticleClass.GetHashCode()
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode*
-  name: GetHashCode
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GetHashCode
-  nameWithType: ArticleClass.GetHashCode
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Equality(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: Equality(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_Equality_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Equality(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equality(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.Equality(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Equality*
-  name: Equality
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Equality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Equality
-  nameWithType: ArticleClass.Equality
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: GreaterThan(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_GreaterThan_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.GreaterThan(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThan*
-  name: GreaterThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_GreaterThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GreaterThan
-  nameWithType: ArticleClass.GreaterThan
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: GreaterThanOrEqual(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_GreaterThanOrEqual_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.GreaterThanOrEqual(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThanOrEqual*
-  name: GreaterThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_GreaterThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_GreaterThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.GreaterThanOrEqual
-  nameWithType: ArticleClass.GreaterThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: Inequality(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_Inequality_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.Inequality(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Inequality*
-  name: Inequality
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_Inequality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.Inequality
-  nameWithType: ArticleClass.Inequality
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: LessThan(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_LessThan_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.LessThan(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThan*
-  name: LessThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_LessThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.LessThan
-  nameWithType: ArticleClass.LessThan
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  name: LessThanOrEqual(ArticleClass, ArticleClass)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_LessThanOrEqual_Hsm_BaseTypes_ArticleNumbers_ArticleClass_Hsm_BaseTypes_ArticleNumbers_ArticleClass_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass,Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleClass, Hsm.BaseTypes.ArticleNumbers.ArticleClass)
-  nameWithType: ArticleClass.LessThanOrEqual(ArticleClass, ArticleClass)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThanOrEqual*
-  name: LessThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_op_LessThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.op_LessThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.LessThanOrEqual
-  nameWithType: ArticleClass.LessThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_ToString
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString()
-  nameWithType: ArticleClass.ToString()
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleClass.html#Hsm_BaseTypes_ArticleNumbers_ArticleClass_ToString_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleClass.ToString
-  nameWithType: ArticleClass.ToString
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup
-  name: ArticleGroup
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.ArticleGroup
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup
-  nameWithType: ArticleGroup
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor(System.String)
-  name: ArticleGroup(String)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup__ctor_System_String_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor(System.String)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ArticleGroup(System.String)
-  nameWithType: ArticleGroup.ArticleGroup(String)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor(System.UInt32)
-  name: ArticleGroup(UInt32)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup__ctor_System_UInt32_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor(System.UInt32)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ArticleGroup(System.UInt32)
-  nameWithType: ArticleGroup.ArticleGroup(UInt32)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor*
-  name: ArticleGroup
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup__ctor_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ArticleGroup
-  nameWithType: ArticleGroup.ArticleGroup
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: CompareTo(ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_CompareTo_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.CompareTo(ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo*
-  name: CompareTo
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_CompareTo_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.CompareTo
-  nameWithType: ArticleGroup.CompareTo
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: Equals(ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Equals_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.Equals(ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(System.Object)
-  name: Equals(Object)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(System.Object)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals(System.Object)
-  nameWithType: ArticleGroup.Equals(Object)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals*
-  name: Equals
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Equals_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equals
-  nameWithType: ArticleGroup.Equals
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode
-  name: GetHashCode()
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_GetHashCode
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode()
-  nameWithType: ArticleGroup.GetHashCode()
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode*
-  name: GetHashCode
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GetHashCode
-  nameWithType: ArticleGroup.GetHashCode
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Equality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: Equality(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_Equality_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Equality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.Equality(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Equality*
-  name: Equality
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Equality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Equality
-  nameWithType: ArticleGroup.Equality
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: GreaterThan(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_GreaterThan_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GreaterThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.GreaterThan(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThan*
-  name: GreaterThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_GreaterThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GreaterThan
-  nameWithType: ArticleGroup.GreaterThan
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: GreaterThanOrEqual(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_GreaterThanOrEqual_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.GreaterThanOrEqual(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThanOrEqual*
-  name: GreaterThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_GreaterThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_GreaterThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.GreaterThanOrEqual
-  nameWithType: ArticleGroup.GreaterThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: Inequality(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_Inequality_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Inequality(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.Inequality(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Inequality*
-  name: Inequality
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_Inequality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.Inequality
-  nameWithType: ArticleGroup.Inequality
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: LessThan(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_LessThan_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.LessThan(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.LessThan(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThan*
-  name: LessThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_LessThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.LessThan
-  nameWithType: ArticleGroup.LessThan
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  name: LessThanOrEqual(ArticleGroup, ArticleGroup)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_LessThanOrEqual_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_Hsm_BaseTypes_ArticleNumbers_ArticleGroup_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup,Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.ArticleGroup, Hsm.BaseTypes.ArticleNumbers.ArticleGroup)
-  nameWithType: ArticleGroup.LessThanOrEqual(ArticleGroup, ArticleGroup)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThanOrEqual*
-  name: LessThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_op_LessThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.op_LessThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.LessThanOrEqual
-  nameWithType: ArticleGroup.LessThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_ToString
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString()
-  nameWithType: ArticleGroup.ToString()
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleGroup.html#Hsm_BaseTypes_ArticleNumbers_ArticleGroup_ToString_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleGroup.ToString
-  nameWithType: ArticleGroup.ToString
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory
-  name: ArticleNumberFactory
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory
-  nameWithType: ArticleNumberFactory
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber(System.String)
-  name: CreateArticleNumber(String)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html#Hsm_BaseTypes_ArticleNumbers_ArticleNumberFactory_CreateArticleNumber_System_String_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber(System.String)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber(System.String)
-  nameWithType: ArticleNumberFactory.CreateArticleNumber(String)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber*
-  name: CreateArticleNumber
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html#Hsm_BaseTypes_ArticleNumbers_ArticleNumberFactory_CreateArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.CreateArticleNumber
-  nameWithType: ArticleNumberFactory.CreateArticleNumber
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber(System.String,Hsm.BaseTypes.ArticleNumbers.IArticleNumber@)
-  name: TryCreateArticleNumber(String, out IArticleNumber)
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html#Hsm_BaseTypes_ArticleNumbers_ArticleNumberFactory_TryCreateArticleNumber_System_String_Hsm_BaseTypes_ArticleNumbers_IArticleNumber__
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber(System.String,Hsm.BaseTypes.ArticleNumbers.IArticleNumber@)
-  name.vb: TryCreateArticleNumber(String, ByRef IArticleNumber)
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber(System.String, out Hsm.BaseTypes.ArticleNumbers.IArticleNumber)
-  fullName.vb: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber(System.String, ByRef Hsm.BaseTypes.ArticleNumbers.IArticleNumber)
-  nameWithType: ArticleNumberFactory.TryCreateArticleNumber(String, out IArticleNumber)
-  nameWithType.vb: ArticleNumberFactory.TryCreateArticleNumber(String, ByRef IArticleNumber)
-- uid: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber*
-  name: TryCreateArticleNumber
-  href: api/Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.html#Hsm_BaseTypes_ArticleNumbers_ArticleNumberFactory_TryCreateArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.ArticleNumberFactory.TryCreateArticleNumber
-  nameWithType: ArticleNumberFactory.TryCreateArticleNumber
-- uid: Hsm.BaseTypes.ArticleNumbers.Container
-  name: Container
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.Container
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container
-  nameWithType: Container
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.#ctor(System.String)
-  name: Container(String)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container__ctor_System_String_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.#ctor(System.String)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Container(System.String)
-  nameWithType: Container.Container(String)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.#ctor(System.UInt32)
-  name: Container(UInt32)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container__ctor_System_UInt32_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.#ctor(System.UInt32)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Container(System.UInt32)
-  nameWithType: Container.Container(UInt32)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.#ctor*
-  name: Container
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container__ctor_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Container
-  nameWithType: Container.Container
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.CompareTo(Hsm.BaseTypes.ArticleNumbers.Container)
-  name: CompareTo(Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_CompareTo_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.CompareTo(Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.CompareTo(Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.CompareTo(Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.CompareTo*
-  name: CompareTo
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_CompareTo_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.CompareTo
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.CompareTo
-  nameWithType: Container.CompareTo
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.Equals(Hsm.BaseTypes.ArticleNumbers.Container)
-  name: Equals(Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_Equals_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.Equals(Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Equals(Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.Equals(Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.Equals(System.Object)
-  name: Equals(Object)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.Equals(System.Object)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Equals(System.Object)
-  nameWithType: Container.Equals(Object)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.Equals*
-  name: Equals
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_Equals_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.Equals
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Equals
-  nameWithType: Container.Equals
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode
-  name: GetHashCode()
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_GetHashCode
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode()
-  nameWithType: Container.GetHashCode()
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode*
-  name: GetHashCode
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GetHashCode
-  nameWithType: Container.GetHashCode
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_Equality(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: Equality(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_Equality_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_Equality(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Equality(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.Equality(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_Equality*
-  name: Equality
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_Equality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Equality
-  nameWithType: Container.Equality
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: GreaterThan(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_GreaterThan_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GreaterThan(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.GreaterThan(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThan*
-  name: GreaterThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_GreaterThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GreaterThan
-  nameWithType: Container.GreaterThan
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: GreaterThanOrEqual(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_GreaterThanOrEqual_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.GreaterThanOrEqual(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThanOrEqual*
-  name: GreaterThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_GreaterThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_GreaterThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.GreaterThanOrEqual
-  nameWithType: Container.GreaterThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_Inequality(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: Inequality(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_Inequality_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_Inequality(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Inequality(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.Inequality(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_Inequality*
-  name: Inequality
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_Inequality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.Inequality
-  nameWithType: Container.Inequality
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_LessThan(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: LessThan(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_LessThan_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_LessThan(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.LessThan(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.LessThan(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_LessThan*
-  name: LessThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_LessThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_LessThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.LessThan
-  nameWithType: Container.LessThan
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  name: LessThanOrEqual(Container, Container)
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_LessThanOrEqual_Hsm_BaseTypes_ArticleNumbers_Container_Hsm_BaseTypes_ArticleNumbers_Container_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container,Hsm.BaseTypes.ArticleNumbers.Container)
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.Container, Hsm.BaseTypes.ArticleNumbers.Container)
-  nameWithType: Container.LessThanOrEqual(Container, Container)
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.op_LessThanOrEqual*
-  name: LessThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_op_LessThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.op_LessThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.LessThanOrEqual
-  nameWithType: Container.LessThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_ToString
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.Container.ToString
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.ToString()
-  nameWithType: Container.ToString()
-- uid: Hsm.BaseTypes.ArticleNumbers.Container.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.ArticleNumbers.Container.html#Hsm_BaseTypes_ArticleNumbers_Container_ToString_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.Container.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.Container.ToString
-  nameWithType: Container.ToString
-- uid: Hsm.BaseTypes.ArticleNumbers.IArticleNumber
-  name: IArticleNumber
-  href: api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.IArticleNumber
-  fullName: Hsm.BaseTypes.ArticleNumbers.IArticleNumber
-  nameWithType: IArticleNumber
-- uid: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass
-  name: ArticleClass
-  href: api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html#Hsm_BaseTypes_ArticleNumbers_IArticleNumber_ArticleClass
-  commentId: P:Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass
-  fullName: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass
-  nameWithType: IArticleNumber.ArticleClass
-- uid: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass*
-  name: ArticleClass
-  href: api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html#Hsm_BaseTypes_ArticleNumbers_IArticleNumber_ArticleClass_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ArticleClass
-  nameWithType: IArticleNumber.ArticleClass
-- uid: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html#Hsm_BaseTypes_ArticleNumbers_IArticleNumber_ToString
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString
-  fullName: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString()
-  nameWithType: IArticleNumber.ToString()
-- uid: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.ArticleNumbers.IArticleNumber.html#Hsm_BaseTypes_ArticleNumbers_IArticleNumber_ToString_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.IArticleNumber.ToString
-  nameWithType: IArticleNumber.ToString
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation
-  name: SpecialPresentation
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html
-  commentId: T:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation
-  nameWithType: SpecialPresentation
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor(System.String)
-  name: SpecialPresentation(String)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation__ctor_System_String_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor(System.String)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.SpecialPresentation(System.String)
-  nameWithType: SpecialPresentation.SpecialPresentation(String)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor(System.UInt32)
-  name: SpecialPresentation(UInt32)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation__ctor_System_UInt32_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor(System.UInt32)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.SpecialPresentation(System.UInt32)
-  nameWithType: SpecialPresentation.SpecialPresentation(UInt32)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor*
-  name: SpecialPresentation
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation__ctor_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.SpecialPresentation
-  nameWithType: SpecialPresentation.SpecialPresentation
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: CompareTo(SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_CompareTo_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.CompareTo(SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo*
-  name: CompareTo
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_CompareTo_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.CompareTo
-  nameWithType: SpecialPresentation.CompareTo
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: Equals(SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Equals_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.Equals(SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(System.Object)
-  name: Equals(Object)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Equals_System_Object_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(System.Object)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals(System.Object)
-  nameWithType: SpecialPresentation.Equals(Object)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals*
-  name: Equals
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Equals_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equals
-  nameWithType: SpecialPresentation.Equals
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode
-  name: GetHashCode()
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_GetHashCode
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode()
-  nameWithType: SpecialPresentation.GetHashCode()
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode*
-  name: GetHashCode
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_GetHashCode_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GetHashCode
-  nameWithType: SpecialPresentation.GetHashCode
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Equality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: Equality(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_Equality_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Equality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.Equality(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Equality*
-  name: Equality
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_Equality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Equality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Equality
-  nameWithType: SpecialPresentation.Equality
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: GreaterThan(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_GreaterThan_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GreaterThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.GreaterThan(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThan*
-  name: GreaterThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_GreaterThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GreaterThan
-  nameWithType: SpecialPresentation.GreaterThan
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: GreaterThanOrEqual(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_GreaterThanOrEqual_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GreaterThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.GreaterThanOrEqual(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThanOrEqual*
-  name: GreaterThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_GreaterThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_GreaterThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.GreaterThanOrEqual
-  nameWithType: SpecialPresentation.GreaterThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Inequality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: Inequality(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_Inequality_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Inequality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Inequality(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.Inequality(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Inequality*
-  name: Inequality
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_Inequality_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_Inequality
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.Inequality
-  nameWithType: SpecialPresentation.Inequality
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: LessThan(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_LessThan_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.LessThan(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.LessThan(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThan*
-  name: LessThan
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_LessThan_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThan
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.LessThan
-  nameWithType: SpecialPresentation.LessThan
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  name: LessThanOrEqual(SpecialPresentation, SpecialPresentation)
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_LessThanOrEqual_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation,Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.LessThanOrEqual(Hsm.BaseTypes.ArticleNumbers.SpecialPresentation, Hsm.BaseTypes.ArticleNumbers.SpecialPresentation)
-  nameWithType: SpecialPresentation.LessThanOrEqual(SpecialPresentation, SpecialPresentation)
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThanOrEqual*
-  name: LessThanOrEqual
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_op_LessThanOrEqual_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.op_LessThanOrEqual
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.LessThanOrEqual
-  nameWithType: SpecialPresentation.LessThanOrEqual
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString
-  name: ToString()
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_ToString
-  commentId: M:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString()
-  nameWithType: SpecialPresentation.ToString()
-- uid: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString*
-  name: ToString
-  href: api/Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.html#Hsm_BaseTypes_ArticleNumbers_SpecialPresentation_ToString_
-  commentId: Overload:Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.ArticleNumbers.SpecialPresentation.ToString
-  nameWithType: SpecialPresentation.ToString
 - uid: Hsm.BaseTypes.DateIntervalSpecification
   name: Hsm.BaseTypes.DateIntervalSpecification
   href: api/Hsm.BaseTypes.DateIntervalSpecification.html
@@ -2884,6 +2167,723 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Intervals.DoubleInterval.Unbounded
   nameWithType: DoubleInterval.Unbounded
+- uid: Hsm.BaseTypes.ItemNumbers
+  name: Hsm.BaseTypes.ItemNumbers
+  href: api/Hsm.BaseTypes.ItemNumbers.html
+  commentId: N:Hsm.BaseTypes.ItemNumbers
+  fullName: Hsm.BaseTypes.ItemNumbers
+  nameWithType: Hsm.BaseTypes.ItemNumbers
+- uid: Hsm.BaseTypes.ItemNumbers.Container
+  name: Container
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.Container
+  fullName: Hsm.BaseTypes.ItemNumbers.Container
+  nameWithType: Container
+- uid: Hsm.BaseTypes.ItemNumbers.Container.#ctor(System.String)
+  name: Container(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Container(System.String)
+  nameWithType: Container.Container(String)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.#ctor(System.UInt32)
+  name: Container(UInt32)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container__ctor_System_UInt32_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.#ctor(System.UInt32)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Container(System.UInt32)
+  nameWithType: Container.Container(UInt32)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.#ctor*
+  name: Container
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container__ctor_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Container
+  nameWithType: Container.Container
+- uid: Hsm.BaseTypes.ItemNumbers.Container.CompareTo(Hsm.BaseTypes.ItemNumbers.Container)
+  name: CompareTo(Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_CompareTo_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.CompareTo(Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.CompareTo(Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.CompareTo(Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.CompareTo
+  nameWithType: Container.CompareTo
+- uid: Hsm.BaseTypes.ItemNumbers.Container.Equals(Hsm.BaseTypes.ItemNumbers.Container)
+  name: Equals(Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_Equals_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.Equals(Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Equals(Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.Equals(Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Equals(System.Object)
+  nameWithType: Container.Equals(Object)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_Equals_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Equals
+  nameWithType: Container.Equals
+- uid: Hsm.BaseTypes.ItemNumbers.Container.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_GetHashCode
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.GetHashCode
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GetHashCode()
+  nameWithType: Container.GetHashCode()
+- uid: Hsm.BaseTypes.ItemNumbers.Container.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GetHashCode
+  nameWithType: Container.GetHashCode
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_Equality(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: Equality(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_Equality_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_Equality(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Equality(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.Equality(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Equality
+  nameWithType: Container.Equality
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: GreaterThan(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_GreaterThan_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GreaterThan(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.GreaterThan(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GreaterThan
+  nameWithType: Container.GreaterThan
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: GreaterThanOrEqual(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_GreaterThanOrEqual_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.GreaterThanOrEqual(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.GreaterThanOrEqual
+  nameWithType: Container.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_Inequality(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: Inequality(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_Inequality_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_Inequality(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Inequality(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.Inequality(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.Inequality
+  nameWithType: Container.Inequality
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_LessThan(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: LessThan(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_LessThan_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_LessThan(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.LessThan(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.LessThan(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.LessThan
+  nameWithType: Container.LessThan
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  name: LessThanOrEqual(Container, Container)
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_LessThanOrEqual_Hsm_BaseTypes_ItemNumbers_Container_Hsm_BaseTypes_ItemNumbers_Container_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container,Hsm.BaseTypes.ItemNumbers.Container)
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.Container, Hsm.BaseTypes.ItemNumbers.Container)
+  nameWithType: Container.LessThanOrEqual(Container, Container)
+- uid: Hsm.BaseTypes.ItemNumbers.Container.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.LessThanOrEqual
+  nameWithType: Container.LessThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.Container.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.Container.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.ToString()
+  nameWithType: Container.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.Container.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.Container.html#Hsm_BaseTypes_ItemNumbers_Container_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.Container.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.Container.ToString
+  nameWithType: Container.ToString
+- uid: Hsm.BaseTypes.ItemNumbers.IItemNumber
+  name: IItemNumber
+  href: api/Hsm.BaseTypes.ItemNumbers.IItemNumber.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.IItemNumber
+  fullName: Hsm.BaseTypes.ItemNumbers.IItemNumber
+  nameWithType: IItemNumber
+- uid: Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.IItemNumber.html#Hsm_BaseTypes_ItemNumbers_IItemNumber_ItemClass
+  commentId: P:Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass
+  fullName: Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass
+  nameWithType: IItemNumber.ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass*
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.IItemNumber.html#Hsm_BaseTypes_ItemNumbers_IItemNumber_ItemClass_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.IItemNumber.ItemClass
+  nameWithType: IItemNumber.ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.IItemNumber.html#Hsm_BaseTypes_ItemNumbers_IItemNumber_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString()
+  nameWithType: IItemNumber.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.IItemNumber.html#Hsm_BaseTypes_ItemNumbers_IItemNumber_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.IItemNumber.ToString
+  nameWithType: IItemNumber.ToString
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.ItemClass
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass
+  nameWithType: ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor(System.Int16)
+  name: ItemClass(Int16)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass__ctor_System_Int16_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor(System.Int16)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.ItemClass(System.Int16)
+  nameWithType: ItemClass.ItemClass(Int16)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor(System.String)
+  name: ItemClass(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.ItemClass(System.String)
+  nameWithType: ItemClass.ItemClass(String)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor*
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass__ctor_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.ItemClass
+  nameWithType: ItemClass.ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: CompareTo(ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_CompareTo_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.CompareTo(ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.CompareTo
+  nameWithType: ItemClass.CompareTo
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: Equals(ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_Equals_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.Equals(ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals(System.Object)
+  nameWithType: ItemClass.Equals(Object)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_Equals_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Equals
+  nameWithType: ItemClass.Equals
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_GetHashCode
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode()
+  nameWithType: ItemClass.GetHashCode()
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GetHashCode
+  nameWithType: ItemClass.GetHashCode
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_Equality(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: Equality(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_Equality_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_Equality(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Equality(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.Equality(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Equality
+  nameWithType: ItemClass.Equality
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: GreaterThan(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_GreaterThan_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.GreaterThan(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GreaterThan
+  nameWithType: ItemClass.GreaterThan
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: GreaterThanOrEqual(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_GreaterThanOrEqual_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.GreaterThanOrEqual(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.GreaterThanOrEqual
+  nameWithType: ItemClass.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_Inequality(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: Inequality(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_Inequality_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_Inequality(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Inequality(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.Inequality(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.Inequality
+  nameWithType: ItemClass.Inequality
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThan(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: LessThan(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_LessThan_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThan(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.LessThan(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.LessThan(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.LessThan
+  nameWithType: ItemClass.LessThan
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  name: LessThanOrEqual(ItemClass, ItemClass)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_LessThanOrEqual_Hsm_BaseTypes_ItemNumbers_ItemClass_Hsm_BaseTypes_ItemNumbers_ItemClass_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass,Hsm.BaseTypes.ItemNumbers.ItemClass)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemClass, Hsm.BaseTypes.ItemNumbers.ItemClass)
+  nameWithType: ItemClass.LessThanOrEqual(ItemClass, ItemClass)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.LessThanOrEqual
+  nameWithType: ItemClass.LessThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemClass.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.ToString()
+  nameWithType: ItemClass.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.ItemClass.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemClass.html#Hsm_BaseTypes_ItemNumbers_ItemClass_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemClass.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemClass.ToString
+  nameWithType: ItemClass.ToString
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup
+  name: ItemGroup
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.ItemGroup
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup
+  nameWithType: ItemGroup
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor(System.String)
+  name: ItemGroup(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.ItemGroup(System.String)
+  nameWithType: ItemGroup.ItemGroup(String)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor(System.UInt32)
+  name: ItemGroup(UInt32)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup__ctor_System_UInt32_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor(System.UInt32)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.ItemGroup(System.UInt32)
+  nameWithType: ItemGroup.ItemGroup(UInt32)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor*
+  name: ItemGroup
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup__ctor_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.ItemGroup
+  nameWithType: ItemGroup.ItemGroup
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: CompareTo(ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_CompareTo_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.CompareTo(ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.CompareTo
+  nameWithType: ItemGroup.CompareTo
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: Equals(ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_Equals_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.Equals(ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals(System.Object)
+  nameWithType: ItemGroup.Equals(Object)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_Equals_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equals
+  nameWithType: ItemGroup.Equals
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_GetHashCode
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode()
+  nameWithType: ItemGroup.GetHashCode()
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GetHashCode
+  nameWithType: ItemGroup.GetHashCode
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Equality(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: Equality(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_Equality_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Equality(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equality(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.Equality(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Equality
+  nameWithType: ItemGroup.Equality
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: GreaterThan(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_GreaterThan_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GreaterThan(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.GreaterThan(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GreaterThan
+  nameWithType: ItemGroup.GreaterThan
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: GreaterThanOrEqual(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_GreaterThanOrEqual_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.GreaterThanOrEqual(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.GreaterThanOrEqual
+  nameWithType: ItemGroup.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Inequality(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: Inequality(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_Inequality_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Inequality(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Inequality(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.Inequality(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.Inequality
+  nameWithType: ItemGroup.Inequality
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThan(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: LessThan(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_LessThan_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThan(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.LessThan(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.LessThan(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.LessThan
+  nameWithType: ItemGroup.LessThan
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  name: LessThanOrEqual(ItemGroup, ItemGroup)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_LessThanOrEqual_Hsm_BaseTypes_ItemNumbers_ItemGroup_Hsm_BaseTypes_ItemNumbers_ItemGroup_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup,Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.ItemGroup, Hsm.BaseTypes.ItemNumbers.ItemGroup)
+  nameWithType: ItemGroup.LessThanOrEqual(ItemGroup, ItemGroup)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.LessThanOrEqual
+  nameWithType: ItemGroup.LessThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString()
+  nameWithType: ItemGroup.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemGroup.html#Hsm_BaseTypes_ItemNumbers_ItemGroup_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemGroup.ToString
+  nameWithType: ItemGroup.ToString
+- uid: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory
+  name: ItemNumberFactory
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.ItemNumberFactory
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory
+  nameWithType: ItemNumberFactory
+- uid: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber(System.String)
+  name: CreateItemNumber(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.html#Hsm_BaseTypes_ItemNumbers_ItemNumberFactory_CreateItemNumber_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber(System.String)
+  nameWithType: ItemNumberFactory.CreateItemNumber(String)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber*
+  name: CreateItemNumber
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.html#Hsm_BaseTypes_ItemNumbers_ItemNumberFactory_CreateItemNumber_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.CreateItemNumber
+  nameWithType: ItemNumberFactory.CreateItemNumber
+- uid: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber(System.String,Hsm.BaseTypes.ItemNumbers.IItemNumber@)
+  name: TryCreateItemNumber(String, out IItemNumber)
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.html#Hsm_BaseTypes_ItemNumbers_ItemNumberFactory_TryCreateItemNumber_System_String_Hsm_BaseTypes_ItemNumbers_IItemNumber__
+  commentId: M:Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber(System.String,Hsm.BaseTypes.ItemNumbers.IItemNumber@)
+  name.vb: TryCreateItemNumber(String, ByRef IItemNumber)
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber(System.String, out Hsm.BaseTypes.ItemNumbers.IItemNumber)
+  fullName.vb: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber(System.String, ByRef Hsm.BaseTypes.ItemNumbers.IItemNumber)
+  nameWithType: ItemNumberFactory.TryCreateItemNumber(String, out IItemNumber)
+  nameWithType.vb: ItemNumberFactory.TryCreateItemNumber(String, ByRef IItemNumber)
+- uid: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber*
+  name: TryCreateItemNumber
+  href: api/Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.html#Hsm_BaseTypes_ItemNumbers_ItemNumberFactory_TryCreateItemNumber_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.ItemNumberFactory.TryCreateItemNumber
+  nameWithType: ItemNumberFactory.TryCreateItemNumber
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation
+  name: SpecialPresentation
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.SpecialPresentation
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation
+  nameWithType: SpecialPresentation
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor(System.String)
+  name: SpecialPresentation(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.SpecialPresentation(System.String)
+  nameWithType: SpecialPresentation.SpecialPresentation(String)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor(System.UInt32)
+  name: SpecialPresentation(UInt32)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation__ctor_System_UInt32_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor(System.UInt32)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.SpecialPresentation(System.UInt32)
+  nameWithType: SpecialPresentation.SpecialPresentation(UInt32)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor*
+  name: SpecialPresentation
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation__ctor_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.SpecialPresentation
+  nameWithType: SpecialPresentation.SpecialPresentation
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: CompareTo(SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_CompareTo_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.CompareTo(SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo*
+  name: CompareTo
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_CompareTo_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.CompareTo
+  nameWithType: SpecialPresentation.CompareTo
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: Equals(SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Equals_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.Equals(SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals(System.Object)
+  nameWithType: SpecialPresentation.Equals(Object)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Equals_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equals
+  nameWithType: SpecialPresentation.Equals
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_GetHashCode
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode()
+  nameWithType: SpecialPresentation.GetHashCode()
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GetHashCode
+  nameWithType: SpecialPresentation.GetHashCode
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Equality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: Equality(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_Equality_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Equality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.Equality(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Equality
+  nameWithType: SpecialPresentation.Equality
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: GreaterThan(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_GreaterThan_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GreaterThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.GreaterThan(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThan*
+  name: GreaterThan
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_GreaterThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GreaterThan
+  nameWithType: SpecialPresentation.GreaterThan
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: GreaterThanOrEqual(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_GreaterThanOrEqual_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GreaterThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.GreaterThanOrEqual(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_GreaterThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.GreaterThanOrEqual
+  nameWithType: SpecialPresentation.GreaterThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Inequality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: Inequality(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_Inequality_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Inequality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Inequality(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.Inequality(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.Inequality
+  nameWithType: SpecialPresentation.Inequality
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: LessThan(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_LessThan_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.LessThan(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.LessThan(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThan*
+  name: LessThan
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_LessThan_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThan
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.LessThan
+  nameWithType: SpecialPresentation.LessThan
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  name: LessThanOrEqual(SpecialPresentation, SpecialPresentation)
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_LessThanOrEqual_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_Hsm_BaseTypes_ItemNumbers_SpecialPresentation_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation,Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.LessThanOrEqual(Hsm.BaseTypes.ItemNumbers.SpecialPresentation, Hsm.BaseTypes.ItemNumbers.SpecialPresentation)
+  nameWithType: SpecialPresentation.LessThanOrEqual(SpecialPresentation, SpecialPresentation)
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_op_LessThanOrEqual_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.LessThanOrEqual
+  nameWithType: SpecialPresentation.LessThanOrEqual
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString()
+  nameWithType: SpecialPresentation.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.SpecialPresentation.html#Hsm_BaseTypes_ItemNumbers_SpecialPresentation_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.SpecialPresentation.ToString
+  nameWithType: SpecialPresentation.ToString
 - uid: Hsm.BaseTypes.NumberDefinition
   name: Hsm.BaseTypes.NumberDefinition
   href: api/Hsm.BaseTypes.NumberDefinition.html
@@ -3390,14 +3390,14 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode)
   nameWithType: AbstractEuiQrCode<TQrCode>
   nameWithType.vb: AbstractEuiQrCode(Of TQrCode)
-- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.IEui)
-  name: AbstractEuiQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, IEui)
-  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_IEui_
-  commentId: M:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.IEui)
-  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.AbstractEuiQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.IEui)
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.IEui)
-  nameWithType: AbstractEuiQrCode<TQrCode>.AbstractEuiQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, IEui)
-  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, IEui)
+- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.IEui)
+  name: AbstractEuiQrCode(ProductTypeCode, IItemNumber, ISerialNumber, IEui)
+  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_IEui_
+  commentId: M:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.IEui)
+  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.AbstractEuiQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.IEui)
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.IEui)
+  nameWithType: AbstractEuiQrCode<TQrCode>.AbstractEuiQrCode(ProductTypeCode, IItemNumber, ISerialNumber, IEui)
+  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode(ProductTypeCode, IItemNumber, ISerialNumber, IEui)
 - uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.#ctor*
   name: AbstractEuiQrCode
   href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1__ctor_
@@ -3407,23 +3407,6 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode
   nameWithType: AbstractEuiQrCode<TQrCode>.AbstractEuiQrCode
   nameWithType.vb: AbstractEuiQrCode(Of TQrCode).AbstractEuiQrCode
-- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ArticleNumber
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ArticleNumber
-  commentId: P:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ArticleNumber
-  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.ArticleNumber
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).ArticleNumber
-  nameWithType: AbstractEuiQrCode<TQrCode>.ArticleNumber
-  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).ArticleNumber
-- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ArticleNumber*
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.ArticleNumber
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).ArticleNumber
-  nameWithType: AbstractEuiQrCode<TQrCode>.ArticleNumber
-  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).ArticleNumber
 - uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ContentTypeDefinition
   name: ContentTypeDefinition
   href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ContentTypeDefinition
@@ -3517,6 +3500,23 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).GetHashCode
   nameWithType: AbstractEuiQrCode<TQrCode>.GetHashCode
   nameWithType.vb: AbstractEuiQrCode(Of TQrCode).GetHashCode
+- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ItemNumber
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ItemNumber
+  commentId: P:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ItemNumber
+  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.ItemNumber
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).ItemNumber
+  nameWithType: AbstractEuiQrCode<TQrCode>.ItemNumber
+  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).ItemNumber
+- uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ItemNumber*
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ItemNumber_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode<TQrCode>.ItemNumber
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode(Of TQrCode).ItemNumber
+  nameWithType: AbstractEuiQrCode<TQrCode>.ItemNumber
+  nameWithType.vb: AbstractEuiQrCode(Of TQrCode).ItemNumber
 - uid: Hsm.BaseTypes.QrCodes.AbstractEuiQrCode`1.ProductTypeCode
   name: ProductTypeCode
   href: api/Hsm.BaseTypes.QrCodes.AbstractEuiQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractEuiQrCode_1_ProductTypeCode
@@ -3594,14 +3594,14 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode)
   nameWithType: AbstractSerialNumberQrCode<TQrCode>
   nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode)
-- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  name: AbstractSerialNumberQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
-  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
-  commentId: M:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.AbstractSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  nameWithType: AbstractSerialNumberQrCode<TQrCode>.AbstractSerialNumberQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
-  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
+- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  name: AbstractSerialNumberQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
+  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
+  commentId: M:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.AbstractSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  nameWithType: AbstractSerialNumberQrCode<TQrCode>.AbstractSerialNumberQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
+  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
 - uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor*
   name: AbstractSerialNumberQrCode
   href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_
@@ -3611,23 +3611,6 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode
   nameWithType: AbstractSerialNumberQrCode<TQrCode>.AbstractSerialNumberQrCode
   nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).AbstractSerialNumberQrCode
-- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ArticleNumber
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ArticleNumber
-  commentId: P:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ArticleNumber
-  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.ArticleNumber
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).ArticleNumber
-  nameWithType: AbstractSerialNumberQrCode<TQrCode>.ArticleNumber
-  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).ArticleNumber
-- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ArticleNumber*
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.ArticleNumber
-  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).ArticleNumber
-  nameWithType: AbstractSerialNumberQrCode<TQrCode>.ArticleNumber
-  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).ArticleNumber
 - uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ContentTypeDefinition
   name: ContentTypeDefinition
   href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ContentTypeDefinition
@@ -3687,6 +3670,23 @@ references:
   fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).GetHashCode
   nameWithType: AbstractSerialNumberQrCode<TQrCode>.GetHashCode
   nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).GetHashCode
+- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ItemNumber
+  commentId: P:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber
+  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.ItemNumber
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).ItemNumber
+  nameWithType: AbstractSerialNumberQrCode<TQrCode>.ItemNumber
+  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).ItemNumber
+- uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber*
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ItemNumber_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode<TQrCode>.ItemNumber
+  fullName.vb: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode(Of TQrCode).ItemNumber
+  nameWithType: AbstractSerialNumberQrCode<TQrCode>.ItemNumber
+  nameWithType.vb: AbstractSerialNumberQrCode(Of TQrCode).ItemNumber
 - uid: Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ProductTypeCode
   name: ProductTypeCode
   href: api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ProductTypeCode
@@ -3744,12 +3744,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode
   fullName: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode
   nameWithType: AnalogDispenserAndAdditionalDevicesQrCode
-- uid: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  name: AnalogDispenserAndAdditionalDevicesQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
-  href: api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.html#Hsm_BaseTypes_QrCodes_AnalogDispenserAndAdditionalDevicesQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
-  commentId: M:Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  fullName: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.AnalogDispenserAndAdditionalDevicesQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  nameWithType: AnalogDispenserAndAdditionalDevicesQrCode.AnalogDispenserAndAdditionalDevicesQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
+- uid: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  name: AnalogDispenserAndAdditionalDevicesQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
+  href: api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.html#Hsm_BaseTypes_QrCodes_AnalogDispenserAndAdditionalDevicesQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
+  commentId: M:Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.AnalogDispenserAndAdditionalDevicesQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  nameWithType: AnalogDispenserAndAdditionalDevicesQrCode.AnalogDispenserAndAdditionalDevicesQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
 - uid: Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.#ctor*
   name: AnalogDispenserAndAdditionalDevicesQrCode
   href: api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.html#Hsm_BaseTypes_QrCodes_AnalogDispenserAndAdditionalDevicesQrCode__ctor_
@@ -4056,12 +4056,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode
   fullName: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode
   nameWithType: DeviceWithNetworkInterfaceQrCode
-- uid: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
-  name: DeviceWithNetworkInterfaceQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui48)
-  href: api/Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithNetworkInterfaceQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui48_
-  commentId: M:Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
-  fullName: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.DeviceWithNetworkInterfaceQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui48)
-  nameWithType: DeviceWithNetworkInterfaceQrCode.DeviceWithNetworkInterfaceQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui48)
+- uid: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
+  name: DeviceWithNetworkInterfaceQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui48)
+  href: api/Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithNetworkInterfaceQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui48_
+  commentId: M:Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
+  fullName: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.DeviceWithNetworkInterfaceQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui48)
+  nameWithType: DeviceWithNetworkInterfaceQrCode.DeviceWithNetworkInterfaceQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui48)
 - uid: Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.#ctor*
   name: DeviceWithNetworkInterfaceQrCode
   href: api/Hsm.BaseTypes.QrCodes.DeviceWithNetworkInterfaceQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithNetworkInterfaceQrCode__ctor_
@@ -4188,12 +4188,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode
   fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode
   nameWithType: DeviceWithoutSerialNumberQrCode
-- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber)
-  name: DeviceWithoutSerialNumberQrCode(ProductTypeCode, IArticleNumber)
-  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_
-  commentId: M:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber)
-  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber)
-  nameWithType: DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode(ProductTypeCode, IArticleNumber)
+- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber)
+  name: DeviceWithoutSerialNumberQrCode(ProductTypeCode, IItemNumber)
+  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_
+  commentId: M:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber)
+  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber)
+  nameWithType: DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode(ProductTypeCode, IItemNumber)
 - uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.#ctor*
   name: DeviceWithoutSerialNumberQrCode
   href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode__ctor_
@@ -4201,19 +4201,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode
   nameWithType: DeviceWithoutSerialNumberQrCode.DeviceWithoutSerialNumberQrCode
-- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_ArticleNumber
-  commentId: P:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber
-  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber
-  nameWithType: DeviceWithoutSerialNumberQrCode.ArticleNumber
-- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber*
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_ArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ArticleNumber
-  nameWithType: DeviceWithoutSerialNumberQrCode.ArticleNumber
 - uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ContentTypeDefinition
   name: ContentTypeDefinition
   href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_ContentTypeDefinition
@@ -4278,6 +4265,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.GetHashCode
   nameWithType: DeviceWithoutSerialNumberQrCode.GetHashCode
+- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_ItemNumber
+  commentId: P:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber
+  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber
+  nameWithType: DeviceWithoutSerialNumberQrCode.ItemNumber
+- uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber*
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_ItemNumber_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.ItemNumber
+  nameWithType: DeviceWithoutSerialNumberQrCode.ItemNumber
 - uid: Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.op_Equality(Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode,Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode)
   name: Equality(DeviceWithoutSerialNumberQrCode, DeviceWithoutSerialNumberQrCode)
   href: api/Hsm.BaseTypes.QrCodes.DeviceWithoutSerialNumberQrCode.html#Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_op_Equality_Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_Hsm_BaseTypes_QrCodes_DeviceWithoutSerialNumberQrCode_
@@ -4352,12 +4352,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode
   fullName: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode
   nameWithType: FourPlusDispenserQrCode
-- uid: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
-  name: FourPlusDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui48)
-  href: api/Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html#Hsm_BaseTypes_QrCodes_FourPlusDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui48_
-  commentId: M:Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
-  fullName: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.FourPlusDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui48)
-  nameWithType: FourPlusDispenserQrCode.FourPlusDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui48)
+- uid: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
+  name: FourPlusDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui48)
+  href: api/Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html#Hsm_BaseTypes_QrCodes_FourPlusDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui48_
+  commentId: M:Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui48)
+  fullName: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.FourPlusDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui48)
+  nameWithType: FourPlusDispenserQrCode.FourPlusDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui48)
 - uid: Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.#ctor*
   name: FourPlusDispenserQrCode
   href: api/Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html#Hsm_BaseTypes_QrCodes_FourPlusDispenserQrCode__ctor_
@@ -4484,12 +4484,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.HybridDispenserQrCode
   fullName: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode
   nameWithType: HybridDispenserQrCode
-- uid: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui64)
-  name: HybridDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui64)
-  href: api/Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.html#Hsm_BaseTypes_QrCodes_HybridDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui64_
-  commentId: M:Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui64)
-  fullName: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.HybridDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui64)
-  nameWithType: HybridDispenserQrCode.HybridDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber, Eui64)
+- uid: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui64)
+  name: HybridDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui64)
+  href: api/Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.html#Hsm_BaseTypes_QrCodes_HybridDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_Hsm_BaseTypes_Eui_Eui64_
+  commentId: M:Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,Hsm.BaseTypes.Eui.Eui64)
+  fullName: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.HybridDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, Hsm.BaseTypes.Eui.Eui64)
+  nameWithType: HybridDispenserQrCode.HybridDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber, Eui64)
 - uid: Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.#ctor*
   name: HybridDispenserQrCode
   href: api/Hsm.BaseTypes.QrCodes.HybridDispenserQrCode.html#Hsm_BaseTypes_QrCodes_HybridDispenserQrCode__ctor_
@@ -4635,19 +4635,6 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.IQrCode
   fullName: Hsm.BaseTypes.QrCodes.IQrCode
   nameWithType: IQrCode
-- uid: Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ArticleNumber
-  commentId: P:Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber
-  fullName: Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber
-  nameWithType: IQrCode.ArticleNumber
-- uid: Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber*
-  name: ArticleNumber
-  href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ArticleNumber_
-  commentId: Overload:Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.QrCodes.IQrCode.ArticleNumber
-  nameWithType: IQrCode.ArticleNumber
 - uid: Hsm.BaseTypes.QrCodes.IQrCode.ContentTypeDefinition
   name: ContentTypeDefinition
   href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ContentTypeDefinition
@@ -4661,6 +4648,19 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.QrCodes.IQrCode.ContentTypeDefinition
   nameWithType: IQrCode.ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ItemNumber
+  commentId: P:Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber
+  fullName: Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber
+  nameWithType: IQrCode.ItemNumber
+- uid: Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber*
+  name: ItemNumber
+  href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ItemNumber_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.IQrCode.ItemNumber
+  nameWithType: IQrCode.ItemNumber
 - uid: Hsm.BaseTypes.QrCodes.IQrCode.ProductTypeCode
   name: ProductTypeCode
   href: api/Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ProductTypeCode
@@ -4783,12 +4783,12 @@ references:
   commentId: T:Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode
   fullName: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode
   nameWithType: SyntacticallyIncorrectAnalogDispenserQrCode
-- uid: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  name: SyntacticallyIncorrectAnalogDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
-  href: api/Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.html#Hsm_BaseTypes_QrCodes_SyntacticallyIncorrectAnalogDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ArticleNumbers_IArticleNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
-  commentId: M:Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ArticleNumbers.IArticleNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  fullName: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.SyntacticallyIncorrectAnalogDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ArticleNumbers.IArticleNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
-  nameWithType: SyntacticallyIncorrectAnalogDispenserQrCode.SyntacticallyIncorrectAnalogDispenserQrCode(ProductTypeCode, IArticleNumber, ISerialNumber)
+- uid: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  name: SyntacticallyIncorrectAnalogDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
+  href: api/Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.html#Hsm_BaseTypes_QrCodes_SyntacticallyIncorrectAnalogDispenserQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
+  commentId: M:Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.SyntacticallyIncorrectAnalogDispenserQrCode(Hsm.BaseTypes.SerialNumbers.ProductTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  nameWithType: SyntacticallyIncorrectAnalogDispenserQrCode.SyntacticallyIncorrectAnalogDispenserQrCode(ProductTypeCode, IItemNumber, ISerialNumber)
 - uid: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.#ctor*
   name: SyntacticallyIncorrectAnalogDispenserQrCode
   href: api/Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.html#Hsm_BaseTypes_QrCodes_SyntacticallyIncorrectAnalogDispenserQrCode__ctor_
@@ -5467,18 +5467,18 @@ references:
   commentId: T:Hsm.BaseTypes.SerialNumbers.ProductTypeCode
   fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode
   nameWithType: ProductTypeCode
-- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.Int32)
-  name: ProductTypeCode(Int32)
-  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_Int32_
-  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.Int32)
-  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ProductTypeCode(System.Int32)
-  nameWithType: ProductTypeCode.ProductTypeCode(Int32)
 - uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.String)
   name: ProductTypeCode(String)
   href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_String_
   commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.String)
   fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ProductTypeCode(System.String)
   nameWithType: ProductTypeCode.ProductTypeCode(String)
+- uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.UInt16)
+  name: ProductTypeCode(UInt16)
+  href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_UInt16_
+  commentId: M:Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.UInt16)
+  fullName: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ProductTypeCode(System.UInt16)
+  nameWithType: ProductTypeCode.ProductTypeCode(UInt16)
 - uid: Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor*
   name: ProductTypeCode
   href: api/Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html#Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_

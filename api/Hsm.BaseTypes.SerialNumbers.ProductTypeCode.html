@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Struct ProductTypeCode
    ">
-    <meta name="generator" content="docfx 2.56.7.0">
+    <meta name="generator" content="docfx 2.58.4.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -97,60 +97,13 @@
   <h6><strong>Assembly</strong>: Hsm.BaseTypes.dll</h6>
   <h5 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public struct ProductTypeCode : IEquatable&lt;ProductTypeCode&gt;, IComparable&lt;ProductTypeCode&gt;</code></pre>
+    <pre><code class="lang-csharp hljs">public readonly struct ProductTypeCode : IEquatable&lt;ProductTypeCode&gt;, IComparable&lt;ProductTypeCode&gt;</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=18">View Source</a>
-  </span>
-  <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor*"></a>
-  <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_Int32_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.Int32)">ProductTypeCode(Int32)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html">ProductTypeCode</a> struct.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ProductTypeCode(int productTypeCode)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">productTypeCode</span></td>
-        <td><p>The product-type code.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  <h5 class="exceptions">Exceptions</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Condition</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.ArgumentException</span></td>
-        <td><p><code data-dev-comment-type="paramref" class="paramref">productTypeCode</code> casted integer value is smaller than 2000 or bigger than 3999.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=36">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=37">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_String_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.String)">ProductTypeCode(String)</h4>
@@ -210,11 +163,58 @@
       </tr>
     </tbody>
   </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=19">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor*"></a>
+  <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode__ctor_System_UInt16_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.#ctor(System.UInt16)">ProductTypeCode(UInt16)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html">ProductTypeCode</a> struct.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ProductTypeCode(ushort productTypeCode)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.UInt16</span></td>
+        <td><span class="parametername">productTypeCode</span></td>
+        <td><p>The product-type code.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ArgumentException</span></td>
+        <td><p><code data-dev-comment-type="paramref" class="paramref">productTypeCode</code> casted integer value is smaller than 2000 or bigger than 3999.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=119">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=121">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_CompareTo_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_CompareTo_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.CompareTo(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">CompareTo(ProductTypeCode)</h4>
@@ -222,7 +222,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int CompareTo(ProductTypeCode other)</code></pre>
+    <pre><code class="lang-csharp hljs">public readonly int CompareTo(ProductTypeCode other)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -258,7 +258,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=102">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=104">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">Equals(ProductTypeCode)</h4>
@@ -266,7 +266,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public bool Equals(ProductTypeCode other)</code></pre>
+    <pre><code class="lang-csharp hljs">public readonly bool Equals(ProductTypeCode other)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -302,7 +302,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=106">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=108">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Equals_System_Object_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.Equals(System.Object)">Equals(Object)</h4>
@@ -310,7 +310,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override bool Equals(object obj)</code></pre>
+    <pre><code class="lang-csharp hljs">public override readonly bool Equals(object obj)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -348,7 +348,7 @@
   <div><span class="xref">System.ValueType.Equals(System.Object)</span></div>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=91">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=92">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_FromInt16_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_FromInt16_System_Int16_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.FromInt16(System.Int16)">FromInt16(Int16)</h4>
@@ -411,7 +411,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=110">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=112">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_GetHashCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_GetHashCode" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.GetHashCode">GetHashCode()</h4>
@@ -419,7 +419,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override int GetHashCode()</code></pre>
+    <pre><code class="lang-csharp hljs">public override readonly int GetHashCode()</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -440,7 +440,7 @@
   <div><span class="xref">System.ValueType.GetHashCode()</span></div>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=98">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=100">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToInt16_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToInt16" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToInt16">ToInt16()</h4>
@@ -449,7 +449,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public short ToInt16()</code></pre>
+    <pre><code class="lang-csharp hljs">public readonly short ToInt16()</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -469,7 +469,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=113">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=115">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToString_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_ToString" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.ToString">ToString()</h4>
@@ -477,7 +477,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override string ToString()</code></pre>
+    <pre><code class="lang-csharp hljs">public override readonly string ToString()</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -500,7 +500,7 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=67">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=68">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Equality_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Equality_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Equality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">Equality(ProductTypeCode, ProductTypeCode)</h4>
@@ -549,7 +549,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=61">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=62">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_Hsm_BaseTypes_SerialNumbers_ProductTypeCode__System_Int16" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(Hsm.BaseTypes.SerialNumbers.ProductTypeCode)~System.Int16">Explicit(ProductTypeCode to Int16)</h4>
@@ -593,7 +593,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=64">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=65">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Explicit_System_Int16__Hsm_BaseTypes_SerialNumbers_ProductTypeCode" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Explicit(System.Int16)~Hsm.BaseTypes.SerialNumbers.ProductTypeCode">Explicit(Int16 to ProductTypeCode)</h4>
@@ -637,7 +637,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=76">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=77">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThan_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThan_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">GreaterThan(ProductTypeCode, ProductTypeCode)</h4>
@@ -686,7 +686,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=82">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=83">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThanOrEqual_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_GreaterThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_GreaterThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">GreaterThanOrEqual(ProductTypeCode, ProductTypeCode)</h4>
@@ -735,7 +735,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=70">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=71">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Inequality_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_Inequality_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_Inequality(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">Inequality(ProductTypeCode, ProductTypeCode)</h4>
@@ -784,7 +784,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=73">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=74">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThan_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThan_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThan(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">LessThan(ProductTypeCode, ProductTypeCode)</h4>
@@ -833,7 +833,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=79">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=80">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThanOrEqual_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual*"></a>
   <h4 id="Hsm_BaseTypes_SerialNumbers_ProductTypeCode_op_LessThanOrEqual_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_" data-uid="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.op_LessThanOrEqual(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.SerialNumbers.ProductTypeCode)">LessThanOrEqual(ProductTypeCode, ProductTypeCode)</h4>
@@ -895,7 +895,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBfix/stack_overflow_in_qrcode_equals&amp;line=9" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/SerialNumbers/ProductTypeCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
