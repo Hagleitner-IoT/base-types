@@ -132,16 +132,16 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=22">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=22">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor*"></a>
-  <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ProductTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ProductTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)">AbstractSerialNumberQrCode(ProductTypeCode, IItemNumber, ISerialNumber)</h4>
+  <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1__ctor_Hsm_BaseTypes_SerialNumbers_ComponentTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.#ctor(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)">AbstractSerialNumberQrCode(ComponentTypeCode, IItemNumber, ISerialNumber)</h4>
   <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html">AbstractSerialNumberQrCode&lt;TQrCode&gt;</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected AbstractSerialNumberQrCode(ProductTypeCode productTypeCode, IItemNumber itemNumber, ISerialNumber serialNumber)</code></pre>
+    <pre><code class="lang-csharp hljs">protected AbstractSerialNumberQrCode(ComponentTypeCode componentTypeCode, IItemNumber itemNumber, ISerialNumber serialNumber)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -154,9 +154,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html">ProductTypeCode</a></td>
-        <td><span class="parametername">productTypeCode</span></td>
-        <td><p>The <a class="xref" href="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ProductTypeCode">ProductTypeCode</a> of a <a class="xref" href="Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html">FourPlusDispenserQrCode</a>.</p>
+        <td><a class="xref" href="Hsm.BaseTypes.SerialNumbers.ComponentTypeCode.html">ComponentTypeCode</a></td>
+        <td><span class="parametername">componentTypeCode</span></td>
+        <td><p>The <a class="xref" href="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html#Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ComponentTypeCode">ComponentTypeCode</a> of a <a class="xref" href="Hsm.BaseTypes.QrCodes.FourPlusDispenserQrCode.html">FourPlusDispenserQrCode</a>.</p>
 </td>
       </tr>
       <tr>
@@ -198,7 +198,35 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=30">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=33">View Source</a>
+  </span>
+  <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ComponentTypeCode_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ComponentTypeCode*"></a>
+  <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ComponentTypeCode" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ComponentTypeCode">ComponentTypeCode</h4>
+  <div class="markdown level1 summary"><p>Gets the <a class="xref" href="Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ComponentTypeCode">ComponentTypeCode</a> of the given <a class="xref" href="Hsm.BaseTypes.QrCodes.IQrCode.html">IQrCode</a> implementation.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ComponentTypeCode ComponentTypeCode { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Hsm.BaseTypes.SerialNumbers.ComponentTypeCode.html">ComponentTypeCode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=30">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ContentTypeDefinition_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ContentTypeDefinition*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ContentTypeDefinition" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ContentTypeDefinition">ContentTypeDefinition</h4>
@@ -226,7 +254,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=36">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=36">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ItemNumber_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ItemNumber" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ItemNumber">ItemNumber</h4>
@@ -254,35 +282,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=33">View Source</a>
-  </span>
-  <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ProductTypeCode_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ProductTypeCode*"></a>
-  <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ProductTypeCode" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ProductTypeCode">ProductTypeCode</h4>
-  <div class="markdown level1 summary"><p>Gets the <a class="xref" href="Hsm.BaseTypes.QrCodes.IQrCode.html#Hsm_BaseTypes_QrCodes_IQrCode_ProductTypeCode">ProductTypeCode</a> of the given <a class="xref" href="Hsm.BaseTypes.QrCodes.IQrCode.html">IQrCode</a> implementation.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ProductTypeCode ProductTypeCode { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="Hsm.BaseTypes.SerialNumbers.ProductTypeCode.html">ProductTypeCode</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=39">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=39">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_SerialNumber_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.SerialNumber*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_SerialNumber" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.SerialNumber">SerialNumber</h4>
@@ -312,7 +312,7 @@
   </h3>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=67">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=67">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals__0_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals(`0)">Equals(TQrCode)</h4>
@@ -359,7 +359,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=42">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=42">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_Equals_Hsm_BaseTypes_QrCodes_IQrCode_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.Equals(Hsm.BaseTypes.QrCodes.IQrCode)">Equals(IQrCode)</h4>
@@ -403,7 +403,7 @@
   </table>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=45">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=45">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_GetHashCode_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.GetHashCode*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_GetHashCode" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.GetHashCode">GetHashCode()</h4>
@@ -432,7 +432,7 @@
   <div><span class="xref">System.Object.GetHashCode()</span></div>
   
   <span class="small pull-right mobile-hide">
-    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=48">View Source</a>
+    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=48">View Source</a>
   </span>
   <a id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ToString_" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ToString*"></a>
   <h4 id="Hsm_BaseTypes_QrCodes_AbstractSerialNumberQrCode_1_ToString" data-uid="Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode`1.ToString">ToString()</h4>
@@ -479,7 +479,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBchore/rename_article_to_item&amp;line=10" class="contribution-link">View Source</a>
+                    <a href="https://dev.azure.com/hagleitner-dev/HsM%20BaseTypes/_git/Hsm.BaseTypes?path=src/Hsm.BaseTypes/QrCodes/AbstractSerialNumberQrCode.cs&amp;version=GBrelease/3&amp;line=10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
