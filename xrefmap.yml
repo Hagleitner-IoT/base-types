@@ -495,6 +495,32 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.TimeIntervalOffset
   nameWithType: TimeIntervalOffset.TimeIntervalOffset
+- uid: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html#Hsm_BaseTypes_DateIntervalSpecification_TimeIntervalOffset_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals(System.Object)
+  fullName: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals(System.Object)
+  nameWithType: TimeIntervalOffset.Equals(Object)
+- uid: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html#Hsm_BaseTypes_DateIntervalSpecification_TimeIntervalOffset_Equals_
+  commentId: Overload:Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.Equals
+  nameWithType: TimeIntervalOffset.Equals
+- uid: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html#Hsm_BaseTypes_DateIntervalSpecification_TimeIntervalOffset_GetHashCode
+  commentId: M:Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode
+  fullName: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode()
+  nameWithType: TimeIntervalOffset.GetHashCode()
+- uid: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html#Hsm_BaseTypes_DateIntervalSpecification_TimeIntervalOffset_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.GetHashCode
+  nameWithType: TimeIntervalOffset.GetHashCode
 - uid: Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.OffsetDate(System.DateTimeOffset)
   name: OffsetDate(DateTimeOffset)
   href: api/Hsm.BaseTypes.DateIntervalSpecification.TimeIntervalOffset.html#Hsm_BaseTypes_DateIntervalSpecification_TimeIntervalOffset_OffsetDate_System_DateTimeOffset_
@@ -2191,6 +2217,151 @@ references:
   commentId: N:Hsm.BaseTypes.ItemNumbers
   fullName: Hsm.BaseTypes.ItemNumbers
   nameWithType: Hsm.BaseTypes.ItemNumbers
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber
+  name: AssemblyGroupItemNumber
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html
+  commentId: T:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber
+  nameWithType: AssemblyGroupItemNumber
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.#ctor(Hsm.BaseTypes.ItemNumbers.ItemClass,System.String)
+  name: AssemblyGroupItemNumber(ItemClass, String)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber__ctor_Hsm_BaseTypes_ItemNumbers_ItemClass_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.#ctor(Hsm.BaseTypes.ItemNumbers.ItemClass,System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.AssemblyGroupItemNumber(Hsm.BaseTypes.ItemNumbers.ItemClass, System.String)
+  nameWithType: AssemblyGroupItemNumber.AssemblyGroupItemNumber(ItemClass, String)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.#ctor*
+  name: AssemblyGroupItemNumber
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber__ctor_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.AssemblyGroupItemNumber
+  nameWithType: AssemblyGroupItemNumber.AssemblyGroupItemNumber
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  name: Equals(AssemblyGroupItemNumber)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_Equals_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  nameWithType: AssemblyGroupItemNumber.Equals(AssemblyGroupItemNumber)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(System.Object)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals(System.Object)
+  nameWithType: AssemblyGroupItemNumber.Equals(Object)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_Equals_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equals
+  nameWithType: AssemblyGroupItemNumber.Equals
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_From_System_String_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From(System.String)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From(System.String)
+  nameWithType: AssemblyGroupItemNumber.From(String)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From*
+  name: From
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_From_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.From
+  nameWithType: AssemblyGroupItemNumber.From
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_GetHashCode
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode()
+  nameWithType: AssemblyGroupItemNumber.GetHashCode()
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.GetHashCode
+  nameWithType: AssemblyGroupItemNumber.GetHashCode
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_ItemClass
+  commentId: P:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass
+  nameWithType: AssemblyGroupItemNumber.ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass*
+  name: ItemClass
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_ItemClass_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ItemClass
+  nameWithType: AssemblyGroupItemNumber.ItemClass
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Equality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  name: Equality(AssemblyGroupItemNumber, AssemblyGroupItemNumber)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_op_Equality_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Equality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber, Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  nameWithType: AssemblyGroupItemNumber.Equality(AssemblyGroupItemNumber, AssemblyGroupItemNumber)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Equality
+  nameWithType: AssemblyGroupItemNumber.Equality
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Inequality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  name: Inequality(AssemblyGroupItemNumber, AssemblyGroupItemNumber)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_op_Inequality_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Inequality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Inequality(Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber, Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  nameWithType: AssemblyGroupItemNumber.Inequality(AssemblyGroupItemNumber, AssemblyGroupItemNumber)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.Inequality
+  nameWithType: AssemblyGroupItemNumber.Inequality
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_ToString
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString()
+  nameWithType: AssemblyGroupItemNumber.ToString()
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_ToString_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.ToString
+  nameWithType: AssemblyGroupItemNumber.ToString
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters
+  name: TrailingCharacters
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_TrailingCharacters
+  commentId: P:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters
+  nameWithType: AssemblyGroupItemNumber.TrailingCharacters
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters*
+  name: TrailingCharacters
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_TrailingCharacters_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TrailingCharacters
+  nameWithType: AssemblyGroupItemNumber.TrailingCharacters
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse(System.String,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber@)
+  name: TryParse(String, out AssemblyGroupItemNumber)
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_TryParse_System_String_Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber__
+  commentId: M:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse(System.String,Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber@)
+  name.vb: TryParse(String, ByRef AssemblyGroupItemNumber)
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse(System.String, out Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  fullName.vb: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse(System.String, ByRef Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber)
+  nameWithType: AssemblyGroupItemNumber.TryParse(String, out AssemblyGroupItemNumber)
+  nameWithType.vb: AssemblyGroupItemNumber.TryParse(String, ByRef AssemblyGroupItemNumber)
+- uid: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.html#Hsm_BaseTypes_ItemNumbers_AssemblyGroupItemNumber_TryParse_
+  commentId: Overload:Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.ItemNumbers.AssemblyGroupItemNumber.TryParse
+  nameWithType: AssemblyGroupItemNumber.TryParse
 - uid: Hsm.BaseTypes.ItemNumbers.Container
   name: Container
   href: api/Hsm.BaseTypes.ItemNumbers.Container.html
