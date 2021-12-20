@@ -5,6 +5,30 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html",
+          "hash": "8S0eGRtwqh3zi3WQqzBHvwRB251higFy8mVl7cbgd0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.BCP47.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.BCP47.html",
+          "hash": "ThvYixtBF0BkZRiYxmMuxuZg4Bjy1cm3PmgiVJK33qY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Hsm.BaseTypes.DateIntervalSpecification.AbstractDateTimeOffsetIntervalSpecification.yml",
       "output": {
         ".html": {
@@ -1017,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "nP1udDAAJmRq4Sk0/Ni2cMW5amM9+i2e/m0HZfvi6zU="
+          "hash": "r4p2+Ih7w5alSWbDFLuz5vZhI+UyxS13LIfLyVqC6s8="
         }
       },
       "is_incremental": false,
@@ -1092,7 +1116,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 83,
+          "total_file_count": 85,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

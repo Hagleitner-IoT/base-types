@@ -1,6 +1,75 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: Hsm.BaseTypes.BCP47
+  name: Hsm.BaseTypes.BCP47
+  href: api/Hsm.BaseTypes.BCP47.html
+  commentId: N:Hsm.BaseTypes.BCP47
+  fullName: Hsm.BaseTypes.BCP47
+  nameWithType: Hsm.BaseTypes.BCP47
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher
+  name: LanguageTagMatcher
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html
+  commentId: T:Hsm.BaseTypes.BCP47.LanguageTagMatcher
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher
+  nameWithType: LanguageTagMatcher
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag
+  name: DefaultLanguageTag
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_DefaultLanguageTag
+  commentId: P:Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag
+  nameWithType: LanguageTagMatcher.DefaultLanguageTag
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag*
+  name: DefaultLanguageTag
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_DefaultLanguageTag_
+  commentId: Overload:Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.DefaultLanguageTag
+  nameWithType: LanguageTagMatcher.DefaultLanguageTag
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(NLanguageTag.LanguageTag,NLanguageTag.LanguageTag)
+  name: Match(LanguageTag, LanguageTag)
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_Match_NLanguageTag_LanguageTag_NLanguageTag_LanguageTag_
+  commentId: M:Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(NLanguageTag.LanguageTag,NLanguageTag.LanguageTag)
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(NLanguageTag.LanguageTag, NLanguageTag.LanguageTag)
+  nameWithType: LanguageTagMatcher.Match(LanguageTag, LanguageTag)
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag},System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag})
+  name: Match(IReadOnlyCollection<LanguageTag>, IReadOnlyCollection<LanguageTag>)
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_Match_System_Collections_Generic_IReadOnlyCollection_NLanguageTag_LanguageTag__System_Collections_Generic_IReadOnlyCollection_NLanguageTag_LanguageTag__
+  commentId: M:Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag},System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag})
+  name.vb: Match(IReadOnlyCollection(Of LanguageTag), IReadOnlyCollection(Of LanguageTag))
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(System.Collections.Generic.IReadOnlyCollection<NLanguageTag.LanguageTag>, System.Collections.Generic.IReadOnlyCollection<NLanguageTag.LanguageTag>)
+  fullName.vb: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match(System.Collections.Generic.IReadOnlyCollection(Of NLanguageTag.LanguageTag), System.Collections.Generic.IReadOnlyCollection(Of NLanguageTag.LanguageTag))
+  nameWithType: LanguageTagMatcher.Match(IReadOnlyCollection<LanguageTag>, IReadOnlyCollection<LanguageTag>)
+  nameWithType.vb: LanguageTagMatcher.Match(IReadOnlyCollection(Of LanguageTag), IReadOnlyCollection(Of LanguageTag))
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match*
+  name: Match
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_Match_
+  commentId: Overload:Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.Match
+  nameWithType: LanguageTagMatcher.Match
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(NLanguageTag.LanguageTag,NLanguageTag.LanguageTag)
+  name: MatchOrDefault(LanguageTag, LanguageTag)
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_MatchOrDefault_NLanguageTag_LanguageTag_NLanguageTag_LanguageTag_
+  commentId: M:Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(NLanguageTag.LanguageTag,NLanguageTag.LanguageTag)
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(NLanguageTag.LanguageTag, NLanguageTag.LanguageTag)
+  nameWithType: LanguageTagMatcher.MatchOrDefault(LanguageTag, LanguageTag)
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag},System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag})
+  name: MatchOrDefault(IReadOnlyCollection<LanguageTag>, IReadOnlyCollection<LanguageTag>)
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_MatchOrDefault_System_Collections_Generic_IReadOnlyCollection_NLanguageTag_LanguageTag__System_Collections_Generic_IReadOnlyCollection_NLanguageTag_LanguageTag__
+  commentId: M:Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag},System.Collections.Generic.IReadOnlyCollection{NLanguageTag.LanguageTag})
+  name.vb: MatchOrDefault(IReadOnlyCollection(Of LanguageTag), IReadOnlyCollection(Of LanguageTag))
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(System.Collections.Generic.IReadOnlyCollection<NLanguageTag.LanguageTag>, System.Collections.Generic.IReadOnlyCollection<NLanguageTag.LanguageTag>)
+  fullName.vb: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault(System.Collections.Generic.IReadOnlyCollection(Of NLanguageTag.LanguageTag), System.Collections.Generic.IReadOnlyCollection(Of NLanguageTag.LanguageTag))
+  nameWithType: LanguageTagMatcher.MatchOrDefault(IReadOnlyCollection<LanguageTag>, IReadOnlyCollection<LanguageTag>)
+  nameWithType.vb: LanguageTagMatcher.MatchOrDefault(IReadOnlyCollection(Of LanguageTag), IReadOnlyCollection(Of LanguageTag))
+- uid: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault*
+  name: MatchOrDefault
+  href: api/Hsm.BaseTypes.BCP47.LanguageTagMatcher.html#Hsm_BaseTypes_BCP47_LanguageTagMatcher_MatchOrDefault_
+  commentId: Overload:Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.BCP47.LanguageTagMatcher.MatchOrDefault
+  nameWithType: LanguageTagMatcher.MatchOrDefault
 - uid: Hsm.BaseTypes.DateIntervalSpecification
   name: Hsm.BaseTypes.DateIntervalSpecification
   href: api/Hsm.BaseTypes.DateIntervalSpecification.html
