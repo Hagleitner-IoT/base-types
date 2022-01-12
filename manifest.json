@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.AbstractSerialNumberQrCode-1.html",
-          "hash": "/twNCk2e2EoKQ3qT+3uGdshADVb5NlQb9lIzDZgNMGs="
+          "hash": "M1d/HP8/Yy/cSH1NRX7sbng2NqL6p1DYZRNIdLeXMz8="
         }
       },
       "is_incremental": false,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.AnalogDispenserAndAdditionalDevicesQrCode.html",
-          "hash": "sJREYSKzpfBwU37YNU7nbX8paFBqndB0CmfyMFakeFo="
+          "hash": "yc/ky7D5z2MkkcZ0htwYtZXK6QrDCXIJRho9X8ToHuo="
         }
       },
       "is_incremental": false,
@@ -477,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.ContentTypeDefinition.html",
-          "hash": "SLY2iWaZpg5tjTRnwthtC9gNvOxZKsNxSlkwYVEGrfI="
+          "hash": "ZOJISgiX/rhxAYrMhhcJjcBLRb6ybQ0EAy1jCistbgY="
         }
       },
       "is_incremental": false,
@@ -569,11 +569,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html",
+          "hash": "3QMnC9ODErki8YZne7T8vgqtoWdrmX0GrnNYiHLLXQg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html",
+          "hash": "CjW3JBpkz5fw1UOgk3uKInuJB7kW0Y1roiHB6+AYU1k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeFactory.yml",
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeFactory.html",
-          "hash": "I8Cnzx67CmACBmzG131WaD5PRkSy7QZIsHOzDzOWIJc="
+          "hash": "br2LlUMEnZ0OZoAXHOutmwpfn2jjeu/o70x/oPpDamI="
         }
       },
       "is_incremental": false,
@@ -585,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.QrCodeType.html",
-          "hash": "ErGJsAYtQzWdLbI+uCLQv1hRT7UaBWOqtHHPJmBEE8M="
+          "hash": "3mcu2ti1FYaA3sOtgNy7qXStlQWkO4NiTihCa6kpteo="
         }
       },
       "is_incremental": false,
@@ -609,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Hsm.BaseTypes.QrCodes.html",
-          "hash": "HEjNNdhEw5UVagt5pvNoup/nM6WRFWvRRNqoLxef6f4="
+          "hash": "WY/ES5u67OInqYqEU3DrRpnlx43SC/KNKT4WBvFZDgQ="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "r4p2+Ih7w5alSWbDFLuz5vZhI+UyxS13LIfLyVqC6s8="
+          "hash": "giBMz2cPbdG7QLBFqAm36LQBTCtxAFyTdO29itRiUVY="
         }
       },
       "is_incremental": false,
@@ -1116,7 +1140,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 85,
+          "total_file_count": 87,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

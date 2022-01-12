@@ -5229,6 +5229,151 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.QrCodes.IEuiQrCode.Eui
   nameWithType: IEuiQrCode.Eui
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode
+  name: Integral2GoBasicCasingQrCode
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html
+  commentId: T:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode
+  nameWithType: Integral2GoBasicCasingQrCode
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,System.UInt32)
+  name: Integral2GoBasicCasingQrCode(ComponentTypeCode, IItemNumber, ISerialNumber, UInt32)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ComponentTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_System_UInt32_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber,System.UInt32)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Integral2GoBasicCasingQrCode(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber, System.UInt32)
+  nameWithType: Integral2GoBasicCasingQrCode.Integral2GoBasicCasingQrCode(ComponentTypeCode, IItemNumber, ISerialNumber, UInt32)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.#ctor*
+  name: Integral2GoBasicCasingQrCode
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode__ctor_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Integral2GoBasicCasingQrCode
+  nameWithType: Integral2GoBasicCasingQrCode.Integral2GoBasicCasingQrCode
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition
+  name: ContentTypeDefinition
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_ContentTypeDefinition
+  commentId: P:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition
+  nameWithType: Integral2GoBasicCasingQrCode.ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition*
+  name: ContentTypeDefinition
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_ContentTypeDefinition_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ContentTypeDefinition
+  nameWithType: Integral2GoBasicCasingQrCode.ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  name: Equals(Integral2GoBasicCasingQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_Equals_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  nameWithType: Integral2GoBasicCasingQrCode.Equals(Integral2GoBasicCasingQrCode)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(System.Object)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals(System.Object)
+  nameWithType: Integral2GoBasicCasingQrCode.Equals(Object)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_Equals_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equals
+  nameWithType: Integral2GoBasicCasingQrCode.Equals
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_From_System_String_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From(System.String)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From(System.String)
+  nameWithType: Integral2GoBasicCasingQrCode.From(String)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From*
+  name: From
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_From_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.From
+  nameWithType: Integral2GoBasicCasingQrCode.From
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_GetHashCode
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode()
+  nameWithType: Integral2GoBasicCasingQrCode.GetHashCode()
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.GetHashCode
+  nameWithType: Integral2GoBasicCasingQrCode.GetHashCode
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Equality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  name: Equality(Integral2GoBasicCasingQrCode, Integral2GoBasicCasingQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_op_Equality_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Equality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode, Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  nameWithType: Integral2GoBasicCasingQrCode.Equality(Integral2GoBasicCasingQrCode, Integral2GoBasicCasingQrCode)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Equality
+  nameWithType: Integral2GoBasicCasingQrCode.Equality
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Inequality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  name: Inequality(Integral2GoBasicCasingQrCode, Integral2GoBasicCasingQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_op_Inequality_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Inequality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Inequality(Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode, Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  nameWithType: Integral2GoBasicCasingQrCode.Inequality(Integral2GoBasicCasingQrCode, Integral2GoBasicCasingQrCode)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.Inequality
+  nameWithType: Integral2GoBasicCasingQrCode.Inequality
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue
+  name: PwmValue
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_PwmValue
+  commentId: P:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue
+  nameWithType: Integral2GoBasicCasingQrCode.PwmValue
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue*
+  name: PwmValue
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_PwmValue_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.PwmValue
+  nameWithType: Integral2GoBasicCasingQrCode.PwmValue
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_ToString
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString()
+  nameWithType: Integral2GoBasicCasingQrCode.ToString()
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_ToString_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.ToString
+  nameWithType: Integral2GoBasicCasingQrCode.ToString
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse(System.String,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode@)
+  name: TryParse(String, out Integral2GoBasicCasingQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_TryParse_System_String_Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode__
+  commentId: M:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse(System.String,Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode@)
+  name.vb: TryParse(String, ByRef Integral2GoBasicCasingQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse(System.String, out Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  fullName.vb: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse(System.String, ByRef Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode)
+  nameWithType: Integral2GoBasicCasingQrCode.TryParse(String, out Integral2GoBasicCasingQrCode)
+  nameWithType.vb: Integral2GoBasicCasingQrCode.TryParse(String, ByRef Integral2GoBasicCasingQrCode)
+- uid: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.html#Hsm_BaseTypes_QrCodes_Integral2GoBasicCasingQrCode_TryParse_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.Integral2GoBasicCasingQrCode.TryParse
+  nameWithType: Integral2GoBasicCasingQrCode.TryParse
 - uid: Hsm.BaseTypes.QrCodes.IQrCode
   name: IQrCode
   href: api/Hsm.BaseTypes.QrCodes.IQrCode.html
@@ -5306,6 +5451,138 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.QrCodes.ISerialNumberQrCode.SerialNumber
   nameWithType: ISerialNumberQrCode.SerialNumber
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode
+  name: PumpWithoutParametersQrCode
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html
+  commentId: T:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode
+  nameWithType: PumpWithoutParametersQrCode
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  name: PumpWithoutParametersQrCode(ComponentTypeCode, IItemNumber, ISerialNumber)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode__ctor_Hsm_BaseTypes_SerialNumbers_ComponentTypeCode_Hsm_BaseTypes_ItemNumbers_IItemNumber_Hsm_BaseTypes_SerialNumbers_ISerialNumber_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.#ctor(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode,Hsm.BaseTypes.ItemNumbers.IItemNumber,Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.PumpWithoutParametersQrCode(Hsm.BaseTypes.SerialNumbers.ComponentTypeCode, Hsm.BaseTypes.ItemNumbers.IItemNumber, Hsm.BaseTypes.SerialNumbers.ISerialNumber)
+  nameWithType: PumpWithoutParametersQrCode.PumpWithoutParametersQrCode(ComponentTypeCode, IItemNumber, ISerialNumber)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.#ctor*
+  name: PumpWithoutParametersQrCode
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode__ctor_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.PumpWithoutParametersQrCode
+  nameWithType: PumpWithoutParametersQrCode.PumpWithoutParametersQrCode
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition
+  name: ContentTypeDefinition
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_ContentTypeDefinition
+  commentId: P:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition
+  nameWithType: PumpWithoutParametersQrCode.ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition*
+  name: ContentTypeDefinition
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_ContentTypeDefinition_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ContentTypeDefinition
+  nameWithType: PumpWithoutParametersQrCode.ContentTypeDefinition
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  name: Equals(PumpWithoutParametersQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_Equals_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  nameWithType: PumpWithoutParametersQrCode.Equals(PumpWithoutParametersQrCode)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(System.Object)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals(System.Object)
+  nameWithType: PumpWithoutParametersQrCode.Equals(Object)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_Equals_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equals
+  nameWithType: PumpWithoutParametersQrCode.Equals
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From(System.String)
+  name: From(String)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_From_System_String_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From(System.String)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From(System.String)
+  nameWithType: PumpWithoutParametersQrCode.From(String)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From*
+  name: From
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_From_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.From
+  nameWithType: PumpWithoutParametersQrCode.From
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_GetHashCode
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode()
+  nameWithType: PumpWithoutParametersQrCode.GetHashCode()
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.GetHashCode
+  nameWithType: PumpWithoutParametersQrCode.GetHashCode
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Equality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  name: Equality(PumpWithoutParametersQrCode, PumpWithoutParametersQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_op_Equality_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Equality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode, Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  nameWithType: PumpWithoutParametersQrCode.Equality(PumpWithoutParametersQrCode, PumpWithoutParametersQrCode)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Equality
+  nameWithType: PumpWithoutParametersQrCode.Equality
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Inequality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  name: Inequality(PumpWithoutParametersQrCode, PumpWithoutParametersQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_op_Inequality_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Inequality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Inequality(Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode, Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  nameWithType: PumpWithoutParametersQrCode.Inequality(PumpWithoutParametersQrCode, PumpWithoutParametersQrCode)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.Inequality
+  nameWithType: PumpWithoutParametersQrCode.Inequality
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_ToString
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString()
+  nameWithType: PumpWithoutParametersQrCode.ToString()
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_ToString_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.ToString
+  nameWithType: PumpWithoutParametersQrCode.ToString
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse(System.String,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode@)
+  name: TryParse(String, out PumpWithoutParametersQrCode)
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_TryParse_System_String_Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode__
+  commentId: M:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse(System.String,Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode@)
+  name.vb: TryParse(String, ByRef PumpWithoutParametersQrCode)
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse(System.String, out Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  fullName.vb: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse(System.String, ByRef Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode)
+  nameWithType: PumpWithoutParametersQrCode.TryParse(String, out PumpWithoutParametersQrCode)
+  nameWithType.vb: PumpWithoutParametersQrCode.TryParse(String, ByRef PumpWithoutParametersQrCode)
+- uid: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse*
+  name: TryParse
+  href: api/Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.html#Hsm_BaseTypes_QrCodes_PumpWithoutParametersQrCode_TryParse_
+  commentId: Overload:Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.QrCodes.PumpWithoutParametersQrCode.TryParse
+  nameWithType: PumpWithoutParametersQrCode.TryParse
 - uid: Hsm.BaseTypes.QrCodes.QrCodeFactory
   name: QrCodeFactory
   href: api/Hsm.BaseTypes.QrCodes.QrCodeFactory.html
@@ -5377,6 +5654,18 @@ references:
   commentId: F:Hsm.BaseTypes.QrCodes.QrCodeType.HybridDispenser
   fullName: Hsm.BaseTypes.QrCodes.QrCodeType.HybridDispenser
   nameWithType: QrCodeType.HybridDispenser
+- uid: Hsm.BaseTypes.QrCodes.QrCodeType.Integral2GoBasicCasing
+  name: Integral2GoBasicCasing
+  href: api/Hsm.BaseTypes.QrCodes.QrCodeType.html#Hsm_BaseTypes_QrCodes_QrCodeType_Integral2GoBasicCasing
+  commentId: F:Hsm.BaseTypes.QrCodes.QrCodeType.Integral2GoBasicCasing
+  fullName: Hsm.BaseTypes.QrCodes.QrCodeType.Integral2GoBasicCasing
+  nameWithType: QrCodeType.Integral2GoBasicCasing
+- uid: Hsm.BaseTypes.QrCodes.QrCodeType.PumpWithoutParameters
+  name: PumpWithoutParameters
+  href: api/Hsm.BaseTypes.QrCodes.QrCodeType.html#Hsm_BaseTypes_QrCodes_QrCodeType_PumpWithoutParameters
+  commentId: F:Hsm.BaseTypes.QrCodes.QrCodeType.PumpWithoutParameters
+  fullName: Hsm.BaseTypes.QrCodes.QrCodeType.PumpWithoutParameters
+  nameWithType: QrCodeType.PumpWithoutParameters
 - uid: Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode
   name: SyntacticallyIncorrectAnalogDispenserQrCode
   href: api/Hsm.BaseTypes.QrCodes.SyntacticallyIncorrectAnalogDispenserQrCode.html
