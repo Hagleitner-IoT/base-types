@@ -1568,6 +1568,108 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.Eui.IEui.Type
   nameWithType: IEui.Type
+- uid: Hsm.BaseTypes.Generators.Tokens
+  name: Hsm.BaseTypes.Generators.Tokens
+  href: api/Hsm.BaseTypes.Generators.Tokens.html
+  commentId: N:Hsm.BaseTypes.Generators.Tokens
+  fullName: Hsm.BaseTypes.Generators.Tokens
+  nameWithType: Hsm.BaseTypes.Generators.Tokens
+- uid: Hsm.BaseTypes.Generators.Tokens.Token
+  name: Token
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html
+  commentId: T:Hsm.BaseTypes.Generators.Tokens.Token
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token
+  nameWithType: Token
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.Equals(Hsm.BaseTypes.Generators.Tokens.Token)
+  name: Equals(Token)
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_Equals_Hsm_BaseTypes_Generators_Tokens_Token_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.Equals(Hsm.BaseTypes.Generators.Tokens.Token)
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Equals(Hsm.BaseTypes.Generators.Tokens.Token)
+  nameWithType: Token.Equals(Token)
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_Equals_System_Object_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.Equals(System.Object)
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Equals(System.Object)
+  nameWithType: Token.Equals(Object)
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.Equals*
+  name: Equals
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_Equals_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.Equals
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Equals
+  nameWithType: Token.Equals
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode
+  name: GetHashCode()
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_GetHashCode
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode()
+  nameWithType: Token.GetHashCode()
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode*
+  name: GetHashCode
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_GetHashCode_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.GetHashCode
+  nameWithType: Token.GetHashCode
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.op_Equality(Hsm.BaseTypes.Generators.Tokens.Token,Hsm.BaseTypes.Generators.Tokens.Token)
+  name: Equality(Token, Token)
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_op_Equality_Hsm_BaseTypes_Generators_Tokens_Token_Hsm_BaseTypes_Generators_Tokens_Token_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.op_Equality(Hsm.BaseTypes.Generators.Tokens.Token,Hsm.BaseTypes.Generators.Tokens.Token)
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Equality(Hsm.BaseTypes.Generators.Tokens.Token, Hsm.BaseTypes.Generators.Tokens.Token)
+  nameWithType: Token.Equality(Token, Token)
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.op_Equality*
+  name: Equality
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_op_Equality_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.op_Equality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Equality
+  nameWithType: Token.Equality
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.op_Inequality(Hsm.BaseTypes.Generators.Tokens.Token,Hsm.BaseTypes.Generators.Tokens.Token)
+  name: Inequality(Token, Token)
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_op_Inequality_Hsm_BaseTypes_Generators_Tokens_Token_Hsm_BaseTypes_Generators_Tokens_Token_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.op_Inequality(Hsm.BaseTypes.Generators.Tokens.Token,Hsm.BaseTypes.Generators.Tokens.Token)
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Inequality(Hsm.BaseTypes.Generators.Tokens.Token, Hsm.BaseTypes.Generators.Tokens.Token)
+  nameWithType: Token.Inequality(Token, Token)
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.op_Inequality*
+  name: Inequality
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_op_Inequality_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.op_Inequality
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Inequality
+  nameWithType: Token.Inequality
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.ToString
+  name: ToString()
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_ToString
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.ToString
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.ToString()
+  nameWithType: Token.ToString()
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.ToString*
+  name: ToString
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_ToString_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.ToString
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.ToString
+  nameWithType: Token.ToString
+- uid: Hsm.BaseTypes.Generators.Tokens.TokenGenerator
+  name: TokenGenerator
+  href: api/Hsm.BaseTypes.Generators.Tokens.TokenGenerator.html
+  commentId: T:Hsm.BaseTypes.Generators.Tokens.TokenGenerator
+  fullName: Hsm.BaseTypes.Generators.Tokens.TokenGenerator
+  nameWithType: TokenGenerator
+- uid: Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate(System.Int32)
+  name: Generate(Int32)
+  href: api/Hsm.BaseTypes.Generators.Tokens.TokenGenerator.html#Hsm_BaseTypes_Generators_Tokens_TokenGenerator_Generate_System_Int32_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate(System.Int32)
+  fullName: Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate(System.Int32)
+  nameWithType: TokenGenerator.Generate(Int32)
+- uid: Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate*
+  name: Generate
+  href: api/Hsm.BaseTypes.Generators.Tokens.TokenGenerator.html#Hsm_BaseTypes_Generators_Tokens_TokenGenerator_Generate_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.TokenGenerator.Generate
+  nameWithType: TokenGenerator.Generate
 - uid: Hsm.BaseTypes.Intervals
   name: Hsm.BaseTypes.Intervals
   href: api/Hsm.BaseTypes.Intervals.html

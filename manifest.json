@@ -245,6 +245,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Generators.Tokens.Token.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Generators.Tokens.Token.html",
+          "hash": "1VGCmibIk+K5ZEuAQY8qNcAXqS/XkcZqSloB+A2tCQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Generators.Tokens.TokenGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Generators.Tokens.TokenGenerator.html",
+          "hash": "rDkcxO8tquLsnm/Egd53pfb8N5bnkoMlIRCc758B8wY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Generators.Tokens.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Generators.Tokens.html",
+          "hash": "RJd3YC27ndt3/mZWGXM9kKWtdhm+64Artvssx7/7VAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Hsm.BaseTypes.Intervals.AbstractInterval-1.yml",
       "output": {
         ".html": {
@@ -1065,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "giBMz2cPbdG7QLBFqAm36LQBTCtxAFyTdO29itRiUVY="
+          "hash": "2hDCn+SN/SARYby0MsyOvVrbzR0DC0SHwQqLh59m0FM="
         }
       },
       "is_incremental": false,
@@ -1140,7 +1176,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 87,
+          "total_file_count": 90,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
