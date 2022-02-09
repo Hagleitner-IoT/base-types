@@ -1580,6 +1580,19 @@ references:
   commentId: T:Hsm.BaseTypes.Generators.Tokens.Token
   fullName: Hsm.BaseTypes.Generators.Tokens.Token
   nameWithType: Token
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.#ctor(System.String)
+  name: Token(String)
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token__ctor_System_String_
+  commentId: M:Hsm.BaseTypes.Generators.Tokens.Token.#ctor(System.String)
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Token(System.String)
+  nameWithType: Token.Token(String)
+- uid: Hsm.BaseTypes.Generators.Tokens.Token.#ctor*
+  name: Token
+  href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token__ctor_
+  commentId: Overload:Hsm.BaseTypes.Generators.Tokens.Token.#ctor
+  isSpec: "True"
+  fullName: Hsm.BaseTypes.Generators.Tokens.Token.Token
+  nameWithType: Token.Token
 - uid: Hsm.BaseTypes.Generators.Tokens.Token.Equals(Hsm.BaseTypes.Generators.Tokens.Token)
   name: Equals(Token)
   href: api/Hsm.BaseTypes.Generators.Tokens.Token.html#Hsm_BaseTypes_Generators_Tokens_Token_Equals_Hsm_BaseTypes_Generators_Tokens_Token_
